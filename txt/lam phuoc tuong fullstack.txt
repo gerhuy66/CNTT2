@@ -1,0 +1,123 @@
+
+Xem CV Online của Lâm Phước Tường
+Lâm Phước Tường
+Full Stack Web Developer
+A guy who loves to have fun with computer and technology. As technology increasingly
+develops, I seek to bridge the gap between the human understanding and the machine using my
+skills as an translator and a coder.
+Games Beacon (June 2020 - July 2020)
+Customer Self-developed
+Description
+- This is an app where people can search the favorite PC
+games, find them at a good sale prices and store them in
+your wishlist's account.
+Team size 1 (Self-developed)
+My position Developer
+My responsibilities
+- Brainstorm the concept
+- Design the database
+- Design the frontend/UI
+- Add features (get the list of games, find their sale
+price, render them, and allow user their input)
+- Optimize the code for better app performance
+- Bug Fixing
+Technologies used
+- ReactJS
+- NodeJS (Express)
+- MongoDB (Mongoose)
+Smith's Movie Night (April 2020 - May 2020)
+Customer Self-developed
+Description
+- This is an app where people can search the movies they
+want, view trailers and mark their favorite movies so they
+can check them out later.
+Team size 1 (Self-developed)
+My position Developer
+My responsibilities
+- Brainstorm the website's concept
+- Design the front-end
+- Add features (render data, add button to show Youtube
+trailer, add an Add to Favorite Button)
+- Optimize code
+- Bug Fixing
+Technologies used - ReactJS
+DOB: 23 July 1991
+Male
++84 078 2910737
+lamphuoctuong@gmail.com
+Ho Chi Minh City, Vietnam
+Website: https://smithl-
+portfolio.netlify.app/
+// SUMMARY
+// PROJECTS
+DACOTEX Group
+August 2015 - June 2018
+Material Purchasing
+Main responsibilities:
+- Source suppliers and manage procurement contracts to import
+fabrics and accessories for a corporation of over 2000
+workers.
+- Control quantity and quality of the materials following the
+factory and clients' requirements.
+Achievements and skills gained: 
+- Develop a network of trustworthy suppliers both in quality
+and payment options for the company to pick and choose.
+- Streamline importing process by partnering with freight
+companies and saved cost in the process.
+Dasan Construction
+Consultant Company
+July 2018 - April 2020
+English - Vietnamese Translator
+- Work in Ben Luc - Long Thanh Expressway Project, an over-
+100km long highway project in Ho Chi Minh City, funded by the
+Asian Development Bank.
+- Work in a team of translators to translate Project document
+and meetings from English to Vietnamese and vice versa,
+Achievements and skills gained: 
+- Interpret for various personnel from Ministry of
+Transportation, including Vice Minister.
+- Gain a certification for Professionalism and Good conduct
+from the Consultant team.
+HTML5/CSS
+JavaScript
+ReactJS (Redux)
+NodeJS (Express)
+MongoDB (Mongoose)
+English Translation - Interpretation
+Logical thinking and creative
+Public Speaking
+Teamwork
+Video gaming
+Martial arts
+Movies
+Sep 2009 - Dec 2012
+Can Tho University
+Major: English - Translation &
+Interpretation
+GPA: 3.75/4
+March 2013 - July 2013
+Can Tho University
+Major: Pedagogy
+Grade: Good
+May 2020 - August 2020
+Coderschool
+Course: Full Stack Web Development
+Study front-end & back-end and the art to
+combine both together
+Certification of Good Conduct from Dasan
+Construction Consultant Team for Ben Luc -
+Long Thanh Project
+2020
+Graduated in Excellency in English
+Translation & Interpretation Course
+2009-2012
+// WORK EXPERIENCE
+// SKILLS
+// INTERESTS
+// EDUCATION
+// CERTIFICATIONS
+// HONORS & AWARDS
+© topcv.vn
+	//PROJECTS
+	Games Beacon
+	Smith's Movie Night

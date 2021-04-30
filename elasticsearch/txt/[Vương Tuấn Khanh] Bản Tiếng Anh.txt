@@ -1,0 +1,167 @@
+
+Xem CV Online của Vuong Tuan khanh
+Vuong Tuan Khanh
+Thu Duc District, Ho Chi Minh,
+  0587.601.494   khanhvuongtuan37@gmail.com   www.facebook.com/cambo.li.9
+HCM University of Education and Technology 10/2017 - 2022
+FUNiX University 1/2020 - 2021
+ATP - Componentpro 4/2019 - present
+Teacher + Teaching Assistant at Mindx 5/2020 - present
+Microsoft Intership 4/2020 - 7/2020
+CoderSchool + Sendo 10/2019 - 12/2019
+First prize in the "Arena Hack Brain" algorithm contest.
+          + Reference: https://bit.ly/2PLhdNs
+Gameloft South East Asia-
+2018
+First prize in the "Shark Tank - Shark Project" start-up project.
+          + Reference: https://bit.ly/38Dmtf0
+UTE -
+2019
+Full scholarship of the "Data Science" course from Developer Circles VietNam Innovation
+Challenge sponsored by Facebook and CoderSchool.
+          + Reference: https://bit.ly/2LRUEWt
+ Facebook -
+2019
+Full Scholarship "FUNIX AI CONNECT WITH KALAPA" FPT -  06/2020
+Top 6 in the "Game Jam" programming contest - HD Creator Team.
+          + Reference: https://bit.ly/38yoclB
+Gameloft South East Asia-
+2018
+Second prize of Hackathon - March 2019.
+          + Reference: https://bit.ly/2LPORAE
+UTE- March 2019
+ Consolation prize for Hackathon - November 2019.
+          + Reference: https://bit.ly/2RLvYT5
+UTE - November
+2019
+Programming Hub Certificates
+          + Reference: https://bitly.com.vn/cNEeT
+UTE - November
+2019
+EDUCATION
+Bachelor of Engineering
+Major: Information Technology
+Bachelor
+Major: Machine Learning
+EXPERIENCE
+Development Team's Member
+Mockup and HTML + Markdown designer for https://www.officecomponent.com/ and https://www.incredium.net/
+Participate in quality assurance, Search Engine Optimization, Document Specialist, Data Analysis, and tester of the FireClick
+project - An online tool that helps control the traffic of websites, and Ultimate Search & Filter Shopify app
+(https://bitly.com.vn/9pMdW)
+Research and compare the competitiveness of the company's products against those of rival companies for the ProsperTasks
+project (https://bitly.com.vn/1e4Q6) - An application to track and manage bugs/tasks in a project.
+HTML + CSS + JS
+Engineering + GTM Intern
+- Reference: 
+       + Engineering: https://bitly.com.vn/RDAmP
+       + GTM: https://bitly.com.vn/6dDvT
+Data Scientist Intern
+          + Designed and developed a database architecture of 7 million records from scratch using SQL and JSON format.
+          + System development and optimization of Machine Learning algorithms used to recommend products to users.
+          + Performance Improvement: Proposed and developed the Combo-Star algorithm - based on the search tree ideology.
+          + Backend development of the KANTA Recommender System.
+          + Reference: https://bitly.com.vn/chlQ0
+ACHIEVEMENTS
+Python Creative Programming Course Certificate
+          + Reference: https://bit.ly/2LQ11JD
+HCMUS -
+2018
+PROJECTS
+KANTA Mobile Application
+(10/2019 - 12/2019)
+Customer E-Commerce Platform
+Description KANTA is an e-commerce application focus on a recommendation system.
+Team size 3
+My position Data Scientist
+My responsibilities
++ Data mining, EDA. Analyzed and built a Recommender System - Content Based.
++ Built a Hybrid Collaborative Filtering algorithm - Item-based and User-based.
++ Built Combo Star feature - a quick proposed solution based on the Search Tree model.
++ Developed NLP, based on TF-IdF and BoW to propose similar products.
++ Github: https://bit.ly/2tgbw2H
++ Youtube: https://bit.ly/2RP0ETu
+Technologies used React Native, MongoDB, Python, NoSQL
+On-Cloud University Ecosystem Project
+(11/2019 - 12/2019)
+Customer Universities
+Description An online university ecosystem that helps solve many practical problems.
+Team size 3
+My position Data Scientist + Product Manager + SQL Developer + C# Developer (WindowForm)
+My responsibilities
++ Data mining, EDA, analyze and build a Recommender System - Content Based.
++ Build functions that create + scan Barcodes and QR codes.
++ Building facial recognition feature with EmguCV library. 
++ Use Bing API for translation function and .NET Mail library.
++ Github: https://bit.ly/2sjPBHs
++ Youtube: https://bit.ly/38zZAZF
+Technologies used React Native, MongoDB, Python, NoSQL, C#, EmguCV, HTML, CSS, JS
+Home Attendance software
+(3/2019 - 4/2019)
+Customer Universities and Remote students
+Description A software that allows students to conduct learning and to take attendance even at home.
+Team size 1
+My position Product Manager + SQL Developer + C# Developer (WindowForm)
+My responsibilities
++ Build functions that create 
++ Scan Barcodes and QR codes feature.
++ Building facial recognition feature with EmguCV library base on Eigen Algorithm.
++ Use Bing API for translation function and .NET Mail library, Facebook SDK.
++ Youtube: https://bit.ly/2PGeW6j
+Technologies used EmguCV, C#
+Someone is out there
+(11/2018 - 12/2018)
+Customer Universities, Parents, Kids
+Description - A game that involves practicing English.
+Team size 3
+My position Product Manager + Unity C# Developer + Interpreters
+My responsibilities
++ Develop ideas and in-game motion
++ Github: https://bit.ly/2EgeNRC
+Technologies used Unity, C#
+© topcv.vn
+	Vuong Tuan Khanh
+	EDUCATION
+	HCM University of Education and Technology
+	10/2017
+	2022
+	FUNiX University
+	1/2020
+	2021
+	EXPERIENCE
+	ATP - Componentpro
+	4/2019
+	present
+	Teacher + Teaching Assistant at Mindx
+	5/2020
+	present
+	Microsoft Intership
+	4/2020
+	7/2020
+	CoderSchool + Sendo
+	10/2019
+	12/2019
+	ACHIEVEMENTS
+	First prize in the "Arena Hack Brain" algorithm contest.           + Reference: https://bit.ly/2PLhdNs
+	Gameloft South East Asia- 2018
+	First prize in the "Shark Tank - Shark Project" start-up project.           + Reference: https://bit.ly/38Dmtf0
+	UTE - 2019
+	Full scholarship of the "Data Science" course from Developer Circles VietNam Innovation Challenge sponsored by Facebook and CoderSchool.           + Reference: https://bit.ly/2LRUEWt
+	Facebook - 2019
+	Full Scholarship "FUNIX AI CONNECT WITH KALAPA"
+	FPT -  06/2020
+	Top 6 in the "Game Jam" programming contest - HD Creator Team.           + Reference: https://bit.ly/38yoclB
+	Gameloft South East Asia- 2018
+	Second prize of Hackathon - March 2019.           + Reference: https://bit.ly/2LPORAE
+	UTE- March 2019
+	Consolation prize for Hackathon - November 2019.           + Reference: https://bit.ly/2RLvYT5
+	UTE - November 2019
+	Programming Hub Certificates           + Reference: https://bitly.com.vn/cNEeT
+	UTE - November 2019
+	Python Creative Programming Course Certificate           + Reference: https://bit.ly/2LQ11JD
+	HCMUS - 2018
+	PROJECTS
+	KANTA Mobile Application
+	On-Cloud University Ecosystem Project
+	Home Attendance software
+	Someone is out there

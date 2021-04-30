@@ -1,0 +1,61 @@
+
+Lâm Kim Sơn
+Fresher/Intern Website Developer
+CONTACT INFORMATION
+Phone 0335678089
+E-Mail lamkimson1998@gmail.com
+Birthday 04/03/1998
+Address 299/30/1B2 Le Quang Sung Street,
+Ward 6, District 6, HCMC.
+EDUCATION
+09/2016-
+01/2021
+Bachelor's degree at Van Hien
+University.
+Major: Information technology
+SKILLS
+Front-End Have experience working with HTML,
+CSS, Vanilla Javascript, Bootstrap,
+ReactJs/Redux.
+Back-End Have experince working with PHP and
+Mysql.
+CMS Have worked with Wordpress's themes
+such as Elementor, Flatsome.
+English Good
+CAREER GOALS
+-To be able to work in a competitive and high
+pressure environment and have the opportunity to
+contribute and develop myself.
+-To be able to handle large projects in the future.
+-Learn and work to become a good programmer in
+the next 2-3 years.
+EXPERIENCE
+7/2017 -
+6/2020
+Part-time Admin Supporter
+MCLARENS (VIETNAM) LTD
+Responsible for checking
+contracts and data received from
+the insured whether it matches
+which was surveyed.
+Accessed to enterprise
+management software and
+perform data analysis of domestic
+enterprise insured projects.
+11/2020-
+01/2021
+Personal Projects
+Technologies shop
++Technologies: HTML, CSS,
+Bootstrap, ReactJs.
++Github: https://github.com/yeahoo1
+23/First-project---Front-end
+Technologies shop
+management
++Technologies: HTML, CSS, JS,
+Bootstrap, PHP and MySQL.
++Github: https://github.com/yeahoo1
+23/First-project---Back-end
+Front-End:
+Back-End:
+© MyCV.vn

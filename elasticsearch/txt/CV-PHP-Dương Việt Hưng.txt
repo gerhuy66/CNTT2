@@ -1,0 +1,81 @@
+
+Xem CV Online của DƯƠNG VIỆT HƯNG
+DƯƠNG VIỆT HƯNG
+PHP Web Developer
+ 06/06/2002
+ Nam
+ 0989634265
+ dvhungg123@gmail.com
+ Ngõ 116 Miếu Đầm , Nam Từ
+Liêm
+ https://www.linkedin.com/in/viet
+hung-0606/
+MỤC TIÊU NGHỀ NGHIỆP
+-Mục tiêu ngắn hạn:
++Kiếm một công việc ổn định với mức
+lương hợp lý.
++Làm việc trong môi trường  chuyên
+nghiệp, năng động.
++Được rèn luyện và nâng cáo các kỹ
+năng.
+-Mục tiêu dài hạn :
++Được thăng tiến trong công việc, có vị
+trí cao và trở thành một lập trình viên
+full stack sau 3-5 năm.
+​KỸ NĂNG
+PHP - Laravel
+Angular
+MySQL
+HTML5 - CSS - Bootstrap - JavaScript -
+TypeScript
+Git
+English
+CODEGYM VIỆT NAM 08/2020 - 01/2021
+HIGH SCHOOL 07/2017 - 07/2020
+CODEGYM VIỆT NAM 08/2020 -  HIỆN TẠI
+-Học cách học.
+-Hoàn thành mọi việc với Kanban.
+-Scrum Essence.
+2020
+Phan Văn Luân : Instructor/Coach/Tutor.
+Codegym Việt Nam
+Email : luan.phan@codegym.vn 
+Mobile: (+84) 867 501 258
+  HỌC VẤN
+PHP Coding Bootcamp.
+THPT Công Nghiệp Việt Trì.
+ KINH NGHIỆM LÀM VIỆC
+Fresher PHP Developer.
+Thành viên nhóm phát triển
+*Dự án ứng dụng quản lý công việc 7G:
+-Mô tả: Xây dựng Website quản lý công việc Online, khách hàng có thể tạo dự án để quản lý
+công việc một mình hoặc theo nhóm. Khách hàng có thể tuỳ chỉnh profile của mình, có thể tạo
+các list và các task công việc và có thể thêm các thành viên khác vào dự án.
+-Nhóm 4 thành viên vận hành theo khung làm việc Scrum trong thời gian 2 Sprint.
+-Công nghệ sử dụng: Spring Boot Rest API, Bảo mật với JWT, Angular, Firebase,
+Bootstrap,Angular Material, v.v
+-Github: https://github.com/thang93g/7G-Chello-Project.git
+Dự án cá nhân:
+*Website bán hàng(sản phẩm của apple)
+-Mô tả: Web bán hàng đơn giản có thể xem sản phẩm, lọc sản phẩm theo loại, xem chi tiết
+thuộc tính sản phẩm và có thể mua hàng, v.v
+-Công nghệ sử dụng: PHP,  Laravel, Bootstrap, Session Cookie, v.v
+-Github: https://github.com/hunggml/webShop.git
+*Website quản lý nhà kho:
+-Mô tả: Web quản lý kho đơn giản , có thể quản lý tất cả các loại sản phẩm và có thể phân loại
+ra, chỉnh sửa , thêm sản phẩm mới vào kho và có thể tìm kiếm theo tên của sản phẩm.
+-Công nghệ sử dụng: PHP, Bootstrap, mô hình MVC
+-GitHub:https://github.com/hunggml/Case-Study2.git
+*Website quản lý thư viện:
+-Mô tả: Web quản lý thư viện cơ bản, có thể thêm và xóa sách và lưu trữ dữ liệu khi tải lại
+trang, v.v.
+-Công nghệ sử dụng: JavaScript, HTML-CSS,OOP
+-Github: https://github.com/hunggml/Case-Study-Module1.git
+ CHỨNG CHỈ
+ NGƯỜI THAM CHIẾU
+ SỞ THÍCH
+Xem phim
+Ngủ
+Mèo
+ Nghe nhạc
+© topcv.vn

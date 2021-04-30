@@ -1,0 +1,54 @@
+
+Xem CV Online của Nguyễn Khánh Hoàng
+NGUYỄN KHÁNH HOÀNG
+Fresher
+ 27/12/1997
+ Male
+ 0335893353
+ hoangnk2712@gmail.com
+ 118 No Trang Guh st, Tan Tien
+ward, Buon Ma Thuot city
+ https://www.facebook.com/chun
+chunmaru29/
+SKILL
+CSS (SCSS)
+Google Firebase
+JavaScript
+HTML
+ReactJS
+Apollo Client, GraphQL
+English
+COLLEGES FPT POLYTECHNIC BUÔN MA THUỘT 08/2018 - 01/2021
+SIMPLE ONLINE QUIZ WEBSITE 03/2020 - 05/2020
+DRAGGABLE KANBAN BOARD (GRADUATION THESIS) 01/2021 - 01/2021
+MEDIA GREAT NUMBER SERVICES COMPANY LIMITED 09/2020 - 12/2020
+ ABOUT ME
+Hi, I am Hoang, a software engineer. I'm researched through many languages but fall in love
+with React and decided to learn it for Web Development, passionate and willing to learn new
+technologies. Hope i can contribute to your company
+  EDUCATION
+Major: Business Information Technology
+GPA: 7.1
+ PERSONAL PROJECT
+Position: Front-end Dev
+Technology: Nodejs, HTML & CSS, Google Firebase.
+Duration: 2 months
+My work in project:
+ - Designing and Customizing theme website.
+ - Creating new feature for website.
+ - Using Firebase Realtime Database for backend.
+ - Deploy web to netlify: https://hoangnkpk01193-frontend.netlify.app/
+Position: Back-end Dev
+Technology: ReactJs + Redux, Material UI, Google Firebase
+Duration: 18 days
+My work in project:
+ - Customizing theme website.
+ - Using Unsplash API for background change.
+ - Write functions with Firebase Cloud Functions for notifications and recent activities.
+ - Using Firebase Realtime Database for backend.
+ - Link: https://github.com/akiiii29/flowwork.asm
+ WORK EXPERIENCE
+Intern
+I had a chance to worked on various skills from back-end to front-end. I spent most of the
+time studying ReactJs, Apollo Client, GraphQL and Strapi for my graduation thesis
+© topcv.vn

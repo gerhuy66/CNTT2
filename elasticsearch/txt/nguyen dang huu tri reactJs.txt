@@ -1,0 +1,64 @@
+
+NGUYEN DANG HUU TRI
+Jonior Front End Developer
+KNOWLEDGE
+Trained at Cybersoft Academy. Javascript NodeJS and
+ReactJS course ( from July 2019 to November 2020).
+Professional Frontend course (from Match 2020 to August
+2020)
+ 
+- Frontend
++/ HTML5, CSS3, JavaScript, Familiar with ES6.
++/ Familiar with handling compatibility issues.
++/ Have knowledge about CSS preprocessor:SASS,SCSS.
+- ReactJS
++/ Familiar with Redux (Redux Devtools extensions)
++/ Familiar with Hook.
++/ Familiar with Bootstrap, Ant Design, Formik - Yup...
+ - Backend
++/ HTTP Framework: Express.js.
++/ Have Knowledge about MVC Model.
++/ Have Knowledge to write RESTful API.
++/ Have knowledge with Socket.io.
++/ Database: NoSQL MongoDB.                       
+MY PROJECTS
+Center management project.
+This is center management project  with online course (including 2
+major components: user and manager). Handling API and designing
+UI website.
+- Check my code:
+https://github.com/tri273543149/Elearning-6
+- Review demo:
+https://www.youtube.com/watch?v=BZmINpCcNm8&t=58s
+Booking trips project.
+Constructing  and intergrating Backend Nodejs (MongoDB database,
+BASIC INFO
+ 01/01/1995
+ Male
+ 0974013314
+ tridang270395@gmail.com
+ Linh Tay, Thu Duc, TP HCM
+ facebook.com/nguyendanghuutri
+ABILITY
+HTML5 & CSS3
+JAVASCRIPT
+REACTJS
+NODEJS - MONGODB
+LANGUAGE
+- Able to read English materials and use it
+to handle problems.
+- Able to use English speaking in normal
+conversation.
+BACHELOR
+- Good bachelor finished professional
+Frontend course and Fullstack NodeJS
+and ReactJS in cybersoft academy.
+Resful API, middlewares...)  and Frontend Reactjs (handling API and
+designing UI website).
+- Check my code:
++/ Backend:
+https://github.com/tri273543149/Xedike-BE-1
++/ Frontend:
+https://github.com/tri273543149/Xedike-FE-1
++/ Review demo:
+https://www.youtube.com/watch?v=D_ChoOWvfXk&t=7s

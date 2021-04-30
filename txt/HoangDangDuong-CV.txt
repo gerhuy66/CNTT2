@@ -1,0 +1,108 @@
+
+Xem CV Online c?a Hoàng ??ng D??ng
+10/2016 - 12/2020 Học viện công nghệ bưu chính viễn thông
+Chuyên ngành: Phát triển ứng dụng
+06/2019 - 4-2020 Công ty Hitex Global
+Fresher Game Development
+- Tham gia các dự án phát triển game của công ty.
+- Lập trình game client bằng Unity.
+- Lập trình game server bằng Smartfox, SocketIO NodeJS,...
+Kĩ năng lập trình - Các ngôn ngữ lập trình thành thạo: C#,C/C++
+- Các ngôn ngữ lập trình khác: Java,JavaScript
+Engine game - Engine thành thạo: Unity
+Kỹ năng làm việc - Kỹ năng làm việc nhóm
+- Kỹ năng làm việc cá nhân
+Hoàng Đăng Dương
+Game Developer
+Ngày sinh:  20/02/1998
+Giới tính:  Nam
+Điện thoại:  0937694555
+Email:  hoangduong20298@gmail.com
+Địa chỉ:  Phạm Ngọc Thạch, Đống Đa, Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+Tôi là một lập trình viên Game và có những định hướng riêng cho bản thân. 
+Một môi trường làm việc năng động với nhiều thử thách sẽ giúp tôi phát triển tốt hơn. 
+- Mục tiêu dài hạn: 
++ Tạo ra được những trò chơi có hàng triệu người dùng
++ Tìm hiểu chuyên sâu về các Engine game và các công nghệ về game.
++ Tìm ra hướng đi mới trong công việc để thỏa mãn đam mê và phục vụ cho xã hội 
++ Được gắn bó lâu dài với công ty trong suốt quá trình phát triển. 
++ Mong muốn phát huy hết khả năng, kỹ năng của mình để đóng góp cho sự thành công của công ty.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+CÁC KỸ NĂNG
+DỰ ÁN
+Stone Age - Sản phẩm cá nhân
+(1/2020 - 4/2020)
+Khách hàng https://play.google.com/store/apps/details?id=com.PunchGame.StoneAge
+Mô tả dự án Phát triển game theo dạng xếp hình
+Số lượng thành viên 1
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game
+Công nghệ sử dụng Unity, C#, Google Admob
+Magic Talent
+(12/2019 - 5/ 2020)
+Khách hàng Hitex Global
+Mô tả dự án Phát triển game theo dạng Turn-based RPGs
+Số lượng thành viên 3
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game client
+Công nghệ sử dụng Unity, C#,MongoDB,SocketIO NodeJS,Google Admob
+Slot Machine
+(9/2019 - 12/2019)
+Khách hàng Bobapop 50 Trần Phú
+Mô tả dự án Game slot machine random số
+Số lượng thành viên 2
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game
+Công nghệ sử dụng Unity, C#
+Vòng quay may mắn
+(9/2019 - 12/2019)
+Khách hàng Bobapop 50 Trần Phú
+Mô tả dự án Game vòng quay may mắn có control tỉ lệ ra phần thưởng
+Số lượng thành viên 2
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game
+Công nghệ sử dụng Unity, C#
+Dream Hero
+(9/2019 - 12/2019)
+Khách hàng Hitex Global
+Mô tả dự án Phát triển game theo dạng Turn-based
+Số lượng thành viên 2
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game client và game server
+Công nghệ sử dụng Unity, C#, SocketIO NodeJS,MongoDB
+Cờ Caro Online
+(8/2019 - 9/2019)
+Khách hàng Hitex Global
+Mô tả dự án - Phát triển game online cờ caro
+Anh Phạm Văn Huy- Giám đốc điều hành
+Công ty cổ phần Hitex Toàn cầu.
+Điện thoại: 0976902451
+Số lượng thành viên 1
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game client và game server
+Công nghệ sử dụng Unity, C#, Java,Smartfox
+Pirate King Offline
+(7/2019 - 8/2019)
+Khách hàng Hitex Global
+Mô tả dự án - Phát triển game offline pirate king chơi với máy
+Số lượng thành viên 1
+Vị trí công việc Developer
+Vai trò trong dự án Lập trình game
+Công nghệ sử dụng Unity, C#
+NGƯỜI THAM CHIẾU
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	KINH NGHIỆM LÀM VIỆC
+	CÁC KỸ NĂNG
+	DỰ ÁN
+	Stone Age - Sản phẩm cá nhân
+	Magic Talent
+	Slot Machine
+	Vòng quay may mắn
+	Dream Hero
+	Cờ Caro Online
+	Pirate King Offline
+	NGƯỜI THAM CHIẾU

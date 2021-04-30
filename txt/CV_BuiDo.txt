@@ -1,0 +1,61 @@
+
+Xem CV Online của BÙI ĐỎ
+OBJECTIVE
+Short-term:
+- Listening, learning to develop, and improving myself more about professional skills, soft skills in Manual
+Software Testing job.
+Long-term:
+- Developing towards Automation Test Engineer.
+EDUCATION
+WORK EXPERIENCE
+ACTIVITIES
+BÙI ĐỎ QC/TESTER
+Oct 10, 2000 Male
+0927 710 663 buido.tnc@gmail.com
+District 7, Ho Chi Minh City http://fb.com/b.red1010
+MAJOR: SOFTWARE APPLICATION
+Nov 2018 - May 2021
+FPT POLYTECHNIC COLLEGE
+CROWD TESTING
+Oct 2020 - Present
+TEST IO
+- Joining the test cycle from Test IO.
+- Finding bugs on websites and apps.
+- Making bug reports.
+- Reproducing bug.
+TESTER
+Aug 2020 - Oct 2020
+PROJECT: AUTOMATION TESTING (AT SCHOOL)
+- Developing test cases and test scripts for website 
+shopping cart.
+- Programming language: Java.
+- Library: TestNG, Selenium WebDriver.
+- Tools: Eclipse IDE, SQL Server.
+DEVELOPER
+May 2020 - Jul 2020
+PROJECT: EMPLOYMENT MANAGER (AT SCHOOL)
+- Developing web applications for small companies.
+- Feature: CRUD, employee and department management statistics.
+- Programming language: HTML5, CSS3, Java.
+- Framework: Boostrap 4, Spring MVC, Hibernate.
+- Tools: Visual Studio Code, Eclipse IDE, SQL Server.
+VOLUNTEERS
+Oct 5, 2020
+NIGHT TIME VOLUNTEER
+- Gathering useful gifts and giving to night workers and homeless
+people.
+- Listening, sharing, and encouraging them to get motivated to
+overcome difficulties.
+SKILLS HONORS & AWARDS
+INTERESTS
+- Java Core. 
+- HTML/CSS.
+- Basic SQL.
+- Basic Testing.
+- Basic Test Cases Design.
+- Basic English.
+- Basic knowledge about Agile/Scrum. 
+- Recognized as a good student of the semester
+Summer of 2020.
+- Watching movies. - Traveling.
+© topcv.vn

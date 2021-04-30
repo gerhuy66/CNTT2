@@ -1,0 +1,73 @@
+
+cv_android
+DANG TIEN DAT
+ANDROID DEVELOPER
+https://www.facebook.com/popie.wayne https://github.com/dangtiendat288
+PROFILE
+CONTACT
+I am an open-minded 
+person. I am always willing 
+to learn new knowledge, 
+especially relating to 
+Android. Apart from my 
+passion for Android, 
+English is also a strength of 
+mine. In fact, I often 
+expand my technological 
+knowledge by reading and 
+watching articles and 
+videos in English from 
+reliable online sources. 
+Address:
+District 2, Ho Chi Minh City
+E-mail Address: 
+dangtiendat288@gmail.com
+Mobile phone number:
+(+84) 868683346
+EDUCATION
+Ho Chi Minh City University 
+of Technology And Education
+Techinical English Pedagogy 
+Khoa Pham Training
+Android Development Course
+2017 
+to now
+2020
+CERTIFICATES
+Java, SQL Course 
+Completion at Sololearn
+Android Development 
+Course Completion
+at Khoa Pham Training
+CS50 Puzzle Day 2020
+8/8 questions Completion
+PROJECTS
+English Grammar app (Java)
+Meal Helper (Java)
+Weather Forecast app (Kotlin)
+Main functions:
+     - Search for provided grammar lessons and vocabulary
+     - Review learnt lessons and vocabulary with a MCQs game
+Technology:
+     - API request from: https://opentdb.com/
+     - Use Retrofit and Rxjava for API request
+     - Firebase authentication with email and Google account
+     - Dark mode
+Main functions:
+     - Build a meal plan based on provided database
+     - Create a grocery list from the plan
+     - Provide details about each dish
+Technology:
+     - API request from: https://www.themealdb.com/
+     - Use Retrofit and Rxjava for API request
+     - Youtube API for video about dishes
+     - MVVM structure (API request to fetch meal data 
+     then store them into Room Database)
+     - Dark mode
+Main functions:
+     - Search for weather in different cities/states in the world
+     - Show weather details for the next 10 days
+Technology:
+     - API request from: https://openweathermap.org/
+     - Use Retrofit and Rxjava for API request
+     - MVVM structure

@@ -1,0 +1,50 @@
+
+Xem CV Online của NGUYEN DUC HOANG
+NGUYEN DUC HOANG
+Java Developer Fresher
+CYBERSOFT
+June 2020 - Present
+Intern
+Java Core, Spring Boot, Spring JPA, Spring MVC, Spring
+Security, Java Generics, JDBC, Dependency Injection,
+Hibernate, MySQL, Validation, Restful API
+June 2020 - Present
+CYBERSOFT - ELEARNING
+Link project
+https://github.com/duc0hoang/ElearningJava
+http://34.87.143.97/swagger-ui.html
+Oct 2011 - May 2016
+HCMC University of Education
+Major: Physics
+CYBERSOFT (2020 - Present)
+Customer Elearning
+Description
+This is the app for study online, sign in, sign up, create
+course, add course to user, authentication
+Team size 2
+My position Web Developer
+My responsibilities
+- Analysis
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+Technologies used
+- Spring boot
+- Spring MVC
+- Spring JPA
+- Spring Security
+- Dependency Injection
+- Restful API
+- Validation
+Nov 8, 1993
+Male
+0395685313
+duc0hoang@gmail.com
+TPHCM, Vietnam
+// WORK EXPERIENCE
+// PROJECTS
+// ACTIVITIES // EDUCATION
+© topcv.vn
+	//PROJECTS
+	CYBERSOFT

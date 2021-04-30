@@ -1,0 +1,64 @@
+
+ 
+ 
+ 
+Huynh Tan Phu 
+A N D R O I D  D E V E L O P E R  
+Profile 
+Hi There! I'm Phu I'm 24 year old and I just graduated from university with a 
+major in information technology . 
+As a fresh graduate with an in-depth knowledge of anhdroid. I hope to find a job 
+with a lot of practical experience, challenge myself. 
+Employment History 
+Be an intern IVS Co., Ltd., (182 Ly Chinh Thang Str., Ward 9, District 3, 
+Hochiminh City) 
+J U N E  2 0 1 9  —  P R E S E N T  
+Participated in a project to build warehouse management software, human 
+management, using C # platform, being involved in a tester position, 
+creating test cases for automation testing. 
+Education 
+Bachelor of Information Technology, Gia Dinh University 
+2 0 1 5  —  2 0 1 9  
+GPA 2.3/4.0 
+Projects 
+POKEMON GAME  O C T O B E R  2 0 1 9  —  P R E S E N T  
+Tech used: Java (Android), 
+Link: https://github.com/tonyanangel/gamepokemon 
+  
+Game Dua Pokemon 
+ 
+Details 
+HCMC, Viet Nam 
+tony.virasponco@gmail.com 
+N A T I O N A L I T Y  
+Vietnamese 
+Skills 
+Java / Kotlin / Dart 
+ 
+Reactive Programming 
+ 
+Android SDK 
+ 
+Flutter 
+ 
+Working with APIs 
+ 
+Git / Trello 
+ 
+Databases 
+ 
+Languages 
+English 
+     
+Vietnamese 
+    
+ 
+Link: https://github.com/tonyanangel/gameDuaPokemon 
+Using Android 
+ 
+Diary Flutter Project 
+Link: https://github.com/tonyanangel/Diary 
+Using Flutter 
+https://github.com/tonyanangel/gamepokemon
+https://github.com/tonyanangel/gameDuaPokemon
+https://github.com/tonyanangel/Diary

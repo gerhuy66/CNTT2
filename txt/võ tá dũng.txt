@@ -1,0 +1,98 @@
+
+Xem CV Online của Võ Tá Dũng
+Tìm hiểu và học hỏi các
+công nghệ mới.
+Nắm bắt các xu mới về lập
+trình ứng dụng di động.
+Đọc các trang website lập
+Võ Tá Dũng
+FRESHER REACT NATIVE DEVELOPER
+- Mục tiêu chung: Được làm việc trong môi trường
+chuyên nghiệp, được phát huy những kinh nghiệm đã
+có, tích lũy thêm kinh nghiệm cho công việc được hiểu
+quả và nhanh chóng.
+-Mục tiêu ngắn hạn: Trở thành một lập trình viên có
+năng lực và lãnh đạo nhóm trong 3 năm đầu.
+-Mục tiêu dài hạn: Trở thành một senior lập trình viên
+React Native từ 3 đến 5 năm. Phát triển ứng dụng trên
+nền tảng hệ điều hành Android/IOS dựa trên những kinh
+nghiệm và kiến thức đã học.
+Kỹ năng chuyên nghành
+Kỹ năng giao tiếp
+Kỹ năng làm việc theo nhóm
+Kỹ năng học hỏi
+Tiếng anh
+01/2019 - 01/2021
+TỐT NGHIỆP CAO ĐẲNG THỰC FPT
+POLYTECHNIC TÂY NGUYÊN
+Chuyên ngành: Lập trình máy- Thiết bị di động
+Một sô môn học nổi trội như: Lập trình Mobile đa nền
+tảng, Lập trình Server cho Mobile đa nền tảng.
+09/2020 - 12/2020
+Web- App quản lý quán bê thui Củ Chi
+React Native Developer
+App gọi món cho cửa hàng.
+Thực hiện thiết kế và lập trình app đáp ứng các chức
+năng như: 
+- Quản lý sản phẩm cửa hàng ( Các loại đồ ăn và các
+loại đồ uống ).
+- Quản lý bàn và khu vực.
+- Quản lý giỏ hàng ( Các sản phẩm đã mua ).
+- Quản lý hóa đơn theo trường hợp.
+- Thanh toán và điểm danh cho nhân viên.
+- Xem thông tin nhân viên và xem ngày làm của nhân
+viên.
+- Màu sắc hài hòa, nội dung cụ thể.
+Quản lý server trên nền tảng Localhost.
+App được viết trên nền tảng React Native, NodeJS
+Link: https://github.com/DuAnCuChi/AppEdit
+01/2020 - 03/2020
+App bán rau củ
+React Native Developer
+App bán hàng online
+Thực hiện thiết kế và lập trình app đáp ứng các chức
+năng khách hàng cơ bản: 
+- Quản lý sản phẩm cửa hàng ( Các loại rau củ và các
+loại hoa quả ).
+- Quản lý giỏ hàng ( Các sản phẩm đã mua ).
+- Màu sắc hài hòa, nội dung cụ thể.
+Quản lý server trên nền tảng Localhost.
+App được viết trên nền tảng React Native, NodeJS
+Link: https://github.com/votadung2000/AppBanRauCu
+01/2020 - 03/2020
+App bán rau củ 2
+React Native Developer
+App bán hàng online
+Thực hiện thiết kế và lập trình app đáp ứng các chức
+năng khách hàng cơ bản: 
+- Quản lý sản phẩm cửa hàng ( Các loại rau củ và các
+loại hoa quả ).
+11/04/2000
+Nam
+0399164763
+votadung2000@gmail.com
+Sơn Kì Tân Phú Hồ Chí Minh
+THÔNG TIN LIÊN HỆ
+MỤC TIÊU NGHỀ NGHIỆP
+KỸ NĂNG
+SỞ THÍCH
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+trình tiếng anh.
+Cô: Đỗ Thị Bích Vân
+Chức vụ: Giáo viên Cao đẳng thực hành FPT
+Polytichnic Tây Nguyên.
+Điện thoại: 09089078889
+Email: vandtb2@fpt.edu.vn   
+Thầy: Nguyễn Phước Cường
+Chức vụ: Giáo viên Cao đẳng thực hành FPT
+Polytichnic Tây Nguyên.
+Điện thoại: 0886763367
+Email: CuongNP@fpt.edu.vn                  
+- Quản lý sản phẩm theo loại.
+- Quản lý giỏ hàng ( Các sản phẩm đã mua ).
+- Màu sắc hài hòa, nội dung cụ thể.
+Quản lý server trên nền tảng Graphql.
+App được viết trên nền tảng React Native, NodeJS
+© topcv.vn
+NGƯỜI THAM CHIẾU

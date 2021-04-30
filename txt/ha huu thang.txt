@@ -1,0 +1,67 @@
+
+Blue Lines Simple Resume
+Gcalls Vietnam
+Android Developer
+ANDROID  DEVELOPER  
+HA HUU THANG 
+Mangat (Read comics Online)
+Real Estate Application
+SKILLS
+Soft skills
+Team-working
+Work independently
+Analytical and problem solving skills.
+Java/Kotlin
+Android Jetpack Components
+MVP/MVVM architecture
+Performance optimization
+Restful APIs
+UI/UX
+Sketch
+Agile
+ABOUT
+I am an Android Developer with ~4 years of
+experience designing, developing, testing, and
+maintaining Android applications in many
+projects. I always want to make the products
+with reusable, maintainable, readable, etc by
+using my experience. I always work hard and
+research new things to improve my skills.
+INFORMATION
+Mobile Phone: (+84) 972 380 035
+Date of birth: May 25, 1996
+E-mail: huuthang1125@gmail.com
+Skype: huuthang1125
+Current Address: Ho Chi Minh City
+Personal applications
+Gcalls Plus
+The application is a call center software using VOIP
+technology
+EDUCATION
+EXPERIENCE
+Main features: Sales, feeding post, chatting, charts,
+etc...
+- Demo: https://play.google.com/store/apps/details?
+id=dev.android.v1.recog
+R E C O G
+Android Developer
+CinQsmile Vietnam
+LINE Corporation
+Be Yeu is a free application for mom-to-be and
+moms with babies under 5 years old.
+Main features: Feeding post, chatting,  charts,
+events, quiz game, product advertising, analysing
+data, etc...
+- Responsibilities: Analysing functions, design UI,
+customizing views, managing source code
+- Demo: https://play.google.com/store/apps/details?
+id=vn.com.lana.beyeu
+B É  Y Ê U
+Android Developer
+2019 - Present
+2018 - 2019
+2017 - 2018
+Android application development
+2014 -  2017
+GPA: 8.3/10
+F P T  P O L Y T E C H N I C  D A  N A N G

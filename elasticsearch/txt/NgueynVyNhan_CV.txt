@@ -1,0 +1,59 @@
+
+Xem CV Online của NGUYEN VY NHAN
+NGUYEN VY NHAN
+Fresher Front End
+Developer
++84799687148 Male
+nguyenvynhan254@gmail.co
+m
+ April 25, 1998
+781/40 Lê Đức Thọ, P.16,
+Quận Gò Vấp, Ho Chi Minh,
+Vietnam
+
+Objective
+I love to work in a dynamic environment. I have lots of experience in teamwork and willingly to put the team’s spirit
+above individual need. Years of learning and studying had helped me develop my analyzing and solving problems
+skill. Since I am about to graduate from University, it will be a great opportunity for me to work and gain real-life
+experience which is related to my future career.
+
+Programming Languages JavaScript, ASP .NET
+Databases MongoDB, SQL
+Technologies HTML, CSS, NodeJS, ReactJS, Angular+
+Version Control GIT, TortoiseSVN
+Soft Skills Teamwork, project management
+Skills
+STUDENTS MANAGEMENT WEBSITE 2017 - 2018
+E-COMMERCE WEBSITE 2018 - 2019
+CREATE APP WAZA REWARD 2018 - 2019
+MANAGEMENT WEBSITE   May 2020 - August 2020
+Experience
+Member
+Description: This website allow users to manage student like add, update, delete information, besides we can
+search and sort by name or other info.
+Technical Stack: ASP .NET framework.
+Responsibility: Front end developer.
+Member
+Description: An online shopping website allow user to order products and create payment online. Projects also
+support store workers to manage shop with an admin page. We can create new products, update or delete product's
+info. Manage bill like accept or deny.
+Technical Stack: Angular+
+Responsibility: Front-end developer
+Member
+Description: We base on GrabBike app and create Waza App. It allow users redeem reward by point. We using
+Agile Paradigm and Microservice. User can manage point, redeem reward and use this reward for event. If user
+have a lot of point , they will update rank and have other service
+Technical Stack: NodeJS, ReactJS, MongoDB
+Responsibility: Front-end developer
+Member
+Description: A website allow user manage info of companies, customers, brands, products and bill. User can
+create, update, delete information, search and sort by name or other info. We also create a admin, user have to login
+and set role for any user.
+
+Technical Stack: NodeJS, ReactJS, MongoDB
+Responsibility: Fullstack developer
+SENIOR AT HUFLIT – INFORMATION TECHNOLOGY Oct 2016 - Oct 2020
+Education
+Major: Software Engineer
+
+© topcv.vn

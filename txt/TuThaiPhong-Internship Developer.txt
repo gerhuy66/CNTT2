@@ -1,0 +1,41 @@
+
+Personal skill
+WITH ALL SKILLS I HAVE, I WOULD LIKE TO EXPERIENCE AND GAIN
+MORE PRACTICAL KNOWLEDGE IN THIS INDUSTRY IF I HAVE A
+CHANCE TO BECOME YOUR IT INTERN.
+ABOUT ME
+TU THAI
+PHONG
+F R O N T - E N D  D E V E L O P E R
+PERSONAL SKILLS
+ -Documentation 
+- English 
+- Successful working in a team environment, as
+well as independently. 
+- Theability to work under pressure and multi-
+task. 
+PROFESSIONAL SKILLS 
+- HTML, CSS/SCSS, Javascript, ES6, Bootstrap
+- React : React Hooks, Redux, React router -
+C++, java - Git 
+CONTACT INFO
+Phone: 0377612701 
+Email: tuthaiphong600@gmail.com
+Address:236A Man Thien Street, Tang Nhon
+Phu A Ward, Thu Duc City
+INFORMATION TECHNOLOGY MAJOR 
+Posts and Telecommunications Inst i tute of
+Technology (2018 -  Now) 
+EDUCATION
+Calculator 
+- Develop using standard HTML 5, CSS, Javascript 
+- Link: https://thaiphong1101.github.io/calculator 
+Mobile Login form 
+- Develop using standard HTML 5,CSS, Javascript 
+- Link: https://thaiphong1101.github.io/loginForm 
+MyPortfolio 
+- Develop using standard HTML 5, CSS( SCSS), Javascript 
+- Library: ReactJs 
+- Link: https://github.com/thaiphong1101/MyPortfolio 
+// This project is being completed 
+PROJECTS

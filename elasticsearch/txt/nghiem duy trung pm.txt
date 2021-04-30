@@ -1,0 +1,169 @@
+
+DuyTrungCV 
+[1/4] 
+ 
+ 
+TRUNG, NGHIEM DUY 
+PROJECT MANAGER 
+[addr] Linh Dam, Hoang Liet, Hoang Mai, Hanoi 
+[tel] 0975 752 408 
+[email] duytrung17@gmail.com 
+[web] bit.ly/duytrung 
+ABOUT ME 
+ Enthusiastically, actively and able to work under pressure. 
+ A humorous, inventive person, eagerness to learn new technologies and readiness to face new 
+challenges. 
+ Assertively, responsibly and reliably. 
+EXPERIENCE 
+VINSOFTWARE [VINGROUP] Mar ’19 - Present 
+Business Analyst | Product Owner | Project Manager 
+ Collect, elicit requirements from stakeholders; Forecast, analyze, consult, propose solutions and 
+functions. 
+ Prepare general plan and define the budget of project; Create checklist, detail Gantt chart 
+timeline along with sprints. 
+ Make business requirements documents, project evaluation documents; Draw business flows, 
+create wireframes of system and design database. 
+ Define SOW and break down into Epics, Features, User Stories, Tasks, collaborate with 
+development team to manage in sprints in Agile method - Scrum framework projects. 
+ Program in HTML, CSS, JavaScript, Bootstrap library. 
+ Connect remotely to server via BT PAM to query and update database. 
+ Write test scenarios and cases, then test the systems. 
+ Hold meetings with stakeholders, manage CRs; Supervise and organize team meetings 
+periodically to evaluate the project progress, resolve issues and propose solutions. 
+ Create user manuals, presentations, make videos to instruct users. Organize UAT and training 
+sessions. 
+Projects: 
+1. Internal e-commerce | Business Analyst 
+Description: A website to sell products of Vingroup for employees only. Currently, I’m operating this 
+website as well. 
+Achievements/Tasks: 
+ Joined the meetings with stakeholders, gathered and analysed requirements and change 
+requests. 
+ Created diagram flows, finalized the timeline of each phase of development. 
+mailto:duytrung17@gmail.com
+DuyTrungCV 
+[2/4] 
+ 
+ Wrote test cases and tested the system. 
+2. Human Resource Portal | Business Analyst 
+Description: An internal gateway for employees to access HR-related information, for HR-staff and 
+management to manage and approve some activities of employees. 
+Achievements/Tasks: 
+ Dealed with stakeholders, key users, and vendors about issues and proposed the solutions. 
+ Coordinated with team members to implement the assigned tasks and program logic. 
+ Wrote test cases and tested the system. 
+ Created user manual and clips to instruct users. 
+ Held meetings, UAT and training sessions. 
+3. Bulletin Board of Saba Training Information | Business Analyst 
+Description: A bulletin board for employees to access training information, that was synchronized 
+from Saba platform. 
+Achievements/Tasks: 
+ Communicated to stakeholders regularly, gathered and analysed data. 
+ Learned to understand the analytic reports and operation of Saba platform. 
+ Coordinated with team members to implement the assigned tasks and program logic. 
+ Wrote test cases and tested the system, organized the UAT sessions. 
+ Created user manual, presentation, make videos to instruct users, and organized training 
+session. 
+4. Charitable Donation Management System | Product Owner/Project Manager 
+Description: A web-based platform for KHF to manage the information of people those facing 
+difficult circumstances, included 3 independent modules. 
+Achievements/Tasks: 
+ Organized meetings with stakeholders to collect, elicit requirements. 
+ Analyzed and proposed business process. 
+ Defined scope of project, broke into tasks to determine budget to deal with stakeholders. 
+ Created flow diagram and business requirement documents. 
+ Designed wireframes and system database. 
+ Created user stories and managed in Sprints as this project was being developed with Scrum 
+framework.  
+ Coordinated with team members to implement the assigned tasks and program logic. 
+ Programmed HTML, CSS, JS to restyle the screens. 
+ Held team meetings periodically to evaluate the project progress, resolve issues and propose 
+solutions. 
+ Create user manuals, presentations. 
+ Organized UAT and training sessions. 
+5. Vinschool Mobile App | Project Manager 
+Description: A mobile-portal with CMS to manage learning information and other activities of pupils 
+for Vinschool. The project is in requirements analysis phase. 
+Achievements/Tasks: 
+ Held meetings with stakeholders to gather, elicit and analyse requirements. 
+ Defined scope of project, broke into tasks to determine budget to deal with stakeholders. 
+ Created flow diagram and designed wireframes. 
+DuyTrungCV 
+[3/4] 
+ 
+6. Assets Management App | Project Manager 
+Description: A mobile app to manage assets of Vinschool. This project is in requirements analysis 
+phase. 
+Achievements/Tasks: 
+ Held meetings with stakeholders to gather, elicit and analyse requirements. 
+ Defined scope of project, broke into tasks to determine budget to deal with stakeholders. 
+7. Training Management | Project Manager 
+Description: A Vinsmart’s project to manage training information of partners. This project is in 
+requirements analysis phase. 
+Achievements/Tasks: 
+ Communicated with stakeholders to clarify, elicit and analyse requirements. 
+ Defined scope of project, broke into tasks to determine budget to deal with stakeholders. 
+ 
+TECHMASTER  Aug ‘18 - Feb ‘19 
+Back End Developer 
+ Programmed in Golang, postgreSQL database in project code123 that implemented micro-
+services architecture, Agile method - Scrum framework. 
+ Proficiency working in HTML5, CSS3, JavaScript, JQuery, Bootstrap, basic knowledge of Nuxt.js, 
+Vue.js. 
+ Good understanding of UI/UX design.  
+ Knowledge of Data Structures and Algorithms, database design. 
+ 
+IDVN LAWYERS    Oct ‘16 - Jul ‘18 
+Data/Trade Analyst 
+Summarized and analyzed data independently/with a team and foreign specialists in international 
+trade lawsuits, such as anti-circumvention (Corrosion-Resistant Steel Products from the PRC), 
+antidumping and countervailing duty (Laminated Woven Sacks). 
+Analyzed data and evaluated in the lawsuits and disputes involving banks and enterprises. 
+ 
+STATE AUDIT OFFICE  Jul ‘08 - Sep ‘16 
+Auditor  
+Examined accounting records, audited financial statements, total budget revenues/ expenditures at 
+financial departments, tax departments, customs departments, state treasury. Summarized 
+documents, data to create audit minutes, audit report. Led a team to survey, collect documents, make 
+plans and audit. 
+ 
+AGRIBANK     Feb ‘07 - Dec ‘07 
+Accountant  
+Performed transactions with customers. Proficient in using Excel functions and VBA to summarize 
+data. 
+DuyTrungCV 
+[4/4] 
+ 
+TECHNICAL SKILLS 
+ Familiar in working with Windows, Linux, Mac OS. 
+ Support tools: 
+ Design: Photoshop, Balsamiq, Figma, Visio, Lucidchart, Mindmap 
+ Plan: Jira, Excel, Project, Teams 
+ Document and Present: Word, PowerPoint 
+ Database: Microsoft SQL Server, MySQL Workbench 
+ Program: Git, Visual Studio Code, Visual Studio 
+SOFT SKILLS 
+ Manage multiple projects at once. 
+ Lead and motivate team to progress projects, resolve conflicts and boost team spirit. 
+ Deal with clients on an appropriate schedule and SOW. 
+ Control risk and time management. 
+ Communication and problem-solving. 
+ENGLISH 
+Listening  
+Speaking 
+Reading 
+Writing 
+EDUCATION & CERTIFICATION 
+iPMac Networking Academy | Hanoi Jan ‘07 
+CCNA | Score 961/1000 
+Banking Academy | Hanoi ’02 - ‘06 
+Bachelor of Finance and Banking 
+CAREER OBJECTIVES 
+ Researching to have knowledge of technology trends. 
+ Cultivating specialized knowledge, work experience and developing skills. 
+ To work in a dynamic, professional environment. 
+ Looking forward to a long and successful work with opportunities for advancement, welfare policy 
+and attractive income. 
+REFERENCES 
+Available upon request. 
+ 

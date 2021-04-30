@@ -1,0 +1,115 @@
+
+Xem CV Online của Nguyễn Hoàng Thắng
+8/2016 - 6/2020 Đại học Công nghệ thông tin và Truyền thông Thái Nguyên
+Chuyên ngành: Kỹ thuật phần mềm
+03/2018 - 08/2018 Công ty 5 châu Media
+Lập trình viên IOS
+- Thực hiện Cover 20 ứng dụng trên nền tảng Hệ điều hành
+Android sang hệ điều hành IOS.
+08/2018 - 09/2019 Công ty Giao hàng nội tỉnh ShipX
+Lập trình viên
+- Phát triển ứng dụng đặt ship và quản lý vận đơn trên nền tảng
+IOS
+- Xây dựng hệ thống đặt tiệc cưới.
+09/2019 - Hiện nay Công ty vận tải AndesGroup
+Lập trình viên Back-end
+- Xây dựng và quản trị hệ thống xe tiện chuyến cho công ty
+AndesGroup.
+05/2019 - Hiện nay EagleTeam
+Leader
+- Xây dựng hệ thống quản lý thông tin cá nhân StudentSocial
+- Xây dựng và phát triển các dự án outsource
+Nguyễn Hoàng Thắng
+Ngày sinh  26/07/1998
+Giới tính  Nam
+Điện thoại  +84971553051
+Email  nht98.dev@gmail.com
+Địa chỉ  Đường Z 115, Quyết Thắng, Thành phố Thái Nguyên,
+Thái Nguyên
+Website  https://www.facebook.com/dev.flutter9x
+TÓM LƯỢC
+Tôi là lập trình viên với kiến thức tốt về Thuật toán, Cơ sở dữ liệu và Design Patterns. Học công nghệ
+mới là niềm đam mê của bản thân. Bản thân là một người thân thiện, hoà đồng và đã từng làm việc
+nhóm ở các vị trí khác nhau. Tôi cũng có thể giúp đỡ các thành viên khác trong nhóm khi họ gặp vấn đề.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+CÁC KỸ NĂNG
+Tiếng Anh Đọc hiểu, giao tiếp cơ bản
+Git Thành thạo github và gitlab, đã từng deploy hệ thống Gitlab cho công ty
+Docker Thành thạo
+GitCI/ GitAction Thành thạo
+Testing Cơ bản
+DỰ ÁN
+Ứng dụng đặt ship và quản lý vận đơn
+(2018 - 2019)
+Khách hàng Công ty Shipx
+Mô tả dự án - Đặt dịch vụ giao hàng giành cho người dùng và quản lý vận đơn giành cho
+shiper
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên IOS
+Vai trò trong dự án - Phát triển Ứng dụng
+- Call API trả về từ server
+Công nghệ sử dụng - Swift
+Hệ thống đặt tiệc cưới
+(2018 - 2019)
+Khách hàng Hà Nội
+Mô tả dự án
+- Hệ thống cho phép người dùng và các nhà cung cấp dịch vụ có thể tiếp cận
+với nhau một cách dễ dàng, giúp các nhà cung cấp dịch vụ quản lý đơn hàng
+và thu chi một cách chi tiết, hiệu quả.
+Số lượng thành viên 2
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phát triển module
+- Viết UnitTest và setup Gitlab CI thực hiện công việc test tự động
+- Viết Document Api
+Công nghệ sử dụng
+- Nodejs v12 
+- MongoDB && Chai
+- Mocha
+Hệ thống AndesGroup
+(2019 - 2020)
+Khách hàng Công ty AndesGroup
+Mô tả dự án
+- Hệ thống AndesGroup là một hệ thống xe chung - xe tiện chuyến chạy nội
+tỉnh và tuyến đường Thái Nguyên - Hà Nội. 
+- Link: https://github.com/nht98/server_andesgroup
+Số lượng thành viên 3
+Vị trí công việc Team Leader
+Vai trò trong dự án
+- Tham gia phân tích và thiết kế hệ thống 
+- Quản lý phát triển hệ thống. 
+- Tối ưu code, duyệt code, sửa lỗi.
+- Viết UnitTest và setup GitHub Action thực hiện công việc test và deploy tự
+động
+- Viết Document Api
+Công nghệ sử dụng
+- Nodejs v12 
+- MongoDB && Chai
+- Mocha
+Thư viện SScores
+(2020 - 2020)
+Khách hàng Sinh Viên ICTU
+Mô tả dự án
+- Thư viện xử lý giúp người dùng dễ dàng hơn trong việc xây dựng hệ thống
+quản lý thời khoá biểu, điểm học tập, điểm ngoại khoá và thông báo của bản
+thân từ trang chủ trường ICTU
+- Link: https://github.com/nht98/sscore
+- Link: https://www.npmjs.com/sscores
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phát triển Thư viện 
+- Viết Document Api
+- Phân tích hệ thống cũ.
+Công nghệ sử dụng - Nodejs v12
+© topcv.vn
+	TÓM LƯỢC
+	HỌC VẤN
+	KINH NGHIỆM LÀM VIỆC
+	CÁC KỸ NĂNG
+	DỰ ÁN
+	Ứng dụng đặt ship và quản lý vận đơn
+	Hệ thống đặt tiệc cưới
+	Hệ thống AndesGroup
+	Thư viện SScores

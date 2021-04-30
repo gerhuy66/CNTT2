@@ -1,0 +1,59 @@
+
+Xem CV Online của Nguyễn Văn Thư
+2013 - 07/2020 Đại học Bách Khoa Hà Nội
+Chuyên ngành: An toàn thông tin
+Tốt nghiệp loại Khá, điểm trung bình 2.51
+Ngôn ngữ lập trình - Có kinh nghiệm lập trình với Python, có hiểu biết đối với C, java và
+php
+Back-end - Có hiểu biết về framework flask
+Front-end - Có hiểu biết về HTML5, CSS3, javascript
+Database - Có hiểu biết về sqlite3 và postgreSQL
+CMS - Wordpress
+Tiếng Anh - Toeic IIG: 600
+- Có khả năng đọc hiểu tài liệu chuyên ngành công nghệ thông tin
+Nguyễn Văn Thư
+Intern / Fresher Backend Development
+Ngày sinh:  19/05/1995
+Giới tính:  Nam
+Điện thoại:  097 995 8937
+Email:  nguyenvanthu1905@gmail.com
+Địa chỉ:  Số 19 Nguyễn Trãi, Thanh Xuân, Hà Nộii
+Website:  https://www.facebook.com/cristend1905
+MỤC TIÊU NGHỀ NGHIỆP
+- Mong muốn trở thành Back-end Development với ngôn ngữ Python.
+- Mục tiêu ngắn hạn: Làm việc với các dự án thực tế có tính ứng dụng, trong môi trường năng động, sáng tạo;
+đồng nghiệp thân thiện; để có thể áp dụng những kiến thức đã học vào thực tế, trong quá trình làm việc liên
+tục tích lũy kinh nghiệm, học tập, rèn luyện kỹ năng để tìm kiếm lĩnh vực thực sự phù hợp với bản thân để có
+thể dành toàn bộ thời gian để theo đuổi và gắn bó lâu dài.
+- Mục tiêu dài hạn: Trở thành lập trình viên back-end với hiểu biết chuyên sâu và thuần thục các kỹ năng quan
+trọng đối với back-end.
+HỌC VẤN
+CÁC KỸ NĂNG
+DỰ ÁN
+Đồ án tốt nghiệp - Mã hóa quảng bá và ứng dụng
+(2020 - 2020)
+Khách hàng Không có
+Mô tả dự án
+- Cài đặt thuật toán cho phép quảng bá nội dung số dưới dạng mã hóa đến lượng
+lớn người dùng trong đó chỉ những người có thông tin bí mật có thể giải mã, thuật
+toán có cơ chế thu hồi, vô hiệu hóa khả năng giải mã của người dùng mà không
+cần phát hành lại thông tin bí mật trong từng lần quảng bá.
+- Xây dựng website demo hoạt động của thuật toán.
+- Tài liệu gốc: https://eprint.iacr.org/2001/059.pdf
+- Source code: https://github.com/cristend/DATN
+Số lượng thành viên 1
+Vị trí công việc Sinh viên
+Vai trò trong dự án
+- Đọc hiểu tài liệu chuyên ngành, cài đặt thuật toán
+- Phân tích, thiết kế, triển khai website demo
+- Kiểm thử
+Công nghệ sử dụng
+- Python 3
+- Flask
+- Sqlite3
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	CÁC KỸ NĂNG
+	DỰ ÁN
+	Đồ án tốt nghiệp - Mã hóa quảng bá và ứng dụng

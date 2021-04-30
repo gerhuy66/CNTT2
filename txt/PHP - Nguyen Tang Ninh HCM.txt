@@ -1,0 +1,166 @@
+
+ 
+  
+ 
+ 
+1 
+NGUYEN TANG NINH 
+0367 259 158  
+tangninhnguyen@gmail.com 
+39/5, 475 Street, Phuoc Long B Ward, District 9, Ho Chi Minh City 
+PERSONAL  SUMMARY 
+• 3 years’ experience in software development; especially, web based application 
+development 
+• Strong skills and practical knowledge in analysis, design, development and 
+implementation of applications using PHP, HTML5/CSS3, Javascript, HTML/CSS, 
+jQuery, AJAX, JSON, Bootstraps  
+• Good competence in database: MySQL 
+• Strong technical background in frameworks & platforms: Wordpress CMS, Joomla CMS, 
+CodeIgniter 
+• Strong experience in using tools: Visual Studio Code, PHPStorm, Postman, Jira, SVN,  
+Sourcetree, Bitbucket 
+• Experience using REST API  
+• Solid knowledge and skills in Windows 
+• Familiar with Agile/Scrum process 
+PROFESSIONAL  EXPERIENCE 
+FINANCIAL TRADING APPLICATIONS 
+• Project description: 
+✓ Build a new website to calculate customers' financial investments when investing in 
+the company. The website uses Joomla, PHP, Javascript, Mysql, Bootstraps. 
+✓ Calculate the investment amount and profit of each client in the investment fund of 
+each transaction. 
+✓ Convert currencies of certain countries and regions to US dollars and vice versa in 
+real-time in every transaction. 
+✓ Use “PHP Simple HTML Dom” to get information from other websites serving 
+company websites. 
+ 
+0 3 .  2 0 2 0  –   0 1 .  2 0 2 1  
+ 
+D E V E L O P E R  
+ 2 
+ 
+ 
+✓ Create a new API to connect and retrieve data, then display it on multiple UIs in 
+different regions using REST API.  
+• Responsibilities: 
+✓ Provide technical solutions 
+✓ Implement features 
+✓ Test and deploy source 
+✓ Report to manager 
+• Technologies: 
+✓ PHP/Joomla CMS 
+✓ Database: MySQL 
+✓ Bootstrap 
+✓ HTML/CSS/JQuery 
+✓ Sourcetree 
+✓ RESTful API 
+✓ PHP Simple HTML Dom 
+ 
+1 1 .  2 0 1 9  –  0 3 .  2 0 2 0  D E V E L O P E R  
+CRM APPLICATION 
+• Project description: 
+✓ Maintenance of CRM system of HOBIEN company. Information management system, 
+contract handling, and customer requirements. In addition, the system also manages the 
+company's partners, statistics and reports on the business situation. The system uses PHP, 
+CodeIgniter, Javascript, Mysql, Bootstraps. 
+✓ Participate in maintaining and upgrading the website of HOBIEN company according to 
+SEO standards.  
+• Responsibilities: 
+✓ Provide technical solutions 
+✓ Implement features 
+✓ Test and deploy source 
+✓ Report to manager 
+• Technologies: 
+✓ PHP, CodeIgniter framework 
+ 3 
+ 
+ 
+✓ HTML/CSS/JQuery 
+✓ Bootstraps 
+✓ MySQL 
+ 
+0 7 .  2 0 1 9  –  1 1 .  2 0 1 9  
+ 
+D E V E L O P E R  
+WEBSITE COMPANY  
+• Project description: 
+✓ Build a new website for iNTEDY company using CodeIgniter, PHP, Javascript, Mysql, 
+Bootstraps. 
+✓ Main features: 
+o Users management 
+o User’s timeline 
+o Create report 
+o User register 
+• Responsibilities: 
+✓ Implement features 
+✓ Test and deploy source 
+✓ Report to manager 
+• Technologies: 
+✓ PHP, CodeIgniter framework 
+✓ MySQL 
+✓ HTML/CSS/JQuery 
+✓ Bootstraps 
+ 
+0 1 .  2 0 1 8  –  0 4 .  2 0 1 9  
+ 
+D E V E L O P E R  
+UPS Shipping and UPS Access Point™: Official Plugin 
+• Project description: 
+✓ Participate in the UPS shipping plugin development project for some popular open 
+sources such as Woocommerce, Opencart, Magento, ... using PHP, Javascript, Boostraps.  
+✓ Main features: 
+o Simple & easy map interface for your customers to select UPS Access Point as per 
+their preference.  
+ 4 
+ 
+ 
+o Real time tracking information.  
+o Range of options to set up delivery rates that your customers will see. 
+o Possibility to open a UPS account directly in the module itself, if you do not have 
+one.  
+o Easy PDF label generation.  
+• Responsibilities: 
+✓ Implement features 
+✓ Deploy source 
+✓ Report to manager 
+• Technologies: 
+✓ PHP 
+✓ MySQL 
+✓ Woocommerce, Opencart, Magento, Prestashop 
+✓ HTML/CSS/Jquery 
+✓ Boostraps 
+ 
+1 1 .  2 0 1 7  –  0 1 .  2 0 1 8  
+ 
+D E V E L O P E R  
+APPLICATION 
+• Project description: 
+✓ Learn cobol language then join the logistics system upgrade and maintenance project.  
+• Responsibilities: 
+✓ Learn cobol language 
+✓ Implement features 
+• Technologies: 
+✓ Cobol 
+ 
+0 6 .  2 0 1 7  –  1 1 .  2 0 1 7  
+ 
+D E V E L O P E R  
+APPLICATION 
+• Project description: 
+✓ As a tester for a Japanese port management software project with over 80 participants.  
+• Responsibilities: 
+✓ Create test case 
+ 5 
+ 
+ 
+✓ Manual testing  
+ 
+CERTIFICATES  &  QUALIFICATIONS 
+2015   Agile Certificate 
+2013 - 2019   Bachelor of Computer Sciences 
+   Ton Duc Thang University 
+ 
+ 
+ 
+    
+ 

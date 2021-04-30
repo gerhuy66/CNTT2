@@ -1,0 +1,65 @@
+
+Arata Kato Resume
+HTML5 JavaScript CSS BOOTSTRAP4 jQuery
+Bootstrap
+PHP MVC MODEL
+SQL SERVER ORACLE POSTGRESQL My Sql
+Japanese(n3) english (Toeic 750)
+Vietnamese (mother tongue)
+Laravel
+-
+-
+-
+-
+-
+-
+-
+www.enhancv.com Powered by/
+ARATA KATO
+Fullstack Developer
+# +0363657272 _ katoarata1421997@gmail.com
++ Trung My Tay Ward, district 12, HCM city
+KNOWLEDGE
+Front End
+Back End
+Database
+Language
+Framework
+PROFESSIONAL EXPERIENCE
+Project: Sales site
+Project Description: A site that sells organic food
+Using HTML,CSS,BOOTSTRAP for the Front-end
+Using PHP for the Back-End
+Using MySql for the database
+Using Javascript to build Single Page Application
+Project: Social Networking site
+A simple website like Instagram where user can register,add post, 
+follow/unfollow each other and view what following users post.
+Using Laravel framework
+Using MySql for the database
+Using Vue.js to build Single Page Application
+SUMMARY
+Hello!. I am Arata, i have been self-
+learning for one and half years. I am a 
+passionate person about programming. 
+Currently, I am looking for opportunities 
+to intern/participate in the Fresher 
+Program at the company, to have the 
+opportunity to develop my skills, satisfy 
+my passion, and achieve my goal in 
+future.
+TRAINING / 
+COURSES
+C++ Tutorial by TutorialsPoint.com
+Introduction to Programming, Object Oriented, 
+Data Structures and Algorithms, SQL.(done)
+Laravel PHP Framework by 
+FreecodeCamp.org
+Learning basic about Laravel (done)
+W3schools.com
+Learning basic HTML, CSS, Bootstrap, Jquery.
+N2 JLPT
+Learning Japanse language level Intermediate, 
+taking the exam in December this year.(learning)
+tel:+0363657272
+mailto:katoarata1421997@gmail.com

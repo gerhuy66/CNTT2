@@ -1,0 +1,140 @@
+
+Xem CV Online của Vũ ngọc huyền anh
+09/2014 - 07/2018 Đại học Hà Nội
+Chuyên ngành: Ngôn ngữ Đức
+Tốt nghiệp loại Khá, điểm trung bình 7.8
+10/2020 - Hiện nay Công ty Cổ phần Công nghệ Sapo
+Tư vấn nghiệp vụ - BA
+- Nhiệm vụ chính:  
++ Thu thập và phân tích yêu cầu nghiệp vụ của khách hàng 
++ Xây dựng và phát triển phần mềm
+- Phạm vi công việc:  
++ Xây dựng và thiết kế sản phẩm (Tool: Figma)
++ Xây dựng và tài liệu hóa hệ thống
++ Xây dựng luồng quy trình hệ thống (BPMN)
++ Phát triển các tính năng sản phẩm theo từng giai đoạn
+03/2019 - 10/2020 Công ty HTC Holdings Việt Nam
+Tư vấn nghiệp vụ - BA
+- Nhiệm vụ chính:  
++ Thu thập và phân tích yêu cầu nghiệp vụ của khách hàng 
++ Tham gia và phụ trách trực tiếp một số dự án cung cấp phần mềm
+cho Ngân hàng, Công ty tài chính liên quan đến tài chính ngân hàng-
+Phạm vi công việc:  
++ Điều phối công việc trong nhóm dự án 
++ Xây dựng tài liệu URD và FSD 
++ Thiết kế hệ thống sử dụng UML, Diagram 
++ Xây dựng kế hoạch Master plan và kế hoạch chi tiết cho từng hạng
+mục 
++ Xây dựng kịch bản kiểm thử chi tiết - Test Case cho giai đoạn SIT và
+UAT 
++ Soạn thảo các tài liệu bàn giao: Hướng dẫn sử dụng End - Users,
+Vũ Ngọc Huyền Anh
+Chuyên viên phân tích nghiệp vụ - Business Analyst
+Ngày sinh:  28/09/1996
+Giới tính:  Nữ
+Điện thoại:  0379991307
+Email:  huyenanhvungoc@gmail.com
+Địa chỉ:  An Dương, Tây Hồ, Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+Học hỏi để trau dồi kinh nghiệm và phát triển kỹ năng để có thể phụ trách và quản lý được các dự án lớn 
+Kế hoạch phát triển sự nghiệp: 
+ - Trong vòng 2 năm: Vai trò Team Leader - Phụ trách những dự án quy mô nhỏ 
+ - Trong vòng 5 năm: Vai trò Project Manager - Phụ trách những dự án quy mô lớn hơn
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+Admin, Quản trị hệ thống,... 
++ Tham giao đào tạo nghiệp vụ cho End-Users 
++ Theo sát tiến độ từng hạng mục nói riêng và toàn dự án nói chung+
+Giải quyết những phát sinh trong quá trình triển khai dự án 
++ Chuẩn bị hồ sơ thầu và trả lời thầu
+06/2016 - 07/2016 Tham gia chương trình học hè tại Đức
+Sinh viên trao đổi
+- Tham gia các khóa học ngoại ngữ tại Đức
+- Tham gia các chương trình trao đổi văn hóa tại Đức
+2017 Chứng chỉ ngôn ngữ Đức - B2
+Tin học văn phòng - Sử dụng thành thạo các công cụ Word, Excel, Power Point
+Tiếng Anh - Khả năng giao tiếp Tiếng Anh trôi chảy
+HOẠT ĐỘNG
+CHỨNG CHỈ
+CÁC KỸ NĂNG
+DỰ ÁN
+Công ty TNHH HTC Holdings Việt Nam
+(03/2019 -  08/2019)
+Khách hàng Ngân hàng TMCP Sài Gòn - Hà Nội (SHB bank)
+Mô tả dự án Phần mềm quản trị thu hồi và xử lý nợ
+Số lượng thành viên 6
+Vị trí công việc Tester
+Vai trò trong dự án - Xây dựng kịch bản Test Case
+- Tham gia kiểm thử cùng End- Users
+Công nghệ sử dụng Oracle SQL, Database
+Công ty TNHH HTC Holdings Việt Nam
+(08/2019 -  01/2020)
+Khách hàng Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV bank)
+Mô tả dự án Phần mềm kiểm toán nội bộ
+Số lượng thành viên 2
+Vị trí công việc BA
+Vai trò trong dự án
+- Thu thập yêu cầu nghiệp vụ
+- Xây dựng tài liệu URD, hướng dẫn sử dụng
+- Xây dựng kịch bản Test Case
+- Tham gia kiểm thử cùng End- Users
+- Tham gia đào tạo End- Users
+- Soạn thảo các tài liệu theo yêu cầu
+Công nghệ sử dụng Oracle SQL, Cognos IBM
+Công ty TNHH HTC Holdings Việt Nam
+(02/2020 -  03/2020)
+Khách hàng Công ty tài chính TNHH MTV Ngân hàng SHB ( SHBFinance)
+Mô tả dự án Ứng dụng Mobile cho chuyên viên thu hồi nợ địa bàn
+Số lượng thành viên 3
+Vị trí công việc Tester
+Vai trò trong dự án
+- Xây dựng kịch bản Test Case
+- Tham gia kiểm thử cùng End- Users
+- Tham gia đào tạo End- Users
+- Soạn thảo các tài liệu theo yêu cầu
+Công nghệ sử dụng IOS, Android
+Công ty TNHH HTC Holdings Việt Nam
+(03/2020 -  10/2020)
+Khách hàng Ngân hàng Xây dựng Việt Nam (CBbank)
+Mô tả dự án Ứng dụng Mobile Banking
+Số lượng thành viên 5
+Vị trí công việc BA Leader
+Vai trò trong dự án
+- Thu thập yêu cầu nghiệp vụ
+- Xây dựng tài liệu URD, hướng dẫn sử dụng
+- Xây dựng time line dự án
+- Xây dựng và thiết kế ứng dụng
+- Xây dựng kịch bản Test Case
+- Tham gia kiểm thử cùng End- Users
+- Tham gia đào tạo End- Users
+- Soạn thảo các tài liệu theo yêu cầu
+Công nghệ sử dụng IOS, Android, SQL (backend)
+Công ty Công nghệ Sapo
+(10/2020 -  nay )
+Khách hàng Merchant Sapo - Khách hàng sử dụng Phần mềm quản lý bán hàng SapoPos,
+SapoOmi
+Mô tả dự án Ứng dụng SapoBankHUB - Giao dịch ngân hàng điện tử
+Số lượng thành viên 5
+Vị trí công việc BA Leader
+Vai trò trong dự án
+- Xây dựng luồng quy trình ứng dụng BankHUB
+- Xây dựng bản mockup ứng dụng BankHUB
+- Thiết kế web ứng dụng BankHUB (tool: Figma)
+- Tài liệu hóa yêu cầu chi tiết và luồng quy trình ứng dụng BankHUB
+- Tham gia giám sát và kiểm soát quá trình xây dựng hệ thống của Team Dev
+- Tham gia kiểm thử chất lượng ứng dụng trước khi chuyển giao cho Team Tester
+- Phát triển thêm các tính năng của ứng dụng
+Công nghệ sử dụng Java, JavaScript, MySQL
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	KINH NGHIỆM LÀM VIỆC
+	HOẠT ĐỘNG
+	CHỨNG CHỈ
+	CÁC KỸ NĂNG
+	DỰ ÁN
+	Công ty TNHH HTC Holdings Việt Nam
+	Công ty TNHH HTC Holdings Việt Nam
+	Công ty TNHH HTC Holdings Việt Nam
+	Công ty TNHH HTC Holdings Việt Nam
+	Công ty Công nghệ Sapo

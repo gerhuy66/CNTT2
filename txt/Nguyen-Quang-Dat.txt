@@ -1,0 +1,87 @@
+
+Xem CV Online của Nguyễn Quang Đạt
+FPT Aptech
+Lập trình viên phần mềm
+Tự học
+Javascript basics for beginners
+https://ascend.udemy.com/course/javascript-basics-for-beginners
+Tự học
+Khóa học lập trình React.js-Redux ( Reactjs redux tutorial)
+https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp
+10/2018 - 02/2019 TTC Solutions
+Automation Test
+- Chạy test case, kiểm tra lỗi xảy ra.  
+- Viết Script, design test case.  
+- Viết báo cáo test vào cuối ngày.  
+- Công nghệ: Excel, SQL, XML.
+- Tool: Selenium.
+- Product : app mobile CSKH Viettel.
+FPT Aptech ( trường học )
+Developer
+Project: Thiết kế website đọc truyện (thực hiện ở trường)
+- Nội dung project : Tạo trang web đọc truyện cả dạng chữ, hình ảnh với các chức năng
+     + Phân cấp danh mục.
+     + Trình đọc truyện đa dạng.
+     + Căn chỉnh text, số chữ hiển thị
+     + Quản lý nội dung truyện.
+Nguyễn Quang Đạt
+Lập trình viên
+Ngày sinh:  24/05/1999
+Giới tính:  Nam
+Điện thoại:  0383154612
+Email:  sukizu00@gmail.com
+Địa chỉ:  Thăng Long Victory, Hoài Đức, Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+- Mong muốn môi trường áp lực cao để có thể cống hiến và học hỏi được nhiều nhất. 
+- Trở thành senior trong vòng 3 năm.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+     + Đăng nhập, tài khoản thành viên.
+     + Quản lý phân quyền đối với admin.
+     + Bộ lọc tìm kiếm.
+- Công việc : Tham gia code
+     + Thiết kế giao diện người dùng.
+     + Quản lý nội dung truyện.
+     + Đăng nhập, tài khoản thành viên.
+     + Phân cấp danh mục . 
+     + Lưu trữ dữ liệu vào DB.  
+- Công nghệ : SQL, Spring, Bootstrap, JQuery, Java, HTML, CSS.
+- Tool : XAMPP, Intelliji.
+FPT Aptech ( trường học )
+Developer
+Project: Thiết kế website bán hàng (thực hiện ở trường)
+- Nội dung project : Tạo trang web bán hàng với các chức năng
+     + Đa ngôn ngữ.
+     + Tùy chọn đăng kí, đăng nhập.
+     + Quản lý phân quyền.
+     + Thiết kế giao diện.
+     + Tìm kiếm.
+     + Bộ lọc sản phẩm.
+     + CSKH trực tuyến.
+     + Quản trị nội dung.
+     + Quản lý hình ảnh.
+     + Tùy chọn thuộc tính sản phẩm.
+     + Quản lý kho.
+- Công việc : Tham gia code các chức năng
+     + Tùy chọn đăng ký, đăng nhập.
+     + Quản lý phân quyền.
+     + Quản trị nội dung.
+     + Lưu trữ dữ liệu vào DB.
+- Công nghệ : SQL, Bootstrap, JQuery, Angular JS, JavaScript, HTML, CSS.
+- Tool : Apache Tomcat, Intellij.
+Tin học văn phòng - Sử dụng thành thạo các công cụ Word, Excel, Power Point.
+Công nghệ - Sử dụng được các ngôn ngữ : Java, JS, HTML, CSS.
+- Framework :  Java, Spring, Angular JS.
+Tiếng Anh - Đọc hiểu tài liệu.
+CÁC KỸ NĂNG
+SỞ THÍCH
+Cờ Vua 
+Esport 
+Đá bóng 
+Đọc sách
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	KINH NGHIỆM LÀM VIỆC
+	CÁC KỸ NĂNG
+	SỞ THÍCH

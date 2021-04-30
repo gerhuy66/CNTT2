@@ -1,0 +1,421 @@
+
+(48) Phan Nguyen | LinkedIn
+0 notifications total
+Skip to search  Skip to main content   Close jump menu
+0 suggestions found.
+Search
+Search
+Primary Navigation
+new new feed updates notifications
+Home
+My Network
+Jobs
+Messaging
+48 48 new 48 new notifications. notifications
+Notifications
+ Me
+Work
+Try Premium Free for 1 Month
+Phan Nguyen
+Senior software developer at Techvify
+Connect
+ Message
+More…
+file:///feed/?doFeedRefresh=true&nis=true
+file:///feed/
+file:///mynetwork/
+file:///jobs/
+file:///messaging/
+file:///notifications/
+https://www.linkedin.com/premium/products?upsellOrderOrigin=premium_nav_upsell_text&destRedirectURL=https%253A%252F%252Fwww.linkedin.com%252Fin%252Fphan-ng%252F%253ForiginalSubdomain%253Dvn%2526showPremiumWelcomeBanner%253Dtrue
+https://www.linkedin.com/feed/update/urn%253Ali%253Aactivity%253A6788426406255759360
+https://www.linkedin.com/feed/update/urn%253Ali%253Aactivity%253A6787984835014144001?commentUrn=urn%253Ali%253Acomment%253A%2528ugcPost%253A6786967613311475712%252C6787984802009161729%2529
+https://www.linkedin.com/feed/update/urn%253Ali%253Aactivity%253A6771321449379704832?commentUrn=urn%253Ali%253Acomment%253A%2528ugcPost%253A6769889311774142465%252C6771321414206267392%2529
+https://www.linkedin.com/feed/update/urn%253Ali%253Aactivity%253A6768095186196291584
+file:///company/techvify/
+file:///company/gapo-vn/
+file:///company/interspace-vi%25E1%25BB%2587t-nam/
+file:///company/fpt-software/
+file:///search/results/all/?keywords=Linn%20Benton%20Community%20College
+file:///search/results/all/?keywords=Linn%20Benton%20Community%20College
+file:///company/linn-benton-community-college/
+file:///in/simonsinek/
+file:///company/interspace-vi%25E1%25BB%2587t-nam/
+file:///company/gapo-vn/
+file:///company/benton-county-public-library/
+file:///company/techvify/
+file:///company/google/
+file:///in/trangnguyen-rose/
+file:///in/phankhanhthien/
+file:///in/trieu-ngo-a2008a23/
+file:///in/huydq/
+file:///in/thinhmai/
+file:///in/mynguyenhr/
+file:///in/lenhathuylscm/
+file:///in/kh%25C3%25A1nh-linh-%25C4%2591%25E1%25BB%2597-a005401b5/
+file:///in/devcodedao/
+file:///in/nhi-duong-19b806195/
+ Share profile in a message Share Phan Nguyen’s profile via message
+Message
+ Save to PDF Save Phan Nguyen’s profile to PDF
+ Follow Follow Phan Nguyen
+ Report / Block Report or block Phan Nguyen’s profile
+Status is offline
+Connect
+ Message
+ More actions
+ Share profile in a message Share Phan Nguyen’s profile via message
+Message
+ Save to PDF Save Phan Nguyen’s profile to PDF
+ Follow Follow Phan Nguyen
+ Report / Block Report or block Phan Nguyen’s profile
+Phan Nguyen
+3rd degree connection3rd
+Senior software developer at Techvify
+Vietnam
+500+ connections
+Contact info
+ TECHVIFY Vietnam
+ Linn Benton Community College
+People and pages related to Phan
+See all  
+ Previous   Next
+The Cyber Security Hub™ Page • Information
+Technology & Services
+1,028,658 followers
+Follow
+file:///in/phan-ng/detail/contact-info/
+file:///company/the-cyber-security-hub/
+file:///company/the-cyber-security-hub/
+Persistent Systems Page • Information Technology
+& Services
+261,374 followers
+Follow
+Zoho Corporation Page • Information Technology
+& Services
+436,785 followers
+Follow
+About
+I'm into robotics. Anything from electronics design, trouble shooting, 3D printing design to control algorithm, computer vision. 
+...
+see more ... see more
+Activity
+620 followers
+file:///company/persistent-systems/
+file:///company/persistent-systems/
+file:///company/zohocorp/
+file:///company/zohocorp/
+Mình có nhu cầu tuyển các bạn dev/test các loại ngôn ngữ có hơn 1 năm kinh nghiệm. Bạn nào có nhu cầu pm mình nhé.
+Phan shared this
+Burglar's favorite
+Phan commented
+Bạn check với bên techvico xem
+Phan commented
+Lucene: The Good Parts
+Phan shared this
+See all activity See all activity
+Experience
+Senior Software Developer
+file:///in/phan-ng/detail/recent-activity/
+Company Name
+TECHVIFY Vietnam Full-time
+Dates Employed Mar 2021 – Present
+Employment Duration 2 mos
+Location Hanoi, Hanoi, Vietnam
+Backend Developer
+Company Name
+GAPO Full-time
+Dates Employed Jul 2020 – Jan 2021
+Employment Duration 7 mos
+Location Hanoi, Thành Phố Hà Nội, Vietnam
+Contribute to internal utilities library
+Write LRU module using a combination of python dict and LinkedList structure
+Rewrite, update and refactor video feed-api
+Design & implement location based feed-api using latitude & longitude
+AI Developer
+Company Name
+Interspace Việt Nam Full-time
+Dates Employed Oct 2019 – Apr 2020
+Employment Duration 7 mos
+Location Hanoi
+Deploy recommendation API based on the requirement.
+Design & setup Customer Data Platform
+Company Name FPT Software
+Total Duration 2 yrs 3 mos
+Title Software Developer
+Full-time
+Dates Employed Nov 2017 – Sep 2019
+Employment Duration 1 yr 11 mos
+Location Hanoi
+R&D
+- Control module robot arm.
+- Triangulate location of objects with stereo-camera.
+- Design end effector to further increase the accuracy when interacting with the object
+- Use Deep Learning to solve some Image processing problems. … see moreTitle Software Developer
+Dates Employed Jul 2017 – Oct 2017
+Employment Duration 4 mos
+Location Hanoi
+Web Development
+Responsibility includes:
+- Write Web API (Restful API) for a new website
+- Read and Analyze System Requirement given by the customer
+- Work in a team of 3
+- Follow coding convention 
+- Version control
+- Unit testing and debugging
+Main programming language: C#
+Software: Microsoft Visual studio, SQL server management … see more
+Education
+Linn Benton Community College
+Degree Name Associate of Applied Science
+Field Of Study Mechatronic/Industrial Automation Technology
+Dates attended or expected graduation 2014 – 2016
+Linn Benton Community College
+Degree Name AAOT
+Field Of Study Physical Sciences
+Dates attended or expected graduation 2014 – 2016
+Licenses & certifications
+CPR First Aid
+Issuing authority Linn-Benton Community College
+Skills & endorsements
+1. Microsoft Word
+See 3 endorsements for Microsoft Word 3
+Thu Thuy and 2 connections have given endorsements for this skill
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,1)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,1)/
+Thu Thuy and 2 connections have given endorsements for this skill
+2. Research
+See 4 endorsements for Research 4
+Endorsed by 2 of Phan’s colleagues at FPT Software
+3. Mathematics
+See 4 endorsements for Mathematics 4
+Thu Thuy and 3 connections have given endorsements for this skill
+Industry Knowledge
+1. Computer-Aided Design (CAD)
+See 1 endorsement for Computer-Aided Design (CAD) 1
+2. Physics
+3. Pneumatics
+4. Debugging
+5. Technical Writing
+6. Computer Vision
+7. Product Design
+8. Robotics
+9. Image Processing
+10. Software Development
+11. Programming
+Tools & Technologies
+1. PowerPoint
+See 1 endorsement for PowerPoint 1
+2. Microsoft Excel
+3. Python
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,1)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,3)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,3)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,3)/shared-entity-company/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,4)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,4)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,4)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,11)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,11)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,2)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,2)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,13)/
+See 1 endorsement for Python 1
+4. Visual Studio
+5. SQL Server Management Studio
+6. C#
+7. p5.js
+8. Linux
+9. Microsoft Office
+10. Elasticsearch
+11. MongoDB
+12. Amazon QuickSight
+Interpersonal Skills
+1. Easily Adaptable
+See 2 endorsements for Easily Adaptable 2
+2. Organization Skills
+3. Teamwork
+Languages
+1. English
+2. Vietnamese
+Other Skills 
+1. Mechatronics
+2. Hydraulic Systems
+3. Robot Programming
+4. Adobe AfterEffect
+5. Robot Operating System (ROS)
+6. OpenCV
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,13)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,10)/
+file:///in/phan-ng/detail/skills/(ACoAABzTGDQBlajqLgGKLNpufli6Ia7Je2dRH5Y,10)/
+7. Electro-mechanical
+8. Amazon VPC
+9. Amazon Redshift
+10. AWS Identity and Access Management (AWS IAM)
+AWS Identity and Access Management (AWS IAM)
+Show less Show only Phan’s featured skills 
+Interests
+Simon Sinek
+Optimist and Author at Simon Sinek Inc.
+4,623,509 followers
+Interspace Việt Nam
+159 followers
+GAPO
+141 followers
+Benton County Public Library
+3 followers
+TECHVIFY Vietnam
+348 followers
+Google
+21,134,260 followers
+See all See all following
+People also viewed
+Trang Nguyen (Rose) ✔✔  2nd degree connection 2nd
+file:///in/phan-ng/detail/interests/
+Looking for Sales manager in Textile/ Garment/ Fabric field - Hanoi - from $1.500
+Connect
+Thien K. Phan 2nd degree connection 2nd
+Senior Software Engineer - Frontend Team Lead at Cinnamon AI
+Connect
+Trieu Ngo 2nd degree connection 2nd
+Technical Architect Team Lead at TMA Solutions
+Connect
+Huy Do Quang 2nd degree connection 2nd
+Backend Developer at SmartOSC
+Connect
+Thinh Mai 2nd degree connection 2nd
+Delivery Manager at vsource.io
+Connect
+ Show more
+People you may know
+BE BA (My Nguyen) {:distance} {:distance}
+Recruitment Specialist cum Admin at Milensea Retail
+Connect
+Le Nhat Huy {:distance} {:distance}
+President at UTE Logistics and Supply Chain Club
+Connect
+Khánh Linh Đỗ {:distance} {:distance}
+Human Resources Assistant at Hachinet Software
+Connect
+Nguyen Dinh Dat {:distance} {:distance}
+Frontend Angular Developer
+Connect
+Nhi Duong {:distance} {:distance}
+Student at Ton Duc Thang University
+Connect
+ Show more
+LinkedIn Footer Content
+About
+Accessibility
+Talent Solutions
+Community Guidelines
+Careers
+Marketing Solutions
+Privacy & Terms 
+Ad Choices
+Advertising
+Sales Solutions
+Mobile
+Small Business
+Safety Center
+ Questions?
+Visit our Help Center.
+ Manage your account and privacy
+https://about.linkedin.com
+https://www.linkedin.com/accessibility
+https://business.linkedin.com/talent-solutions?trk=flagship_nav&veh=li-footer-lts-control&src=li-footer
+https://www.linkedin.com/help/linkedin/answer/34593
+https://www.linkedin.com/company/linkedin/life?trk=d_flagship3_nav
+https://business.linkedin.com/marketing-solutions?trk=n_nav_lms_f&src=li-footer
+https://www.linkedin.com/help/linkedin/answer/62931
+https://www.linkedin.com/ad/start?trk=n_nav_ads_f
+https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+https://mobile.linkedin.com/
+https://smallbusiness.linkedin.com?&src=li-footer
+https://safety.linkedin.com
+https://www.linkedin.com/help/linkedin?trk=d_flagship3_profile_view_base
+https://www.linkedin.com/psettings/
+Go to your Settings.
+Select Language ةیبرعلا  (Arabic)
+LinkedIn Corporation © 2021
+Status is offline
+Messaging You are on the messaging overlay. Press enter to minimize it.
+ Compose message
+ You are on the messaging overlay. Press enter to minimize it.
+Type to search for connections and conversations.  Search messages
+Search your messages by recipient, content, or conversation name
+After April 15, 2021, your read receipts and typing indicators setting will expand to all messages, including InMails and Message Requests.
+Manage settings  · Got it
+Keep in touch with your network
+Start a conversation with your connections or find new people to grow your network.
+Find new connections
+These skills do not currently fit under the available categories
+Loading…
+file:///mynetwork/import-contacts/
+	0 notifications total
+	Primary Navigation
+	Senior software developer at Techvify
+	People and pages related to Phan
+	About
+	Activity
+	Mình có nhu cầu tuyển các bạn dev/test các loại ngôn ngữ có hơn 1 năm kinh nghiệm. Bạn nào có nhu cầu pm mình nhé.
+	Burglar's favorite
+	Bạn check với bên techvico xem
+	Lucene: The Good Parts
+	Experience
+	Senior Software Developer
+	Dates Employed Mar 2021 – Present
+	Employment Duration 2 mos
+	Location Hanoi, Hanoi, Vietnam
+	Backend Developer
+	Dates Employed Jul 2020 – Jan 2021
+	Employment Duration 7 mos
+	Location Hanoi, Thành Phố Hà Nội, Vietnam
+	AI Developer
+	Dates Employed Oct 2019 – Apr 2020
+	Employment Duration 7 mos
+	Location Hanoi
+	Company Name FPT Software
+	Total Duration 2 yrs 3 mos
+	Title Software Developer
+	Full-time
+	Dates Employed Nov 2017 – Sep 2019
+	Employment Duration 1 yr 11 mos
+	Location Hanoi
+	Title Software Developer
+	Dates Employed Jul 2017 – Oct 2017
+	Employment Duration 4 mos
+	Location Hanoi
+	Education
+	Linn Benton Community College
+	Linn Benton Community College
+	Licenses & certifications
+	CPR First Aid
+	Skills & endorsements
+	Industry Knowledge
+	Tools & Technologies
+	Interpersonal Skills
+	Languages
+	Other Skills
+	Interests
+	Simon Sinek
+	Interspace Việt Nam
+	GAPO
+	Benton County Public Library
+	TECHVIFY Vietnam
+	Google
+	People also viewed
+	Trang Nguyen (Rose) ✔ 2nd degree connection 2nd
+	Thien K. Phan 2nd degree connection 2nd
+	Trieu Ngo 2nd degree connection 2nd
+	Huy Do Quang 2nd degree connection 2nd
+	Thinh Mai 2nd degree connection 2nd
+	People you may know
+	BE BA (My Nguyen) {:distance} {:distance}
+	Le Nhat Huy {:distance} {:distance}
+	Khánh Linh Đỗ {:distance} {:distance}
+	Nguyen Dinh Dat {:distance} {:distance}
+	Nhi Duong {:distance} {:distance}
+	LinkedIn Footer Content
+	Messaging You are on the messaging overlay. Press enter to minimize it.
+	Keep in touch with your network

@@ -1,0 +1,75 @@
+
+Xem CV Online của Le Gia Bao
+Le Gia Bao
+Part-Time/Intern IOS Developer
+ bao.lg1998@gmail.com   0932851423   Ho Chi Minh
+ABOUT
+I'm a senior student of Hoa Sen University, who are looking for a new opportunity as an iOS Developer. I
+can work 30 hours a week due to my school work so an Internship or a Part-time role are ideal. My goal is
+to join and enhance company's products as well as improving my skills. I also looking for a chance to work
+full-time after I graduated
+Hoa Sen University
+August 2016 - Now
+Major: Software Engineering
+EDUCATION
+EBIZWORLD
+June 2019 - December 2019
+Intern & Part-time iOS Developer
+Main responsibilities:
+- Create UIs from our UI/UX team’s designs
+- Fix bugs
+- Optimize code
+- Maintain code
+- Apply new features
+Recognition and Gains:
+- Got an official role in iOS team after finishing 3 months internship,
+joined 2 projects, learned new technologies, improved company's
+products and fixed bugs
+WORK EXPERIENCE
+PATITENT MANAGEMENT
+APP
+March 2019 - June 2019
+School Project
+- This application helps patients from a clinic to manage their
+informations like appointment schedules, previous appointment,
+bills, prescription and booking appointment.
+- Technologies used: Swift, Xcode, Firebase Database
+HALP USER & DRIVER
+Sept 2019 - Dec 2019
+EBIZWORLD
+- These are booking car applications for both user and driver, they had
+been published in Singapore when I joined. My role in the team was to
+PROJECTS
+fix bugs, maintain and optimize codes and apply new features
+- Technologies used: Swift, Firebase, Alamofire, Swifty JSON and
+RESTful API
+BIGCOSM
+June 2019 - Sept 2019
+EBIZWORLD
+- This is an e-wallet application, which was still in the first stage of
+development. My role was to create UIs and applied some features
+such as: Transaction history, catching notifications from Firebase, auto
+logout, QR Scan
+- Technologies used: Swift, Firebase, Moya, Swifty JSON and RESTful
+API
+Swift Experienced, know the fundamentals and used in school and company's
+projects
+Design Pattern Experienced in MVC and familiar with MVVM
+RESTful API Experienced in using RESTful API and handling JSON
+RxSwift Familiar with it's concept and tried a small project from Medium
+Core Data Familiar with it's concept and tried a small project from Medium
+Cloud message APIs Experienced with Firebase Cloud Message
+Third party libraries Experienced with Swifty JSON, Moya, Alamofire
+OOP Experienced
+Firebase Experienced
+TECHNICAL SKILLS AND TOOLS
+Critical thinking Having an the to think clearly and rationally, understanding the logical
+connection between ideas
+English I can communicate, discuss daily topics, read specialized documents and
+write non-academically
+Adaptability Having no problem with learning new things and get used to new working
+environment 
+Problem Solving Having an ability to tackle unexpected problems and resolves conflicts
+Teamwork Worked effectively in a team
+SOFT SKILLS
+© topcv.vn

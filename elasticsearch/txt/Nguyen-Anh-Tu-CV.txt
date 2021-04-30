@@ -1,0 +1,51 @@
+
+Xem CV Online của Nguyễn Anh Tú
+SKILLS
+• HTML BEM, CSS, Responsive
+• Javascript ES6, React JS
+• SASS
+• Bootstrap 4
+• Database: SQL, MySQL, Oracle
+• Github
+HOBBY
+PROJECTS
+EDUCATION
+Nguyễn Anh Tú INTERN DEVELOPER
+20/04/2000 Male
+0822.325.262 tunguyen2042000@gmail.com
+Address: Hồ Chí Minh www.facebook.com/profile.php?id=1000
+06884797334
+
+PROJECT AT SCHOOL
+04/2020 - 06/2020
+JAVA SWING APPLICATION
+Link code:
+https://github.com/DoAnPTTK/DoAn_PTTK/tree/master/Do_a
+n_PTTK
+Project using: Java, Oracle, iReport, MVC mode
+Description: Project use to manage coffee shop. Some features
+of project are: login, decentralized users (boss and employee),
+issue an invoice, order,...
+LANDING PAGE
+08/2020
+WEB
+Link Website: https://github.com/tu18521582/PlayGroundPSD
+Website using: HTML5, SASS
+Description: Slice PSD to HTML
+REACTJS WEB
+11/2020
+REACTJS WEB
+Link Website: https://applestore-d338c.web.app/#/
+Website using: HTML5, CSS3, Responsive, Bootstrap 3, React
+Bootstrap, Javascript, React Hook, Redux Toolkit, React Router
+Description: After a period of self-study on the internet, i made
+this project. Some features of project are: add to cart, sort,
+check inventory, checkout,...
+2020 ALL PROJECTS
+Link: https://github.com/tu18521582
+INFORMATION SYSTEM
+2018 - 2022
+UNIVERSITY OF INFORMATION TECHNOLOGY VNU-HCM
+GPA: 7.7/10
+Soccer Running
+Sing Travel

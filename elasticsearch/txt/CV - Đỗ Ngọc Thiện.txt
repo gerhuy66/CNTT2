@@ -1,0 +1,53 @@
+
+react native
+G I Ớ I  T H I Ệ U
+Là người có suy nghĩ tích cực, thái độ làm việc tốt, chịu khó và
+ham học hỏi công nghệ mới. Thích làm việc nhóm để cùng
+nhau học hỏi và phát triển.
+D Ự  Á N  C Á  N H Â N
+L I ÊN  H Ệ
+0345473831
+K I Ế N  T H Ứ C / K Ĩ  N Ă N G
+ĐỖ NGỌC THIỆN
+F R E S H E R  M O B I L E  D E V E L O P E R  ( R E A C T  N A T I V E )
+Programming Languages:
+JavaScript ES6, TypeScript
+HTML5, CSS3, SCSS
+Frameworks/Platforms:
+ReactJS, React Native
+NodeJS (Express)
+Database Management:
+MongoDB
+Version Control:
+Git
+Other:
+Redux Toolkit
+Perseus Clothes
+Công nghệ sử dụng:
+ - ReactJS, SCSS, Redux, ExpressJS, MongoDB
+https://github.com/thiendo261/perseus-clothes
+https://perseus-clothes-td99.web.app
+Mô tả:
+28/09/2020 - 13/10/2020
+ - Trang web này giúp người dùng có thể đặt và mua quần áo trực tuyến.
+Link GitHub:
+Link web:
+XWeather
+Công nghệ sử dụng:
+ - React Native
+https://github.com/thiendo261/XWeather
+https://drive.google.com/file/d/1ExvUdhJEo13LBB5YQHFhygghG8
+gE-qhw/view?usp=sharing
+Mô tả:
+26/10/2020 - 15/11/2020
+ - Ứng dụng này giúp người dùng có thể theo dõi chi tiết thông tin thời tiết tại
+vị trí hiện tại và các thành phố khác trên thế giới.
+Link GitHub:
+Link Android:thiendo3831@gmail.com
+github.com/thiendo261
+Q.Hoàng Mai, Hà Nội
+https://github.com/thiendo261/perseus-clothes
+https://perseus-clothes-td99.web.app/
+https://github.com/thiendo261/XWeather
+https://drive.google.com/file/d/1ExvUdhJEo13LBB5YQHFhygghG8gE-qhw/view?usp=sharing
+https://www.github.com/thiendo261

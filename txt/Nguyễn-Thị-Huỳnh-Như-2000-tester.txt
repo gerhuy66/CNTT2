@@ -1,0 +1,66 @@
+
+Xem CV Online của Nguyễn Thị Huỳnh Như 2000 - 123job.vn
+NGUYỄN THỊ HUỲNH NHƯ
+Kiểm Thử Phầm Mềm (Manual Tester)
+ 12/10/2000
+ Nữ
+ 0921456412
+ nthnhu08@gmail.com
+ Điện Biên Phủ, Quận 10
+ bitly.com.vn/ezbggj
+ MỤC TIÊU NGHỀ NGHIỆP
+-  Ngắn hạn: Em mong tìm được môi trường
+làm việc năng động và thân thiện để em có
+kiến thức vững về kiểm thử phần mền và
+hoàn thành tốt kì thực tập
+- Dài hạn: Có cơ hội được làm nhân viên của
+công ty và trở thành Test Mangager trong
+vài năm tới.
+ KỸ NĂNG
+Tiếng Anh
+SQL
+C++
+JAVA
+Test Case
+Git Hub
+ TRÌNH ĐỘ HỌC VẤN
+Cao đẳng kĩ thuật Cao Thắng
+Công nghệ thông tin
+Trong hơn 2 năm học tập ở trường, em đã có những kiến
+thức cơ bản vầ quy trình phát triển phần mền và các ngôn
+ngữ đa dạng như C++/C#, JAVA, ASP.NET. Ngoài ra em
+còn được học về kiểm thử phần mềm bao gồm viết các
+test case và học về TestComplete, Lambdatest, Katalon,
+thành thạo SQL và các lệnh github
+9/2018
+-
+Hiện tại
+ KINH NGHIỆM LÀM VIỆC
+Đồ án quản lý hệ thống rạp chiếu phim.
+Thành viên nhóm 2 người
+- Phân tích yêu cầu và xây dựng cơ sở dữ liệu.
+- Tham gia lập trình đồ án trên giao diện android
+- Lập test case và test đồ án trước khi báo cáo
+- Viết cáo và thuyết trình
+2/2020
+-
+6/2020
+Đồ án quản lý quán cà phê
+Thành viên nhóm 3 người
+-Phân tích yêu cầu 
+- Thiết kế cơ sở dữ liệu
+- Thiết kế giao diện đồ án
+- Tham gia lập trình đồ án bằng ngôn ngữ C#
+- Viết báo cáo đồ án
+- Kết quả: đồ án được đánh giá cao và đạt điểm 9,25.
+8/2020
+-
+Hiện tại
+©123job.vn
+	Cao đẳng kĩ thuật Cao Thắng 9/2018 - Hiện tại
+	NGUYỄN THỊ HUỲNH NHƯ
+	Kiểm Thử Phầm Mềm (Manual Tester)
+	Đồ án quản lý hệ thống rạp chiếu phim. 2/2020 - 6/2020
+	Đồ án quản lý quán cà phê 8/2020 - Hiện tại
+	MỤC TIÊU NGHỀ NGHIỆP
+	KỸ NĂNG

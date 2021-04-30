@@ -1,0 +1,72 @@
+
+Xem CV Online của Nguyễn quốc việt
+2017 - 2021 Đại học Sư phạm kỹ thuật
+Chuyên ngành: Công Nghệ Phần Mềm
+Hiện tại em là sinh viên năm 4. Em đang học về lập trình web và
+thamgia các đồ án do trường đưa ra
+Back-end NodeJs, Express, PostgreSql , MongoDB
+Front-end AngularJs, ReactJs , HTML/CSS
+Nguyễn Quốc Việt
+Thực Tập Sinh
+Ngày sinh:  18/12/1999
+Giới tính:  Nam
+Điện thoại:  0967181299
+Email:  vietnqv1812@gmail.com
+Địa chỉ:  104/b5 đường số 2 P13, Q6
+Website:  https://www.facebook.com/vietnqv1812/
+MỤC TIÊU NGHỀ NGHIỆP
+Với những gì em tự học và được học ở trường em đã tham gia một dự án môn học với Angular cùng với
+Nodejs. Trong thời gian rảnh, em đã tự học các kiến thức nền về ReactJs, Em mong muốn được áp dụng kiến
+thức vào thực tế và học hỏi thêm nhiều kiến thức mới .Em xin cảm ơn !
+HỌC VẤN
+CÁC KỸ NĂNG
+DỰ ÁN
+Nền tảng hỗ trợ ngành du lịch
+(2019 - 2020)
+Khách hàng none
+Mô tả dự án - Nền tảng hõ trợ ngành du lịch
+- Link Git :https://github.com/thanhht99/TLCN_BlogShareTravel
+Số lượng thành viên 2
+Vị trí công việc Lập trình viên
+Vai trò trong dự án - Front-end
+- Thiết kế giao diện 
+Công nghệ sử dụng
+-NodeJs
+-Express
+-PostgreSql
+-Angularjs
+E-Commerce
+(2019 - 2020)
+Khách hàng none
+Mô tả dự án - E - Commerce
+- Link Git :https://github.com/VietNguyen1812/ECommerce
+Số lượng thành viên 3
+Vị trí công việc Lập trình viên
+Vai trò trong dự án - Front-end
+- Thiết kế giao diện 
+Công nghệ sử dụng
+-NodeJs
+-Express
+-PostgreSql
+-HTML/CSS
+Training ReactJs
+(2020 - 2021)
+Khách hàng none
+Mô tả dự án - App chat
+- https://github.com/VietNguyen1812/vietnqv
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án - Front-end
+- Thiết kế giao diện 
+Công nghệ sử dụng
+-NodeJs
+-Express
+-ReactJs
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	CÁC KỸ NĂNG
+	DỰ ÁN
+	Nền tảng hỗ trợ ngành du lịch
+	E-Commerce
+	Training ReactJs

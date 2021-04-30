@@ -1,0 +1,142 @@
+
+ 
+ 
+  Page 1 of 2 
+ 
+          
+Phap Nguyen Vu 
+                
+OBJECTIVE 
+     11 year-experience software engineer has been working in building business products using web technologies. I am 
+special interested in using cutting-edge and to develop scalable, available and high performances applications and 
+systems are able to help users save time and cost 
+ 
+QUALIFICATION 
+Bachelor’s degree in Computer Software Engineering - Ho Chi Minh University of Science. Rank: excellent 
+ 
+ MY ABILITY 
+- I can work as full stack engineer includes DevOps and make it become successful product. 
+- I can analyze document and discuss with customers. 
+- I can research new technical quickly 
+ 
+ TECHNICAL SKILLS 
+Web Server 
+• OC4J Web Server 
+• Tomcat Server, JBoss 
+Database 
+• Oracle,  
+• My SQL, Postgre 
+• MongoDB (NoSql) 
+Technical /Framework 
+• Sping, EJB, Seam, JSF  
+• MyBatis, JPA, Hibernate  
+• Web Socket, JQuery, Maven, Git 
+• Linux, Amazon Cloud Service, Firebase 
+Language Programming 
+• Java, .Net, JavaScript, ReactJS, JQuery 
+CAREER HISTORY 
+FROM 5/2015 – PRESENT POSITION: SENIOR / FULL  STACK SE GO2JOY 
+ 
+Hotel Project (Go2Joy): Users can find and book a room at some motels, hotel via Android or iOS app, hotel can 
+manage their bookings on Web and mobile. Backend manages all of system. 
+-  Kind of project:  Startup, web application, mobile server. 
+-  Technical / Framework: Spring (Boot, MVC, Data JPA, Cloud, Batch, AOP), Keycloak, MyBatis, Apache Tomcat, 
+Postgre, My SQL, MongoDB, ReactJS, Linux 
+-  3rd service: Amazon Cloud Service (AWS), Firebase, Speed SMS, Long Vân, ZaloPay, Momo,OnePay 
++ Analyze client’s requirement and write document. 
++ Designed whole system architecture, database  
+ 
++Worked as full stack engineer includes DevOps 
++Design and develop REST API, micro-services 
++ Research new technical for project 
+ 
+ 
+Hospital Project: Managing clinic such as therapist, patient, reservation, information of medicine. System support 
+application on android and iOS 
+-  Kind of project:  Startup, web application, mobile server. 
+-  Technical / Framework: Linux, Spring, MyBatis, Socket, Apache Tomcat, My SQL  
++ Analyze client’s requirement and write document. 
++ Designed whole system architecture, database  
++Worked as full stack engineer includes DevOps 
++Design and develop REST APIs, micro-services 
++ Research new technical for project 
+ 
+FROM 6/2012 – 5-2015 POSITION: DEVELOPER AIT 
+Email nvphap@gmail.com 
+Mobile (+84) 772999976 
+Skype nvphap 
+Address 467/101/3 Le Duc Tho Street, Ward 
+16, Go Vap District, Ho Chi Minh City. 
+Date Of Birth 15/11/1986 
+ 
+ 
+ 
+NGUYEN VU PHAP 
+SENIOR JAVA WEB DEVELOPER 
+ 
+ 
+  Page 2 of 2 
+ 
+ 
+PowerEgg Project: Managing company information such as: employee, salary calendar, reservation, working time. 
+-  Kind of project: production, web application. 
+-  Technical / Framework: Java, EJB, JSF, JPA, Seam, OC4J, Oracle. 
++ Exkeihi: plug-in developed from PE core. 
++ Eiken: update which developed from PE core (old 
+version). 
++ PowerEgg V2.5. 
++ PowerEgg V2.6: update PE core. 
++ AGS: customize for some customers from PE core. 
++ Space Chart: plug-in for customer from PE core. 
++ Fuji: customize from Exkeihi for other customer. 
++ Odic: customize from Exkeihi for other customer. 
+ 
++ Mitani-add on: plug-in developed from PE core for 
+Mitany. 
++ Retest to improve quality of PE includes versions: PE 
+2.4, PE 2.5,PE 2.6. 
++ PowerEgg V2.7. 
++ Aureole: is an internal project which developed from 
+PE core V2.4. 
++ Mitani: is an internal project which developed form PE 
+core 2.6. 
++ Hanshin: customize from Exkeihi for other customer. 
+ 
+FROM 9/2011 – 5/2012 POSITION: DEVELOPER GLOBAL CYBERSOFT 
+ 
+Siporex Project: Managing concrete production in production line. 
+-  Kind of project: production, Window Form 
+-  Technical / Framework: C#, VB.Net , IIS 7, Oracle 
++ Read,analysis and implement requirement. 
++ Handle 15 services  
++ Unit test for functions and services. 
++ Write Simulator for project  
+ 
+FROM 1/2011 – 9/2011 POSITION: DEVELOPER PYRAMID CONSULTING 
+ 
+Belga project:  A biggest daily press of Belgium. Include small projects such as: Info Office, Press Agenda, PRSAPS.  
+There are a lot of websites in this project. These website support managing news, press daily and publishing them. 
+-  Kind of project: production, web application. 
+-  Project includes: Info Office, Press Agenda, PRSAPS project. 
+-  Technical / Framework: Java, Spring, Struts2, Hibernate3, Oracle,Apache tomcat, JBoss. 
++ In Info Office: display news for clients 
++ In Press Agenda: Manage news, information of company, journalists.  
++ In PRSAPS: another branch which manage daily news  
+ 
+ 
+One2Free: A biggest online mobile seller at Hong Kong. This is ERP system which managing selling and buying of 
+customer. Help sellers in keep track of their activity.  
+-  Kind of project: production, web e-commerce 
+-  Technical / Framework: Spring, velocity, jQuery, Elasticpath CMS, Apache Tomcat, Oracle. 
+-  Implement new function and fix bugs in system 
+FROM 12/2009 – 12/2010 POSITION: DEVELOPER FSOFT 
+ 
+GA20 for HTC (Taiwan) – Android Phone: development and maintenance small applications for HTC corporation. 
+-  Kind of project: Android,maintenance and development. 
+-  Fix bugs and implement new function app and widget in system. 
+CT Osteo for HMC (Hitachi Medical): About medicine which keep track of osteomalacia. View bone image and point 
+out data of them. A project about CT device – process images of CT device. 
+-  Kind of project: production 
++ Read and understand technical document and implement them via Delphi language 
++ Draw sequence, flowchart, class diagram,use-case. 
+ 

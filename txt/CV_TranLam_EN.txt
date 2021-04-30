@@ -1,0 +1,60 @@
+
+Xem CV Online của TRAN THANH LAM
+TRAN THANH LAM
+Fresher Java Developer
+ Sep 19, 2000
+ Male
+ 0941841519
+ lamtt7777@gmail.com
+ Hồ Chí Minh, Vietnam
+ facebook.com/laym2k
+SKILLS
+Java application
+Java web
+HTML/CSS
+Bootstrap
+Javascipt
+Angular JS
+Automation Testing, Manual Testing
+SQL Server, MySQL
+ AUG 2018 - DEC 2020
+OCT 2020 - DEC 2020
+JAN 2019 - FEB 2019
+SEP 2019 - DEC 2019
+MAR 2020 - APR 2020
+AUG 2020 - NOV 2020
+OBJECTIVE
+When I first came into technology, I had a passion for technology. As an avid learner, hard-working,
+calm, creative, like perfection, love beauty and is always ready to get things done. With the current
+amount of knowledge and skills about orienting to become a developer, I look forward to working
+practices to develop myself and contribute to the growing business.
+EDUCATION
+FPT POLYTECHNIC COLLEGE  |  Software application
+GPA: 7.5/10
+WORK EXPERIENCE
+VIETTEL DIGITAL  |  Intern Developer
+Main responsibilities:
+- Research solutions and perform assigned tasks
+- Meet regularly with leaders to discuss problems encountered at work and take on new tasks as
+well as learn new knowledge from leaders. 
+- Support for technical issues
+Recognition and Gains:
+- Being trained in skills and working style 
+- Improve the ability to read, learn documents, research and access new technologies. Applying
+programming knowledge to work
+PROJECT
+TRANSACTION MANAGEMENT  |  Leader
+- Using development language is JAVA, MySQL database along with somelibraries such as
+JxBrowser, Java Mail,...
+STUDENT MANAGEMENT SYSTEM  |  Personal
+- For a database designed on SQL Server, I use Java Spring with Maven tocreate web apps. HTML/
+CSS/ Javascript and Bootstrap 4 for better FEdesign.
+WEB ONLINE TESTING QUIZZES.  |  Personal
+- Using HTML/ CSS/ Javascript to design interface with Bootstrap 4 andAngularJS is used to
+upload data from the JSON file to make the websitemore complete.
+WEBSITE FOOD DELIVERY ONLINE  |  Leader
+- UI is built with HTML / CSS / JS and Bootstrap with some support tools like Photoshop and
+Adobe XD
+- SQL Server is used to store databases and use Java Spring to build websites 
+- In addition, use Github and Scrum to easily manage, deploy, and work efficiently
+© topcv.vn

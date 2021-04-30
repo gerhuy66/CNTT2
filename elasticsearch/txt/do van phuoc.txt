@@ -1,0 +1,44 @@
+
+Xem CV Online của Đỗ Văn Phước
+08/2018 - 05/2020 Đại học Công nghiệp Hà Nội
+Khoa học máy tính
+HTML Hiểu được ý nghĩa của các thẻ HTML và sử dụng chúng đúng với ý định
+của design để tạo ra code HTML có ý nghĩa để xây dựng layout 1 cách
+chiǹh xác.
+CSS Hiểu được chức năng các thuộc tính CSS.
+Có thể sử dụng CSS thuần để tạo layout và giao diện có độ chính xác
+cao so với bản thiết kế.
+Javscript Hiểu được nhưñg khái niêṃ cơ bản về Javascript và làm được nhưñg
+chức năng nhỏ trong thực tế.
+Reponsive Làm được nhưñg trang có đô ̣hiển thi ̣tốt trên đa thiết bi ̣
+Convert PSD to HTML/CSS Có khả năng chuyển từ file PSD sang HTML CSS
+Đỗ Văn Phước
+Ngày sinh  28/11/2000
+Giới tính  Nam
+Điện thoại  0834111643
+Email  dovanphuocht@gmail.com
+Địa chỉ  Phương Canh, Nam Từ Liêm, Hà Nội
+MỤC TIÊU NGHỀ NGHIỆP
+Muc̣ tiêu ngắn haṇ:
+-Thay đổi bản thân giữa môi trường học và làm, muốn phát triển kỹ năng bản thân,cùng xây dựng các
+dự án lớn với công ty+Chuyên tâm tìm và đổi mới tư duy . tìm ra cách học hiệu quả - Được tìm hiểu sâu
+về ReactJs và node JS .
+.Ưu điểm: Có khả năng tự hoc̣ search vấn đề có tinh thần trách nhiêṃ cao trong viêc̣ chủ đôṇg tim̀ hiểu
+công nghê ̣mới.
+HỌC VẤN
+CÁC KỸ NĂNG
+SỞ THÍCH
+Đam mê lập trình web, chơi game, tập Gym.
+SẢN PHẨM CÁ NHÂN
+Tạo giao diện từ file PSD
+1. https://phuocdev2811.github.io/product1/  (HTML/CSS)
+2. https://phuocdev2811.github.io/project2/   (HTML/CSS)
+3. https://phuocdev2811.github.io/project3/   (HTML/CSS)
+4. https://phuocdev2811.github.io/fashion/     (HTML/CSS/SASS/Reponsive)
+5. https://phuocdev2811.github.io/softino/     (HTML/CSS/SASS/JS/Reponsive)
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	CÁC KỸ NĂNG
+	SỞ THÍCH
+	SẢN PHẨM CÁ NHÂN

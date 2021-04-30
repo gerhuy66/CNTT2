@@ -1,0 +1,57 @@
+
+Xem CV Online của Đoàn Vĩnh Nghi
+Đoàn Vĩnh Nghi
+Ho Chi Minh City
+  0817263306   doanvinhnghi1209@gmail.com
+FPT Software academy 20 July 2020 - 25 Oct 2020
+- I graduated from Binh Thuan College, majoring in Resort Administration.
+- In 2019, I started learning to code and fell in love with it. So I decided to pursue the
+Information Technology industry.  
+- I hope to find an environment that I can improve my experience skills as well as I can
+contribute my ability to the development of the company.  
+- My goal is to become a good developer then I can support many projects and other
+team members.
+Aug 2015 - Aug 2018
+- Programming language: Java 
+- Front-end: HTML5, CSS, JavaScript, jQuery, AJAX 
+- IDE: Eclipse, IntelliJ, Visual Studio Code
+- Database: MS SQL, MySQL 
+- Operating System: Windows 
+- Version Control System: Git
+EDUCATION
+Front-end developer course
+Rate: B
+SUMMARY
+SKILLS
+PROJECTS
+Manage bike store
+(12/2019 - 03/2020)
+Customer none
+Description
+ Develop a web that manages a bike store: 
+   - Allow user login to systems. 
+   - Add, remove, update, check the status bike in store. 
+   - Design database
+Team size 02 people
+My position none
+My responsibilities
+- Analysis and design
+- Implement code
+- Optimize code
+- Bug Fixing
+Technologies used - HTML, CSS, JavaScript, Java JSP, SQL
+INTERESTS
+Swimming, traveling, listen to music.
+© topcv.vn
+	Đoàn Vĩnh Nghi
+	EDUCATION
+	FPT Software academy
+	20 July 2020
+	25 Oct 2020
+	SUMMARY
+	- I graduated from Binh Thuan College, majoring in Resort Administration. - In 2019, I started learning to code and fell in love with it. So I decided to pursue the Information Technology industry.   - I hope to find an environment that I can improve my experience skills as well as I can contribute my ability to the development of the company.   - My goal is to become a good developer then I can support many projects and other team members.
+	Aug 2015 - Aug 2018
+	SKILLS
+	PROJECTS
+	Manage bike store
+	INTERESTS

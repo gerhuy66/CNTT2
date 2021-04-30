@@ -1,0 +1,62 @@
+
+Hiep Trinh
+Front-End Developer
+Desirous of a company front-end developer role in a challenging workplace that welcomes innovative
+ideas and offers growth opportunities and positive environment for accomplishing projects
+dinhhiep7793@gmail.com
+0971417767
+Ho Chi Minh City, Vietnam
+linkedin.com/in/hiep-trinh-
+57ab251a4
+SKILLS
+HTML CSS
+JavaScript ReactJS
+React Hooks Redux
+Nextjs TypeScript
+LANGUAGES
+English
+Professional Working Proficiency
+INTERESTS
+Programming
+Guitar
+Reading Book
+WORK EXPERIENCE
+Technician
+ON Semiconductor Vietnam
+07/2018 - 11/2019, Bien Hoa city
+Repair/maintenance/setup on equipment and machinery.
+Production Line support for equipment in assigned area.
+Assists in new equipment setup, resolution of major equipment problems and equipment
+restoration.
+Assists in the development of projects to improve equipment performance, prolong life of
+parts, and management of spares.
+Assists in the development of preventive maintenance schedule, procedure, checklists, buy-off,
+and specifications.
+Assists in the analysis and resolution of customer issues.
+Perform other functions to support manufacturing requirements.
+Technician
+GES Vietnam
+01/2018 - 06/2018, Ho Chi Minh city
+Installation / setting up machines, equipment
+Designs electrical systems by developing and testing components
+Confirms system's and components' capabilities by testing methods
+PROJECTS
+Fashion Website
+My responsibilities: Build some components with functions as responsive web design, animation effect
+follow Louis Vuitton
+Features: Show related products, Shipping & delivery, Product descriptions, Multiple payment
+options,Shopping cart,Favorite products list,Customer support,The feedback/ suggestion corner
+Technologies: JSX, NextJS, TypeScript, React Hooks
+Link: https://github.com/trinhdinhhiep/luxury-shopping
+E-Commerce Website
+My responsibilities: Build website with its features follow Amazon
+Features: Show product descriptions, Sign in/Sign out, Payment, Shopping cart, Orders list
+Technologies : ReactJS, React Router DOM, Firebase, React Hook, Stripe, ExpressJS
+Link: https://github.com/trinhdinhhiep/amazon-clone.git
+EDUCATION
+Bachelor of Computer Science, May 2017
+University of Technical Education Ho Chi Minh city
+Tasks
+Tasks
+mailto:dinhhiep7793@gmail.com
+https://www.linkedin.com/in/hiep-trinh-57ab251a4/

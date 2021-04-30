@@ -1,0 +1,53 @@
+
+Nguyễn nhựt tân
+NGUYỄN NHỰT TÂN
+D E V E L O P E R  W E B S I T E
+P R O F E S S I O N A L  B I O G R A P H Y
+I am an IT student, I have a lot of
+professional experience because I have
+been involved in projects with Front-End
+management. I also have my own
+products. It is my responsibility to
+ensure that the website is functioning
+well, conveniently and user-friendly.
+E X P E R T I S E
+- Fluent in programming languages HTML, CSS,
+JAVASCRIPT.
+- 1 year experience framework REACT JS.
+- 8 months experience using BOOTSTRAP4, GIT.
+- Knowledgeable NODEJS, MONGODB.
+- Understand the principles of website operation.
+- Knowledge of RestfulAPI.
+C O N T A C T  I N F O R M A T I O N
+Email: nguyentan15102000@gmail.com
+Phone: 0902356022
+P R O C E S S  W O R K
+INTERN DEVELOP WEBSITE
+Teamscal company 
+03/2021
+- Pull data leads for business.
+- Build leads statistic interface for business.
+E D U C A T I O N
+TRANSPORTATION COLLEGES
+College education |  8/2019 -  4/2021
+- Learn theory and practice intensively.
+- Be interacting with real projects.
+- Be trained in practical experience.
+S K I L L
+P E R S O N A L  P R O D U C T S
+Product name: Shop Animal
+Description: E-commerce website products
+in the field of pet products and services.
+Link: shopanimal.github.io/home/
+Product name: Profile
+Description: Profile template
+Link: nguyennhuttan1510.github.io/info
+- Communication skills.
+- Solve the problem well.
+- Teamwork, independent work.
+- Listening and absorbing.
+FREELANCER DEVELOP WEBSITE
+ 03/2020 -  1/2021
+- Build a mobile/desktop website interface.
+- Website functionality design.
+- Optimize the website system.

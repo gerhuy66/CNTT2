@@ -1,0 +1,249 @@
+
+Curriculum vitae 
+ 
+CURRICULUM VITAE 
+ 
+PERSONAL DETAILS 
+ 
+• Name  NGUYEN TUONG VU 
+• Nationality  Vietnamese 
+• Date of Birth  June 6, 2000 
+• Sex  Male 
+• Marital status Single 
+• Phone No. 0909315344  
+• Email  tuongvu2448@gmail.com 
+ 
+POSITION:  Backend Developer (Java) 
+ 
+SUMMARY: 
+ 
+Having experience in website development. Working well with windows, Java. 
+Good at embedded, object-oriented methodology, logical thinking, quickly acquire new 
+technology… 
+ 
+Expertise includes 
+• windows. 
+• Networking (Basic). 
+• Object-oriented methodology. 
+• Spring mvc 
+• SQL skills 
+ 
+• Java  
+• Website design (Basic). 
+• Embedded 
+• HQL skills 
+  
+EDUCATIONAL BACKGROUND: 
+ 
+2018 – 2021 Student of Ho Chi Minh city Industry and Trade College. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mailto:tuongvu2448@gmail.com
+Curriculum vitae 
+ 
+CAREER HISTORY AND EXPERIENCE: 
+  
+December 2019 – March 
+2020: 
+ Developer 
+ OneTech: 
+     This project aims to build an E-commerce site. 
+Responsibilities: 
+• Website design, development and management. 
+Team size: 
+      1 people 
+Technologies, skills used in project: 
+• Java Servlet 
+• JDBC 
+• JSTL 
+• HTML5 
+• CSS 
+• Bootstrap 
+• jQuery  
+• JS 
+• PostgressSQL 
+• SQL Skills 
+ Achievements:  
+• complete functionality of the site. 
+• Gain much knowledge about Java Web. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum vitae 
+ 
+In april 2020:  Developer 
+ Ashion: 
+     This project aims to develop a sales website to learn in depth 
+about Java Web. 
+Responsibilities: 
+• Website design, development and management. 
+Team size: 
+      1 people 
+Technologies, skills used in project: 
+• Java Servlet 
+• JDBC 
+• JSTL 
+• HTML5 
+• CSS 
+• jQuery  
+• Bootstrap 
+• JS 
+• PostgressSQL 
+• SQL Skills 
+ Achievements:  
+• Proficient in Java programming. 
+• Work faster.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum vitae 
+ 
+June 2020 – today:  Developer 
+ Aroma: 
+     This project is for build an E-commerce site use Spring 
+Framework. 
+Responsibilities: 
+• Website design, development and management. 
+Team size: 
+      1 people 
+Technologies, skills used in project: 
+• Sping mvc 
+• Hibernate 
+• HTML5 
+• Bootstrap 
+• JS 
+• jQuery 
+• J2EE  
+• JavaScript 
+• CSS 
+• PostgressSQL 
+• DBeaver 
+• HQL Skills 
+• Ckediter and ckfinder 
+• Familiarity with source-control products (svn, git), Maven … 
+ Achievements:  
+• Understand many new technologies  
+• develop error correction capabilities, debug. 
+ 
+ 
+ 
+TECHNICAL AND PROCESS SKILLS: 
+  
+Skill names Level of skill Months of 
+experience 
+Operating Systems 
+Windows  2 30 
+Languages 
+Java 2 12 
+Database 
+MySQL 1 18 
+PostgressSQL 1 12 
+SQL Sever 2 24 
+Curriculum vitae 
+ 
+TRANSCRIPT: 
+ 
+STT Mã Môn Tên Môn TC % KT % Thi Thi L1 Thi L2 
+1 224099 Anh văn đầu vào 4 0 100 6.2   
+2 229038 Nhập môn lập trình 3 0 100 6.9   
+3 229086 Cấu trúc rời rạc 2 0 100 5.9   
+4 229100 Tin học 2 0 100 7.5   
+5 222033 Toán ứng dụng A 3 0 100 8.9   
+6 224003 Anh văn 1 3 0 100 7.4   
+7 224004 Anh văn 2 3 0 100 6.9   
+8 222024 Xác suất thống kê 2 0 100 8.7   
+9 229005 Kiến trúc máy tính 2 0 100 5.7   
+10 222003 Đại số tuyến tính 2 0 100 8.6   
+11 229008 Cơ sở dữ liệu 3 0 100 8.7   
+12 229055 Phần mềm xử lý ảnh (Photoshop) 2 0 100 6.5   
+13 234007 Bóng rổ 1 2 0 100 6.2   
+14 229104 Kỹ thuật lập trình 2 0 100 7.9   
+15 234012 Giáo dục quốc phòng và an ninh 5 0 100 6.4   
+16 226020 Pháp luật đại cương 2 0 100 6.4   
+17 229109 Lý thuyết đồ thị 2 0 100 7.1   
+18 223007 Chính trị 2 3 0 100 6.3   
+19 224016 Anh văn 3 3 0 100 6.8   
+20 229105 Lập trình Android 2 0 100 7.4   
+21 229113 Thiết kế Web 2 0 100 7.5   
+22 226017 Môi trường và con người 2 0 100 7.6   
+23 229021 Lập trình web 3 0 100 6.8   
+24 229004 Cấu trúc dữ liệu và giải thuật 3 0 100 7.7   
+25 234008 Cầu lông 1 2 0 100 5.1   
+26 229014 Hệ điều hành 2 0 100 8.2   
+27 229098 Hệ quản trị SQL Server 2 0 100 6.7   
+28 229022 Mạng máy tính 2 0 100 5.6   
+29 229011 Đồ án chuyên ngành (Tin) 1 0 100 6.5   
+30 222035 Kỹ năng mềm 2 0 100 7.6   
+31 223006 Chính trị 1 3 0 100 6.1   
+32 229123 Chuyên đề thực tế tại doanh nghiệp 1 (Tin) 1 0 100 5.0   
+33 229025 
+Phân tích và thiết kế hệ thống thông tin 
+(UML) 
+3 0 100 7.9   
+34 224017 Anh văn chuyên ngành (Tin) 2 0 100 7.6   
+35 229019 Lập trình hướng đối tượng 2 0 100 7.1   
+36 229094 Chuyên đề ứng dụng cho lập trình Web 2 0 100 7.5   
+Curriculum vitae 
+ 
+ 
+ 
+PERSONAL QUALITIES: 
+  
+• Under pressure, hard. 
+• Responsible for the work. 
+• Analytical and evaluation skills. 
+• Strong problem solving skills and ability to troubleshoot operational issues. 
+• Strong Java skills and proficiency with concurrent programming. 
+• Adaptable to new environment and be able to learn new things quickly. 
+  
+LANGUAGES: 
+ 
+• English. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

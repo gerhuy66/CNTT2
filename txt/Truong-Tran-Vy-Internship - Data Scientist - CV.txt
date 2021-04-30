@@ -1,0 +1,68 @@
+
+Xem CV Online của Trương Trần Vỹ
+may 2016 - now Ton Duc Thang University
+Major: Computer Science
+CPA: 2.8/4
+May 2016 - now Ton Duc Thang University
+General knowledge
+- I have Learned machine learning models like:  decision tree, k-NN, k-
+mean, SVM, linear regression, naive bayes, neural network, RNN,
+GRU, LSTM ... 
+- I have also had knowledge of natural language processing and a little
+bit of image processing : 
+      Natural language processing : word representation (worc2vec,
+fastText ,glove, elmo),  linguistic feature(subword, morphology, lemma
+POS tagging), word segmentation, language models
+- I got some knowledge in CS246 (mining massive datasets): measure
+distance, recommendation system, some algorithm with graph and
+clustering.
+- i am usually using sklearn, keras for creating learning model and
+numpy, pandas, stanza, pyvi, nltk, gensim, keras, tenserflow,opencv
+and tools relevant NLP for pre-processing data.
+- All of things above , i use python to complete them,1 year python
+experience .
+Ton Duc Thang University
+Assignments , Projects and Experrience
+Trương Trần Vỹ
+Internship - Data Scientist
+Date of birth:  May 7, 1998
+Gender:  Male
+Phone:  0943573731
+Email:  ttvy.tdtu@gmail.com
+Address:  HCM, Vietnam
+Website:  https://www.facebook.com/ttv7598/
+INTRODUCTION
+-  i am a last year Computer Science student and graduate on july 2020. I also studying master program at Ton
+Duc Thang University. 
+- Especially, i passionate about learning new technique . I really love a job which can improve my skills and
+knowledge  . 
+ - i am able to read and understand english documents,papers . I think that my searching skills is the best which
+help me solve any problems  
+-  i am looking for a company can give me challenges to try my abilities.
+EDUCATION
+EXPERIENCE
+- Mail spam detection, with english emails , naive bayes model, and get the result with f1 score is 0.95
+- POS tagging , coding from scratch , dataset is vietnamese document and  provided by my teacher,
+using hidden markov model with viterbi algorithm, the result is 94.5 F1 score
+-  Sentence classification , dataset is vietnamese (sentence,what the sentence is asking), it is made by my
+classs, pre-processing with remove stop words, execute lemme, word sementation, model is SVM, the result
+with 81 F1 score.
+- I reimplement 'Sequence to Sequence Learning with Neural Networks' with english-vietnemese dataset ,
+encode-decode model and get the result with 28,45 BLEU socre.
+- I reimplement ' Effective Approaches to Attention-based Neural Machine Translation' english-vietnemese
+dataset, soft-attention model combined with linguistic feature(lemma) in vector word, and get the result with
+30,2 BLEU socre.
+- I reimplement 'Residual Attention Network for Image Classification'
+dogs and cats dataset, Residual Attention model ( Stacked network structure,Attention Residual
+Learning, Bottom-up top-down feedforward attention ), and get the result with 83.5%
+- NER, dataset is invoices (30 samples) BiLSTM+CRF model, result with 24.5 F1 score
+2019 TOEIC Certificate with score 675 , VUS pre-itels
+Language basic writing, speaking , listening, reading
+CERTIFICATIONS
+SKILLS
+© topcv.vn
+	INTRODUCTION
+	EDUCATION
+	EXPERIENCE
+	CERTIFICATIONS
+	SKILLS

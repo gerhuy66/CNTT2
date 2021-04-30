@@ -1,0 +1,100 @@
+
+Xem CV Online của Phạm Công Danh
+Tin học văn phòng
+​Kỹ năng lập trình
+Kỹ năng mềm
+Tiếng Anh
+Đọc sách Đá bóng
+Chơi game
+- Áp dụng những kinh nghiệm về kỹ năng lập trình
+và sự hiểu biết về ngôn ngữ lập trình để trở thành
+một trình viên react native và api restful chuyên
+nghiệp, mang đến nhiều giá trị cho khách hàng.
+Từ đó giúp Công ty phát triển nhiều công nghệ
+phần mềm tiên tiến
+- Trong thời gian 2 tháng sẽ nắm rõ kiến thức
+chuyên môn và nghiệp vụ. Mục tiêu trong 1 năm
+sẽ lên vị trí leader của team React Native
+- Góp phần tạo ra những phần mềm công nghệ
+tiên tiến và đào tạo thêm nhân lực cho công ty.
+Lập trình php tại học viện ITPLUS
+(2017)
+Lập trình ứng dụng tại học viện ITPLUS
+(2018)
+Đại học Khoa học tự nhiên (9/2016 > 06/2019)
+Chuyên ngành: Máy tính và khoa học thông tin
+Chưa tốt nghiệp
+Học viện ITPLUS (12/2016 > 12/2018)
+Chuyên ngành: Lập trình ứng dụng
+Tốt nghiệp loại giỏi
+Công ty HOUSE3D (03/2019 > 07/2019)
+Thực tập sinh Action Script
+- Sửa và xây dựng giao diên cho ứng dụng House 3D
+ Công ty WsoftPro (07/2019 > 02/2020)
+Developer Backend Magento 2
+- Xây dụng Backend Magento 2
+- Viết API bằng Magento 2
+- Nắm vững response API
+- Sử dụng thành thành HTML, CSS, JAVASCRIPT
+- Tranning các bạn thực tập sinh làm quen và học Magento 2 
+- Chịu trách nhiệm làm việc với nhiều dự án cùng lúc, thiết kế các trang web hấp
+dẫn, tương tác hàng ngày với các bạn thiết kế đồ họa, back-end developer và
+nhóm tiếp thị.
+- Tham gia thảo luận với khách hàng để làm rõ những gì họ muốn.
+ - Viết HTML, CSS và JavaScript tương thích với nhiều trình duyệt (cross-
+browser). Quản lý một số cơ sở dữ liệu và các công cụ báo cáo.
+- Sản phẩm :
+ + Eten: Web thương mại điện tử bán đồ ăn của Đức. Sử dụng Google Maps và
+Magento 2
+ + Marco : Web thương mại điện tử bán tap hoá của Indonesia. Sử dụng
+Magento 2
+Developer React Native
+- Xây dựng giao diên IOS và Android bằng React Native
+- Ghép API và luồng cho ứng dụng
+- Viết React Native tương thích với nhiều thiết bị (cross-flatform).
+- Tham gia thảo luận với khách hàng để làm rõ những gì họ muốn.
+- Sản phẩm : 
+Phạm Công Danh
+Lập Trình React Native
+26/10/1998 Nam
+0359916555 lioneldanh1026a@gmail.com
+Số 27 ngõ 83 đường Tân Triều, Hà Nội https://www.facebook.com/danh.phamcon
+g.35728
+
+MỤC TIÊU NGHỀ NGHIỆP
+KỸ NĂNG
+CHỨNG CHỈ
+SỞ THÍCH
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+- Sản phẩm : 
+ + Marco: App thương mại điện tử bán tạp hoá của Indonesia. Sử dụng React
+Native và API Magento 2
+ Công ty Vugiasoftware (02/2020 > 10/2020)
+Developer Backend Magento 2
+Là một thành viên của nhóm đa chức năng, thực hiện các nhiệm vụ đặc biệt
+theo yêu cầu của Giám đốc.
+- Xây dụng Backend Magento 2
+- Viết API bằng Magento 2
+- Tranning các bạn thực tập sinh làm quen và học Magento 2. 
+- Sản phẩm :
+ + Fun and Funtion : App thương mại điện tử cung cấp đồ cho trẻ em. Sử dụng
+Magento 2
+Developer React Native
+- Xây dựng giao diên IOS và Android bằng React Native
+- Ghép API và luồng cho ứng dụng
+- Traning thực tập sinh về React Native
+- Sản phẩm : 
++ GKEbook : App sách điện tử. Ghép API. 
++ LMSGK: App thi online. Ghép API và xây dụng giao diện
++ LearningEnglish: App Tiếng Anh dành cho học sinh, phụ huynh và giáo viên.
+Xây dựng giao diện, luồng và ghép API.
+-Developer Codeigniter
+- Xây dựng Backend Codeigniter 4
+- Viết API bằng Codeigniter
+- Tham gia thảo luận với khách hàng để làm rõ những gì họ muốn.
+- Sản phẩm : + GKEbook : Web quản trị sách điện tử. Sử dụng Framework
+Codeigniter.  Viết APi và xây dựng BackEnd..
+ + HerbaLife: Web quản trị thi online. Sử dụng Framework Codeigniter. Xây dựng
+BackEnd..
+© topcv.vn

@@ -1,0 +1,99 @@
+
+Xem CV Online của BÙI NGUYỄN HOÀNG THỌ
+NGUYEN TRONG QUYET 
+Date of Birth 03/07/2000 
+Gender Male 
+Phone 098966503 
+Email ntrongquyet37@gmail.com 
+Adrress 1017/56 AB, Hong Bang, Ward 12, 6 District, Ho Chi Minh City  
+ 
+ 
+OBJECTIVE 
+Use what I learned to complete the internship. Then, holding long with the company, getting involved in the 
+reality project in the company. 
+ 
+EDUCATION 
+08-2018 – Now VNUHCM-University of Science 
+Information Technology ( Associate ) 
+ 
+ 
+ 
+ 
+PROJECTS 
+Term 2 / Year 2 
+ 
+Food recipes 
+Description - This application helps everyone to save the 
+cooking recipe. 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - C# 
+Source code - github.com/phamcuong2751/FoodRecipe. 
+ 
+WeSplit 
+Description - This application helps team leaders manage 
+expenses during travel trips 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - C# 
+- LinQ 
+- Entityframework 
+Source code - github.com/ntrongquyet/_weSplit. 
+mailto:ntrongquyet37@gmail.com
+ 
+WeSplit 
+Description - This application helps manage a small bakery 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - C# 
+- LinQ 
+- Entityframework 
+Source code - github.com/ntrongquyet/cakeshop. 
+ 
+Term 3 / Year 1 
+ 
+Ecommerce Web 
+Description - Build a website to sell electronics 
+Temp size - 4 
+My position - Developer 
+My responsibilities - Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - PHP – Laravel Framework 
+- Hosting in Heroku 
+- Save image in Cloudinary 
+Source code - https://github.com/ntrongquyet/Ecommerce-
+PHP. 
+Link website - https://ecommerce-18ck.herokuapp.com/ 
+ 
+ 
+ 
+SKILLS 
+- Basic understanding HTML, CSS, Javascript, PHP, C#, SQL Sever  
+- Have knowledge of OOP, Data Structures and Algorithms. 
+ 
+ 
+MORE 
+- Have done some more jobs such as: Technology driver, FamilyMart staff, café service ... 
+- Ability to work independently/group depending on the needs of the company. 
+- There's always an evolving will, wanting to work and cooperate in the company. 
+- Interests: Football, Game, Travel 
+	Profile
+	Objective
+	Education
+	Projects
+	Skills
+	More

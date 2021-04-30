@@ -1,0 +1,367 @@
+
+(48) Sy Ha | LinkedIn
+Sy Ha
+Machine Learning Engineer, Founding Team at BoodsKapper Inc
+Connect
+ Message
+More…
+Try Premium Free for 1 Month
+48
+file:///feed/?doFeedRefresh=true&nis=true
+file:///feed/
+file:///mynetwork/
+file:///jobs/
+file:///messaging/
+file:///notifications/
+https://www.linkedin.com/premium/products?upsellOrderOrigin=premium_nav_upsell_text&destRedirectURL=https%253A%252F%252Fwww.linkedin.com%252Fin%252Fsy-ht%252F%253ForiginalSubdomain%253Dvn%2526showPremiumWelcomeBanner%253Dtrue
+file:///company/servicenow/
+file:///company/stack-overflow/
+file:///company/swiggy-in/
+https://www.linkedin.com/search/results/people/?facetNetwork=%255B%2522F%2522%255D&facetConnectionOf=%255B%2522ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4%2522%255D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE
+https://www.linkedin.com/search/results/people/?facetNetwork=%255B%2522F%2522%255D&facetConnectionOf=%255B%2522ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4%2522%255D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE
+file:///company/boodskapper-llc/
+file:///company/liberoprofessionista/
+file:///company/websosanh-vn/
+file:///company/vingroup-jsc/
+file:///school/3154325/?legacySchoolId=3154325
+file:///school/3154325/?legacySchoolId=3154325
+file:///company/coursera-verified/
+file:///company/coursera-verified/
+file:///company/coursera-verified/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,4)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,2)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,5)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,6)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,7)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783580)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,8)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,9)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783582)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783584)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783585)/
+file:///in/quochai/
+file:///in/kw-leong-04b6513/
+file:///in/milan-jerkovic/
+file:///in/phuc/
+file:///in/april-o-12855832/
+file:///in/mynguyenhr/
+file:///in/lenhathuylscm/
+file:///in/kh%25C3%25A1nh-linh-%25C4%2591%25E1%25BB%2597-a005401b5/
+file:///in/devcodedao/
+file:///in/nhi-duong-19b806195/
+Connect
+ Message
+Sy Ha 
+Machine Learning Engineer, Founding Team at BoodsKapper Inc
+Vietnam ·  494 connections ·  Contact info
+More…
+·  2nd
+Bob.ai
+Hanoi University of Science and
+Technology
+People and pages related to Sy
+See all  
+ 
+ServiceNow
+file:///in/sy-ht/detail/contact-info/
+file:///company/servicenow/
+Page • Computer Software
+407,951 followers
+Follow
+Stack Overflow
+Page • Internet
+703,098 followers
+Follow
+Swiggy
+Page • Internet
+661,536 followers
+Follow
+Highlights
+1 mutual connection
+You and Sy both know Rose NGUYEN
+About
+My ultimate is to work with a crazy team in applied mathematics/machine learning/AI, where I have chances to apply
+and improve my abilities in mathematics, especially, algorithms and optimizations. 
+Activity
+492 followers
+Posts Sy created, shared, or commented on in the last 90 days are displayed here.
+file:///company/stack-overflow/
+file:///company/swiggy-in/
+See all activity
+Experience
+Machine Learning Engineer, Founding Team
+Bob.ai
+Nov 2018 – Present
+· 2 yrs 6 mos
+Machine Learning Engineer
+Freelancer
+Jul 2018 – Oct 2018
+· 4 mos
+Hanoi
+Machine Learning R&D
+Websosanh.vn
+Jan 2018 – Jul 2018
+· 7 mos
+Hanoi
+Software Engineer
+Vingroup JSC
+Jul 2014 – Dec 2017
+· 3 yrs 6 mos
+Hanoi City
+Advances in Artificial Intelligence are turning yesterday's sci-fi into today's reality. For industries and brands, BoodsKapper provides compelling and ready to consume
+services that are powered by state of the art AI algorithms. 
+My responsibility is to bring these algorithms in optimization and machine learning/AI to our products and services, which are now focusing on Public Housing Authorities. 
+Languages and platforms: Python, Sklearn, Docker, Keras, Tensorflow, SAP HANA, IBM Watson.
+Working with projects related to computer vision, machine learning, deep learning, mathematical optimization:
+• T-shirt fashion style classification: 24 classes, more than 70K images, using CNN, ensemble
+model.
+• Eye pupil detection, include face detection: using OpenCV, MTCNN. … see more
+Researching and building machine learning/deep learning models for some problems in product comparing services.
+• Products categorization: more than 10 millions products, 1000 categories.
+• Alcohol products detection using product title.
+• Pos-tagging for product title: automatically tag each word in product title with one of the predefined tags (more than 10) like Name, Brand, Size, etc. … see more
+file:///in/sy-ht/detail/recent-activity/
+Education
+Hanoi University of Science and Technology
+Master of Applied Mathematics, Optimization, 3.42/4.0
+2015 – 2016
+- Vehicle Routing Problem
+Hanoi University of Science and Technology
+Engineer's degree, Talented Program, Applied Mathematics, 3.2/4.0
+2009 – 2014
+- Optimization Group
+- Solving Mixed Integer Problems
+- Optimization with DC Algorithm
+Licenses & certifications
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+Coursera Course Certificates
+Issued Mar 2018 · No Expiration Date
+Credential ID SCE4ARDV4MDN
+See credential
+Neural Networks and Deep Learning
+Coursera Course Certificates
+Issued Mar 2018 · No Expiration Date
+Credential ID HGZRKESBMQMB
+See credential
+Sequence Models
+Coursera Course Certificates
+Issued Mar 2018 · No Expiration Date
+Credential ID N24CFNCZ3UEM
+See credential
+- Developing .NET applications, web services, window services for e-commerce logistic system.
+- Recommendation system.
+- Modeling and optimizing specialized pickup and delivery problem.
+- Languages and tools: C#, C++, Scala, SQL, HTML, Spark
+https://www.coursera.org/account/accomplishments/verify/SCE4ARDV4MDN
+https://www.coursera.org/account/accomplishments/verify/HGZRKESBMQMB
+https://www.coursera.org/account/accomplishments/verify/N24CFNCZ3UEM
+Show more 
+Skills & endorsements
+Industry Knowledge
+Tools & Technologies
+Machine Learning
+ · 2
+Daniel Wu and 1 connection have given endorsements for this skill
+Research
+Deep Learning
+ · 2Programming
+Algorithms
+ · 2Linux
+ · 2C++
+ · 2C#
+ · 2Java
+ · 2HTML
+ · 1LaTeX
+ · 1Matlab
+ Python
+ Python (Programming Language)
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,4)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,4)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,2)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,5)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,6)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,7)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783580)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,8)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,9)/
+Interpersonal Skills
+Other Skills
+Show less 
+ · 2Teamwork
+ · 1Management
+ · 1Team Leadership
+Neural Networks
+Natural Language Processing
+Accomplishments
+2
+Publications
+Simultaneous meta-data and meta-classifier selection in multiple classifier system • Anh Son Ta, Hoai An Le Thi and Trong Sy Ha, Solving Relaxation Orienteering Problem using DCA-CUT
+(2015)
+1
+Language
+English
+Interests
+Bill Gates
+Co-chair, Bill & Melinda Gates Foundation
+32,630,439 followers
+Infineon Technologies
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783582)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783584)/
+file:///in/sy-ht/detail/skills/(ACoAABgCTpUBC9l6rXWFr276Wu-k_f2nmDm8TJ4,1603783585)/
+file:///in/williamhgates/
+252,195 followers
+Douglas Conant
+Founder, ConantLeadership; Former CEO, Campbell Soup Company; Chairman, CECP; Chairman, CHL; Former Chairman, Avon
+121,031 followers
+Google
+21,134,280 followers
+SAP
+2,378,704 followers
+Navigos Search
+60,287 followers
+See all
+People also viewed
+Connect
+Hai Nguyen •3rd
+Software Engineer at BoodsKapper
+file:///company/infineon-technologies/
+file:///in/dougconant/
+file:///company/google/
+file:///company/sap/
+file:///company/navigos-search/
+file:///in/sy-ht/detail/interests/
+ Show more
+Connect
+KW Leong •3rd
+Simplifying and automating your everyday business needs with au courant Artificial Intelligence solutions.
+Connect
+Milan Jerkovic •3rd
+Conversation Designer & Product Manager at Bob.ai
+Connect
+Phuc Nguyen •2nd
+Knowledge Graph | NLP | AI
+Connect
+April O. •3rd+
+Housing Services Coordinator at Sacramento Housing and Redevelopment Agency
+People you may know
+Connect
+BE BA (My Nguyen)
+Recruitment Specialist cum Admin at Milensea Retail
+ Show more
+Connect
+Le Nhat Huy
+President at UTE Logistics and Supply Chain Club
+Connect
+Khánh Linh Đỗ
+Human Resources Assistant at Hachinet Software
+Connect
+Nguyen Dinh Dat
+Frontend Angular Developer
+Connect
+Nhi Duong
+Student at Ton Duc Thang University
+About
+Accessibility
+Talent Solutions
+Community Guidelines
+Careers
+Marketing Solutions
+Ad Choices
+Advertising
+Sales Solutions
+Mobile
+Small Business
+Safety Center
+ Questions?
+Visit our Help Center.
+ Manage your account and privacy
+Go to your Settings.
+Select Language
+Privacy & Terms 
+https://about.linkedin.com
+https://www.linkedin.com/accessibility
+https://business.linkedin.com/talent-solutions?trk=flagship_nav&veh=li-footer-lts-control&src=li-footer
+https://www.linkedin.com/help/linkedin/answer/34593
+https://www.linkedin.com/company/linkedin/life?trk=d_flagship3_nav
+https://business.linkedin.com/marketing-solutions?trk=n_nav_lms_f&src=li-footer
+https://www.linkedin.com/help/linkedin/answer/62931
+https://www.linkedin.com/ad/start?trk=n_nav_ads_f
+https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+https://mobile.linkedin.com/
+https://smallbusiness.linkedin.com?&src=li-footer
+https://safety.linkedin.com
+https://www.linkedin.com/help/linkedin?trk=d_flagship3_profile_view_base
+https://www.linkedin.com/psettings/
+LinkedIn Corporation © 2021
+ةيبرعلا  (Arabic)
+Search messages
+After April 15, 2021, your read
+receipts and typing indicators setting will
+expand to all messages, including
+InMails and Message Requests.
+Manage settings  ·  Got it
+file:///mynetwork/import-contacts/
+	Primary Navigation
+	Machine Learning Engineer, Founding Team at BoodsKapper Inc
+	People and pages related to Sy
+	Highlights
+	1 mutual connection
+	About
+	Activity
+	Experience
+	Machine Learning Engineer, Founding Team
+	Dates EmployedNov 2018 – Present
+	Employment Duration2 yrs 6 mos
+	Machine Learning Engineer
+	Dates EmployedJul 2018 – Oct 2018
+	Employment Duration4 mos
+	LocationHanoi
+	Machine Learning R&D
+	Dates EmployedJan 2018 – Jul 2018
+	Employment Duration7 mos
+	LocationHanoi
+	Software Engineer
+	Dates EmployedJul 2014 – Dec 2017
+	Employment Duration3 yrs 6 mos
+	LocationHanoi City
+	Education
+	Hanoi University of Science and Technology
+	Hanoi University of Science and Technology
+	Licenses & certifications
+	Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+	Neural Networks and Deep Learning
+	Sequence Models
+	Skills & endorsements
+	Industry Knowledge
+	Tools & Technologies
+	Interpersonal Skills
+	Other Skills
+	Accomplishments
+	Sy has 2 publications2
+	Publications
+	Sy has 1 language1
+	Language
+	Interests
+	Bill Gates
+	Infineon Technologies
+	Douglas Conant
+	Google
+	SAP
+	Navigos Search
+	People also viewed
+	Hai Nguyen 3rd degree connection 3rd
+	KW Leong 3rd degree connection 3rd
+	Milan Jerkovic 3rd degree connection 3rd
+	Phuc Nguyen 2nd degree connection 2nd
+	April O. out of network 3rd+
+	People you may know
+	BE BA (My Nguyen)
+	Le Nhat Huy
+	Khánh Linh Đỗ
+	Nguyen Dinh Dat
+	Nhi Duong
+	LinkedIn Footer Content
+	0 notifications total
+	Messaging You are on the messaging overlay. Press enter to minimize it.

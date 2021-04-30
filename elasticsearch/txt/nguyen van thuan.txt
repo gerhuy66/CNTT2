@@ -1,0 +1,140 @@
+
+CANDIDATE'S PROFILE 
+Position Apply:  Full-Stack .NET Developer 
+ 
+ 
+ Name                  :  Nguyễn Văn Thuận 
+ Phone number   : (+84) 0383539856 
+ Address              : Mễ Trì Hạ, Nam Từ Liêm, Hà Nội, Việt Nam 
+ 
+1. BASIC INFORMATION 
+• Date of Birth                  : February 02,1996 
+• Gender                            : Male 
+• Marital Status                : Single 
+• Permanent Address       : Giao Thuy District, Nam Dinh Province, Vietnam 
+• Job level                          : Full-Stack .NET Developer 
+• E-mail                             : thuannguyen7438@gmail.com 
+• Skype                              : thuannguyen7438  
+ 
+2. OVERALL ASSESSMENT 
+• I have more than 3.5+ years experience Develop .NET in VietIS, Heliosys, VTI, F99 
+Unicon and 2+ year working freelancer 
+- 5/2017 – 8/2018: Company VietIS with position developer .NET Full-stack  
+- 8/2018 – 5/2019: Company  Heliosys with position developer .NET Full-stack and 
+Font-end Angular TypeScript, Server side with NodeJs. 
+- 5/2019 – 5/2020: Company VTI with position developer .NET Full-stack, ReactJs, 
+Angular, Nodejs 
+- 6/2020 – Now: Company F99 Unicon developer .NET Full-stack, ReactJs, Angular 
+mailto:thuannguyen7438@gmail.com
+- From 3/2018 – Now: Working freelancer out company with Architecture Microservice 
+.NET Core, ASP.NET MVC / Web API / RESTful Services / Windown Form, NodeJs, 
+Angular, Wordpress, ReactJs  
+• Ability of communicating self-confident, responsibility, carefulness, good inter-personal 
+and teamworks skills, cleaning and optimize code, ability of learning the programming 
+language, study new technology, ability of working under pressure with progressive spirit. 
+ 
+3. OBJECTIVE 
+• To be a good staff. 
+• Try to learning as much as possible and doing my best in order to accomplish my task. 
+• To have good opportunities to get promotion in my job. 
+• Developing my skills with development of the company, I want to improve my ability 
+more. 
+ 
+4. EDUCATION BACKGROUND 
+• Study during work from project company and freelancer outsource. 
+• My skill : 
+▪ Developing: 
+➢ Back-End: C#( .NET Core, ASP.NET MVC / Web API / RESTful Services / Windown 
+Form), Js (NodeJs, Express) , PHP (Wordpress) 
+➢ Font-end: Javascript/HTML5/CSS3, Angular (4,6) TypeScript, ReactJs(mobx, Redux, 
+Flux), Wordpress 
+➢ Cloud:  Azure Devops 
+➢ Desployment: Pm2, Docker, IIS, Git Ci/Cd 
+➢ Server: Apache, Nginx, Windown Web Server 
+➢ Database: SQL Server , MongoDB, Oracle, Mysql 
+➢ Source version management : Git 
+➢ Tracking manager project: Readmine, Trello 
+➢ Operating Systems: Windows, Ubuntu, Linux 
+➢ Agile Methodology 
+▪ Testing: XUnit (C#), Mocha (NodeJs), Manual 
+▪ Foreign Language : English (basic), Vietnamese. 
+▪ Implement custom-developed web applications to assist internal business partners. 
+▪ Work with Business Analysts to understand business requirements and effectively size 
+tasks. 
+▪ Analyze, code, test, debug and support new and existing applications. 
+ 
+5. ADDITION INFORMATION EXPERIENCE DO WORKING 
+ 
+Stt Project Role(s) Description 
+1 Survey hospital 
+108(Heliosys) 
+Developer - Create survey dynamic, create report from data 
+result survey 
+- Techniques: C#, .NET API, Angular 4 , GitLab,.. 
+- Database: Sql Server 
+- Team size: 4 
+- My job:    
++ Building project API template, design database, 
+building web client angular, support and upgrade 
+system, fixbug 
++ Developing based on technical documents 
+2 Manager 
+Crime 
+C50(Heliosys) 
+Developer - Manager information Crime and find relationship 
+Crime 
+- Techniques:  C#,  Angular 6, Web Api, GitLab, Sql 
+server 
+- Team size: 2 
+- My job: Build and design web api, create building 
+and improve Angular component base on TS  and 
+HTML file 
+3 Plugin 
+manager 
+browser 
+file(Heliosys) 
+Developer - Create a form popup manager(CRUD) and browser 
+file and folder from server, roles split follow user 
+- Techniques: Nodejs, ExpressJs, HTML, CSS, 
+Bootraps, Jquery 
+- Team size: 1 
+- My job: Create web server and client layout, 
+maintainer, activity 
+4 Manager news 
+soccer(VietIs) 
+Developer - Create web admin manager information soccer for 
+website livestreaming soccer 
+- Techniques:  Angular 7, NodeJs, ExpressJs, 
+MongoDB, Mocha test 
+- Team size: 4 
+- My job: Create document, build and design web api 
+ExpressJs, create building and improve Angular 
+project , code and run Mocha testing 
+5 Smart 
+monitor(VietIs) 
+Developer - Creat a software analytic data predict hard disk, 
+notify healthy hard disk to user 
+- Techniques: Asp.Net Winform, Azure Cosmos 
+database 
+- Team size: 2 
+- My job: Create document, build and desployment 
+api to cloud, create system auto send, get data, notify 
+to user 
+6 Manager room 
+rent(VTI) 
+Developer - Manager client rent room, payment rent, business 
+rent room 
+- Techniques: .NET MVC, Jquery, Boostrap, Sql 
+Server 
+- Team size: 3 
+- My job: Create document, building and improve 
+system follow document 
+       Note: Any more project not write above .. 
+ 
+6. HOBBY 
+• Reading books that talk about Science, film anime japan,Astronomy,… or 
+books about everything around my life, magic, horror. 
+• Listening the music as R&B, Symphony, Instrumental music. Especially, the songs of 
+Charlie Puth, Bruno Mars,… 
+• Playing game lol, playing soccer. 
+• Running. 

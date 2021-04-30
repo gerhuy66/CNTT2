@@ -1,0 +1,159 @@
+
+Xem CV Online của TRAN THANH NGAN
+UNIVERSITY OF NATURAL SCIENCE OCT 2009 - MAY 2014
+CARP TECH CORPORATION JUN 2018 - PRESENT
+IDB TECHNOLOGY VIET NAM FEB 2016 - MAY 2018
+2018 - PRESENT
+AEON PHASE 2 Project:
+- Project description: AEON PHASE 2 is a project that manages the personnel recruitment
+channel phase 2. Helps effectively manage the recruitment and recruitment process.
+- Responsibilities:
+ + Designing and implementing new features as assigned.
+ + Join team to work on improving and optimize system performance.
+- Technologies:
+ + MS SQL Server
+ + ASP .NET Core 
+ + Angularjs
+ + Kendo UI
+Objective
+Putting knowledge and experience on information technology skills and knowledge of related
+areas into practice to become a professional employee, bringing much value to the Company.
+ Education
+Major: Information Technology
+ Work Experience
+Developer
+- Accountability:
+ + Full-stack.   
+ + Web interface design, Responsive design mobile.    
+ + Functional programming. 
+- Tools: Visual Studio Code 2019, Visual Studio 2019, MS SQL Server, MySQL, Sourcetree,
+GitLab.
+- Programming language: Html5, Css3, Bootstrap 4, JavaScript, AngularJS, Angular 2+,
+Asp.Net Core.
+- Position: employees
+Developer
+- Accountability:
+ + Front-end.    
+ + Web interface design, Responsive design mobile.    
+ + Functional programming.    
+ + Analyzing and designing Database.
+- Tools: Visual Studio 2015, SQLyog, MS SQL Server,  IntelliJ IDEA, Sourcetree, Photoshop CC
+2014, Bitbucket.
+- Programming language: Html, Css3, Bootstrap 3, JavaScript, AngularJS, Java, Asp.Net.
+- Position: employees
+ PROJECTS
+ September 19, 1991
+ Male
+ 0868806665
+ tranthanhngan199@gmail.co
+m
+ HoChiMinh, Vietnam
+SKILLS
+Office
+Public Speaking
+INTERESTS
+Music
+Travel
+TRAN THANH NGANTRAN THANH NGAN
+DEVELOPER
+GIC-BC Project:
+- Project description: GIC-BC is the insurance sale management website for GIC’s partners,
+helping multiple partners to access a unified website. Support payment through gateways
+such as Onepay, Momo,.. or upload statements.
+- Responsibilities:
+ + Designing and implementing new features as assigned.
+ + Join team to work on improving and optimize system performance.
+ + Work with data analysts and managers to help create custom type of reports according to
+specific business requirements.
+- Technologies:
+ + MS SQL Server
+ + ASP .NET Core 2
+ + Angular 7
+ + Ng-zorro (Ant Design of Angular)
+DASH Project:
+- Project description: DASH is a web application that uses raw testing data from
+NETGEAR/ARLO Company to create reports, and summary data. This helps data analysts
+and managers to have an overview about what are happening and make informed decisions.
+- Responsibilities: 
+ + Migrate existing web application to new platform
+ + Join team to work on improving and optimize system performance
+ + Work with data analysts and managers to help create custom type of reports according to
+specific business requirements
+- Technologies:
+ + MS SQL Server
+ + ASP .NET Core 2
+ + Bootstrap 4
+ + Angular 7
+EVERGROWTH FARM Project:
+- Project description: Evergrowth farm is a large scale dairy farm management solution.
+Provides optimal solutions for performance statistics of milk production, parity, breeding
+cycles and herd diets. Strict management of animal nutrition.
+- Responsibilities:
+ + Work with client to analyze requirements.
+ + Designing and implementing new features as assigned.
+ + Reviewing and estimating specs.
+- Technologies: 
+ + JAVA.
+ + JavaScript, CSS3, HTML5, Bootstrap 3.
+ + AngularJS.
+ + MySQL.
+2016 - 2018
+Switchboard Project:
+- Project description: Switchboard is an open standard IP PBX project based on software
+that provides a complete Unified Communications solution, which can be used immediately
+after installation. 3CX makes the installation, management, and maintenance of IP PBX so
+easy that you can manage it yourself with no effort, whether on a device or on a server, on-
+site or in-house, your cloud account.
+- Responsibilities:
+ + Taking requests from customers. 
+ + Designing and implementing modules assigned. 
+ + Build manager. 
+ + Reviewing and estimating specs. 
+ + Migrate data from the old system into new one. 
+- Technologies:
+ + C# ASP.NET core 2.2. 
+ + JavaScript, CSS, HTML.
+ + Responsive Design.
+ + MS SQL Server 2012.
+IMS Project:
+- Project description: IMS is a system for small and medium companies to manage
+inventories and products. With IMS, users can quickly and thoroughly manage and track the
+status of every product in their company’s inventories with orders, customers and reports.
+Each product can be imported to the system by a smart phone or a barcode scanner.
+- Responsibilities:
+ + Design and develop main features of system as assigned.
+ + Reviewing and estimating specs.
+- Technologies: 
+ + C#, ASP .NET MVC. 
+ + JavaScript/jQuery, CSS3, HTML5.
+TRACKER Project:
+- Project description: Regulatory Tracker is a powerful software solution that offers a
+central, Web-based data repository for global product registration information — allowing
+users to flexibly manage information in a centralized, decentralized or hybrid model and to
+simplify data entry for new registration information. Through Tracker, users can quickly and
+thoroughly manage and track the status of every product in their company’s global life
+science portfolio.
+- Responsibilities:
+ + Work with other team members for the task of improving system performance.
+ + Maintenance of current systemo Redesign some features which cause confusion to users
+when using the system.
+ + Designing and implementing modules as assigned.
+ + Reviewing and estimating specs.
+- Technologies: 
+ + C# ASP .NET MVC .
+ + JavaScript/jQuery, CSS, HTML.
+ PERSONAL SUMMARY
+- More than 3 years experiences in IT industry (with over 2 years of experiences working on
+Angular and .NET development). 
+- Strong experience working with web application development technologies, including: C#,
+JAVA, .NET, .NET Framework, MVC, Web API, Angular 7. 
+- Very good knowledge of HTML5/CSS3/Bootstrap 4/Javascript and other Javascript
+Frameworks. 
+- Experience with front-end development and design. 
+- Good knowledge and understanding of Object-Oriented Programming and Designs. 
+- Experience working with database system: MS SQL, MySQL. 
+- Experience working with Git, Source Tree, Bitbucket, FileZilla.
+- Skills to work independently or in a team, enthusiastic, hardworking, patient and eager to
+learn, work hard.
+- Care skills and support for multi-channel customers (phone, zopim, ...).
+© topcv.vn

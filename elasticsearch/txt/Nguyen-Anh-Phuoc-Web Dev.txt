@@ -1,0 +1,61 @@
+
+Xem CV Online của Nguyen anh phuoc
+Oct 2010 - April 2016 University of Information Technology - Ho Chi Minh City National
+University
+Major: Software Engineer
+02/2014 Certificaate of achievement successfully complated PHP & MySQL
+June 2020 - August 2020 Freelance Project
+Position: Fullstack web developer for E – commerce website
+Main responsibilities:
+- Code frontend and backend for the user and admin pages
+- Use: HTML, CSS3, Bootstrap, Javascript, Jquery.
+Languages: PHP
+Framework: Laravel
+Database: Mysql
+March 2020 - August 2020 THIEN HA COMPANY
+Position: Web Developer
+Main responsibilities:
+- Code frontend for user and for admin. Use: HTML, CSS3, Bootstrap,
+Jquery.
+- Code backend show data. Show dashboard.
+Languages: PHP
+Framework: Yii2
+Database: Mysql
+July 2016 - July2017 Kim Tu Thap Company
+Position: Web Developer. e-commerce website and educational
+management website.
+- Code frontend for user. Use: HTML, CSS3, Bootstrap, Jquery
+Nguyen Anh Phuoc
+Web Developer
+Date of birth:  07/03/1990
+Gender:  Male
+Phone:  0902 312 242
+Email:  anhphuoc73@gmail.com
+Address:  Thu Duc District - Ho Chi Minh City
+OBJECTIVE
+I would like to look for a stable and professional work environment where I can enhance my abilities and take
+part in the success of the company that I work for.
+Setting high standards for work done and creating opportunities for personal development.
+EDUCATION
+CERTIFICATIONS
+WORK EXPERIENCE
+- Code backend. Code function such as: show data, insert-update-
+delete data, Authentication and many other function
+Languages: PHP
+Framework: Laravel
+Database: Mysql
+January 2016 - June 2016 Gio Dai Phong Company
+Position: Web Developer.
+- Code frontend for user. Use: HTML, CSS3, Bootstrap, Jquery.
+- Code backend: Learn about Laravel.
+Languages: PHP
+Framework: Laravel
+Database: Mysql
+Language English
+Computer Word, Excel, Powerpoint...
+SKILLS
+- Good knowledge of and experience of PHP developmentb (Laravel, codeigniter and Yii Frameworks)
+- Solid knowledge of HTML, CSS, Javascript, Jquery.
+- Always willing to learn new technologies.
+SKILLS OTHER
+© topcv.vn
