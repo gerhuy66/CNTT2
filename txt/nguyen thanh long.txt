@@ -1,0 +1,171 @@
+
+NGUYỄN THANH LONG
+B A C K - E N D  F R E S H E R  
+Tôi yêu công nghệ và mã hóa. Từ khi còn là một đứa trẻ, tôi luôn mơ ước về việc 
+phát triển phần mềm / trò chơi và xây dựng các trang web tuyệt đẹp. 
+ live:.cid.aa8128d42a926d21  https://www.facebook.com/nguyenthanhlong070
+ https://github.com/ThanhLong070
+ 20/07/2000  longthanhlong070@gmail.com
+ Ngõ 199 Đường Hồ Tùng Mậu, Cầu Diễn, Nam Từ Liêm, Hà Nội
+ 0337067439
+MỤC TIÊU NGHỀ NGHIỆP
+Trở thành team leader trong 2 năm.Giao lưu
+học hỏi, hoàn thiện bản thân cũng như khả
+năng code trong môi trường doanh nghiệp,
+có cơ hội gắn bó với công ty lâu dài.
+KINH NGHIỆM LÀM VIỆC
+ CÔNG TY CỔ PHẦN
+BYTESOFT VIỆT NAM
+01/11/2020 - Present
+DEV FRESHER NODEJS
+- Tham gia dự án Tiếp Thị Hai Cấp (TT2C) của 
+ByteSoft. Tiếp thị hai cấp là giải pháp bán hàng hưởng 
+hoa hồng mang đến hiệu quả kinh doanh vượt trội.
+- Học hỏi được một số kinh nghiệm nhất định về 
+sequelize.
+- Học thêm kinh nghiệm để viết API tối ưu performance. 
+HỌC VẤN
+HỆ THỐNG ĐÀO TẠO CNTT QUỐC TẾ
+BACHKHOA-APTECH
+08/2019 - 05/2020
+HỌC VIÊN
+Tham gia KHÓA HỌC PHP FULL-STACK của HỆ 
+THỐNG ĐÀO TẠO CNTT QUỐC TẾ BACHKHOA-
+APTECH. 
+Thiết kế giao diện với HTML5, CSS3, JavaScript: 
+sử dụng HTML5-CSS3-Javascript để tự mình tạo ra 
+được một bộ giao diện website tĩnh, có các định 
+dạng bố cục đẹp mắt, hợp lý, với các hiệu ứng bắt 
+mắt từ CSS3, tương tác được với người dung nhờ 
+Javascript, . . .
+ Thiết kế Database với MySQL: phân tích, thiết kế, 
+để quản trị và lưu trữ dữ liệu, thực hiện các thao tác 
+liên quan đến dữ liệu như cập nhật, truy vấn, thống 
+kê… dữ liệu cho các dự án, doanh nghiệp dựa trên 
+MySQL.
+Lập trình web cơ bản với PHP:  có kiến thức cơ bản 
+về lập trình PHP & MySQL, có thể phát triển các 
+website thương mại điện tử, website doanh nghiệp 
+trên nền tảng PHP.
+Lập trình web nâng cao với PHP Laravel 
+Framework:  hiểu rõ về cấu trúc project của Laravel, 
+hiểu được các thành phần trong một project laravel, 
+phát triển các website sử dụng Laravel Framework.
+Thực hiện làm đồ án về 1 trang thương mại điện tử, 
+cụ thể là website bán giày thời trang. 
+Ngày 9/5/2020 bảo vệ thành công đồ án tốt nghiệp 
+của  BACHKHOA-APTECH.
+Trang 1/3
+https://www.facebook.com/nguyenthanhlong070
+https://github.com/ThanhLong070
+mailto:longthanhlong070@gmail.com
+ CÔNG TY CỔ PHẦN
+BYTESOFT VIỆT NAM
+15/5/2020 - 31/10/2020
+THỰC TẬP SINH
+- Tham gia thực tập về Nodejs.
+- Học hỏi được một số kĩ năng cứng, kĩ năng mêm 
+trong quá trình thực tập.
+- Làm 2 project thực tế của doanh nghiệp, cụ thể là xây 
+dựng phần mềm sàn giao dịch B Holding cung cấp mô 
+hình đầu tư, tiếp thị liên kết nhận hoa hồng kết hợp 
+giao dịch cổ phần giữa các tài khoản trên hệ thống. Và 
+xây dựng trang cms quản lí admin của trang bvote.vn.
+- .Được công ty gửi giấy xác nhận thực tập rằng đã 
+nắm được những kiến thức cơ bản và có thể tham gia 
+các dự án phù hợp với chuyên môn. Và được leader 
+đánh giá đủ kĩ năng làm dev fresher. 
+TALENT WINS
+ @TALENTWINSCO
+11/12/2019 - 25/02/2020
+THỰC TẬP SINH
+Tham gia thực tập tại Talent Wins.
+Trải nghiệm môi thường doanh nghiệp chuyên 
+nghiệp cùng với những  anh chị có kinh nghiệm 
+nhiều năm trong nghề.
+Học hỏi được một số những kĩ năng nghiệp vụ 
+trong nghề.
+KỸ NĂNG
+RESTful API
+Nodejs
+Node Auth
+Modern JavaScript
+MongoDB, mysql
+Express
+Git & GitHub, GitLab
+SẢN PHẨM THỰC TẾ
+TIẾP THỊ HAI CẤP 10/11/2020 - 10/01/2021
+- Mô tả: Update API các tính năng mới cho website 
+Tiếp Thị Hai Cấp.
+- Vai Trò: Back-end Developer.
+- Nhiệm vụ:  xây dựng api trao đổi với dev chính về việc 
+triển khai project. Xây dựng các api lấy, thêm, sửa xóa 
+dữ liệu cho dev frontend và 1 số công việc anh dev 
+chính giao cho. Fix các bugs, đề xuất của bên quản lí 
+sản phẩm, BA và các chị Tester giao cho. 
+- Công nghệ: RESTful API, Node.js. 
+- Deadline: 2 tháng. 
+- Thời gian thực tế: 1 tháng 1 tuần. 
+- Sử dụng: Express, MySQL, GitLab. 
+- Tool sử dụng: VS Code, DBeaver, Trello,  Postman.
+TRANG CMS CHO
+WEBSITE BVOTE.VN
+10/10/2020 - 28/10/2020
+- Mô tả: xây dựng trang CMS  trang admin quản lí cho 
+website bvote.vn giải pháp tổ chức đại hội cổ đông mùa 
+NCOV. 
+- Vai trò: Back-end Developer.
+- Nhiệm vụ: chịu trách nhiệm tạo cấu trúc thư mục 
+chuẩn. Xây dựng trang cms bằng boostrap 4 và trao đổi 
+với dev chính về việc triển khai project. Làm thêm sửa 
+xóa các phần landingpage, giới thiệu, sự kiện của 
+website bvote.vn và 1 số công việc anh dev chính giao 
+cho. Fix hầu như tất cả các bugs, đề xuất của bên quản 
+lí sản phẩm, BA và các chị tester giao cho.  Đồng thời 
+bổ sung kiến thức về nestjs và AWS.
+- Công nghệ: MVC, Node.js.
+- Deadline: 1 tháng.
+- Thời gian thực tế: 3 tuần. 
+- Sử dụng: Express, MongoDB, GitLab. 
+- Tool sử dụng: VS Code, Studio 3T for MongoDB
+ 
+ 
+SÀN GIAO DỊCH B-
+HOLDING
+22/07/2020 - 22/08/2020
+,- Mô tả: Sàn giao dịch B Holding cung cấp mô hình 
+đầu tư, tiếp thị liên kết nhận hoa hồng kết hợp giao dịch 
+cổ phần giữa các tài khoản trên hệ thống.
+- Vai trò: Back-end Developer.
+- Nhiệm vụ: chịu trách nhiệm về đăng ký, đăng nhập tài 
+khoản, bật/tắt bảo mật 2 lớp, quản lí tài khoản quản trị 
+(List, add, edit, delete, lock, unlock, set permission tài 
+khoản quản trị), thông báo mail, hiển thị nội dung trang 
+landing page
+- Công nghệ: REST API, Node.js.
+- Deadline: 1 tháng.
+- Thời gian thực tế: 1 tháng.
+- Sử dụng: Express, MongoDB, github.
+- Tool sử dụng: Postman, VS Code, Studio 3T for 
+MongoDB
+Trang 2/3
+WEBSITE BÁN HÀNG - GIÀY 12/2019 - 2/2020
+- Mô tả: Trang e-commerce, mặt hàng giày thời trang 
+dành cho giới trẻ
+ - Vai trò: Back-end Developer 
+- Nhiệm vụ: Chịu trách nhiệm về Back-end cho toàn bộ 
+website, bao gồm trang người dùng, trang quản trị, 
+danh sách sản phẩm, trang chi tiết sản phẩm, trang 
+thanh toán và một số trang thông tin khác. 
+- Công nghệ: PHP, Html/Css, Boostrap.
+- Deadline: 3 tháng.
+- Thời gian thực tế: 2 tháng 2 tuần.
+- Sử dụng: Laravel, Github.
+- Tool sử dụng:  Xampp, MyPHP, My SQL, Sublimetext, 
+PHPStorm.
+- Tổng thể chức năng:
++ CRUD (Thêm sửa, xóa, lấy ra sản phẩm).
++ Giỏ hàng (cập nhât số lượng, giá).
++ Đặt hàng.
++ Admin quản lí hệ thống.
+Trang 3/3

@@ -1,0 +1,124 @@
+
+Xem CV Online của Truong Tung Duong
+Sep 2011 - Jun 2015 Nong Lam University (NLU)
+Major: Information Technology
+GPA: 6.78/10
+Sep 2015 - Present OSSTECH
+Team lead
+- Analyze requirements from specifications.
+- Manage resources, tasks, timeline. 
+- Structure project, design database.
+- Make reports.
+- Check style, find bugs for programs.
+- Config, deploy server.
+May 2014 - Sep 2015 Freelancer
+Freelancer
+- Website design using Wordpress, OpenCart.
+- Collaborators write product reviews for thegioididong.com,
+dienmayxanh.com
+2016 - 2019 Blogging
+- Create and manage blog kenhlaptrinh.net and teamvietdev.com share
+programming, tips and more.
+2014 - 2015 Assignments
+- Develop a website to sell online book and product management using
+JSF/Primeface. 
+- Developing website to manage student using Google App Engine.
+2013 - 2014 Assignments
+- Develop a website to sell online book and product management using
+JSF/Primeface. 
+- Develop website online fashions shop using JSP/Servlet.
+2012 - 2013 Assignments
+- Develop website online library management using JSP/Servlet.
+Truong Tung Duong
+Java Developer
+Date of birth:  27/04/1993
+Gender:  Male
+Phone:  +84.35.655.4404
+Email:  tungduongtruong@outlook.com
+Address:  TPHCM, Vietnam
+EDUCATION
+WORK EXPERIENCE
+ACTIVITIES
+Soft - Teamwork skills and well support team member 
+- Suggest solution and fix the issue 
+- Working under pressure time management
+IDEs NetBeans IDE, Eclipse, IntelliJ IDEA
+Programming language Java, JavaFX, Spring, JavaScript, Android, ReactJS, MySQL,
+PostgreSQL,
+SKILLS
+INTERESTS
+I like soccer, write blog.
+PROJECTS
+MMS - Manufacturing Monitoring System
+(Mar 2016 - Feb 2019)
+Customer Companies
+Description Manufacturing monitoring system apply RFID technology.
+Team size 6
+My position Team lead
+My responsibilities
+- Contact with factory to clarify the requirements
+- Analysis and design
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+Technologies used Java Swing, JavaFX, Spring MVC, Android, Web Socket, Restful Web services,
+Hibernate, MySQL.
+BMS - Building Monitoring System
+(May 2019 - May 2020)
+Customer Companies
+Description Schedule and track the work progress is done for security guards, housekeeping.
+Team size 7
+My position Developer
+My responsibilities
+- Analysis and design
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+- Deploy
+Technologies used Microservice, Spring Boot, React Native, React JS, Docker, Jenkins, Swagger,
+RabbitMQ, Redis, PostgreSQL.
+PMS - Power Monitoring System
+(Now 2018 - May 2019)
+Customer Companies
+Description PMS solutions to process, analyze, store and share energy usage and status
+information.
+Team size 6
+My position Team lead
+My responsibilities
+- Contact with factory to clarify the requirements
+- Analysis and design
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+- Deploy
+Technologies used JavaFX, Spring MVC, Web Socket, Restful Web services, Hibernate, MySQL,
+ReactJS.
+HMS - Hospital Management System
+(Jun 2018 - Aug 2018)
+Customer Companies
+Description Anti-confusion in surgery apply RFID technology.
+Team size 6
+My position Developer
+My responsibilities
+- Analysis and design
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+- Deploy
+Technologies used Java Swing, Spring MVC, Android, Web Socket, Restful Web services, Hibernate,
+MySQL.
+© topcv.vn
+	EDUCATION
+	WORK EXPERIENCE
+	ACTIVITIES
+	SKILLS
+	INTERESTS
+	PROJECTS
+	MMS - Manufacturing Monitoring System
+	BMS - Building Monitoring System
+	PMS - Power Monitoring System
+	HMS - Hospital Management System

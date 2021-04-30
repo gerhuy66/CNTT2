@@ -1,0 +1,68 @@
+
+Lê Nguyễn Tấn Đạt
+Fresher Front-end Developer
+lntdat1910@gmail.com 0702114876
+44/16/30 Phạm Văn Chiêu P.8 Q Gò Vấp, Hồ Chí Minh ,
+Việt Nam
+19 October, 1997
+EDUCATION
+*
+Cao Thắng Technical College
+09/2015 - 09/2018, 
+Electronics and
+Communication Engineering
+Technology
+*
+Kmin Academy
+05/2020 - 11/2020, 
+Front-end Developer
+WORK EXPERIENCE
+Network Engineering Staff
+Phương Nam Company
+09/2018 - 03/2019, 
+OBJECTIVE
+* Learning more, improve myself by doing and consume.
+* To be a part of organization that provides an
+atmosphere of mutual growth and benefits, where I could
+use and enhance my skills and knowledge for the
+development of organization, as well as myself.
+* Become an useful and responsible person.
+* Be successful person in work and social communication.
+SKILLS
+Languages: HTML/CSS , JavaScript
+Technologies: jQuery, SASS, Bootstrap, ReactJS, Redux.
+Knowledge of fundamental ES6 , Typescript.
+English : Good Reading. Medium write and listen
+Teamwork Skill: Ability to work in group,
+Communication skill
+PERSONAL PROJECTS
+Web Shopping (ReactJS) (09/2020 - 11/2020)
+Position, Role : Front-end Developer .
+Technologies, Language : JavaScript, ReactJS, Redux , SASS.
+Description : Web Shopping .
+Link:https://github.com/LeNTDat/Shopping_react
+Shooting Asteroid (08/2020 - 09/2020)
+Position , Role : Front-end Developer .
+Technologies, Language : HTML , JavaScript , jQuery.
+Description : The Asteroid will be shoting them down and get
+point .
+Link: https://github.com/LeNTDat/Shooting-game
+Booking Cinema (07/2020 - 08/2020)
+Position , Role: Front-end Developer .
+Technologies, Language : HTML/CSS , Javascript , jQuery.
+Description : Relate page with mockup api .
+Link:https://github.com/LeNTDat/Booking-Cinema
+Web Shopping (06/2020 - 07/2020)
+Position , Role: Front-end Developer .
+Technologies, Language :HTML/CSS , Javascript, jQuery .
+Description : Web Shopping .
+Link: https://github.com/LeNTDat/Clone-webside
+CERTIFICATES
+THE DEGREE OF ASSOCIATE ELECTRONICS AND
+COMMUNICATION ENGINEERING TECHNOLOGY
+ (09/2015 - 09/2018)
+Certification of Completion Front-end Web
+Development (05/2020 - 11/2020)
+Courses
+Courses
+mailto:lntdat1910@gmail.com

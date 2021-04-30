@@ -1,0 +1,73 @@
+
+Xem CV Online của HOÀNG QUANG NAM
+HOÀNG QUANG NAM
+PHP Web Developer
+ 07/04/1997
+ Nam
+ 0966625608
+ quangnamhd9x@gmail.com
+ Số 15, 63/57 Phú Mỹ, Mỹ Đình 2,
+Nam Từ Liêm, Hà Nội
+ github.com/quangnamhd9x
+MỤC TIÊU NGHỀ NGHIỆP
+- Mục tiêu ngắn hạn: Mong muốn tìm
+kiếm môi trường làm việc chuyên
+nghiệp, học tập rèn luyện học hỏi kinh
+nghiệm từ cấp trên và đồng nghiệp.
+- Mục tiêu dài hạn: Phát huy năng lực
+bản thân, phấn đấu trở thành Senior
+trong vòng 5 năm tới, đồng hành cùng
+sự phát triển của công ty.
+KỸ NĂNG
+Angular
+Kanban - Scrum
+PHP & Laravel Framework
+JavaScript/TypeScript
+MySQL
+Git & Linux
+SỞ THÍCH
+Tìm hiểu thông tin
+Hoạt động phong trào, văn nghệ
+CODEGYM VIỆT NAM 06/2020 - 11/2020
+TRƯỜNG QUÂN SỰ  TỈNH HẢI DƯƠNG 01/2019 - 06/2020
+TRƯỜNG CHÍNH TRỊ TỈNH HẢI DƯƠNG 01/2019 - 05/2020
+CÔNG TY CP ĐÀO TẠO ASK VIỆT NAM 12/2020 - HIỆN TẠI
+CODEGYM VIỆT NAM 06/2020 - HIỆN TẠI
+Mr. Phan Văn Luân - Instructor/Coach/Tutor
+Công ty CodeGym Vietnam
+Email: luan.phan@codegym.vn
+Mobile: 0867501258
+  HỌC VẤN
+Ngành học: Coding Bootcamp PHP 2020
+Ngành học: Trung cấp chuyên nghiệp ngành quân sự, quân sự địa phương
+Xếp loại: Khá
+Ngành học: Trung cấp lý luận chính trị hành chính
+Xếp loại: Khá
+ KINH NGHIỆM LÀM VIỆC
+Thành viên nhóm phát triển
+* Dự án: Trang web xử lý thông tin khách hàng đặt hàng sản phẩm
+- Mô tả: Xây dựng Website giúp quản trị viên quản lý được danh sách khách hàng, đơn hàng,
+các sản phẩm, khóa học tại ASK, xử lý, xếp lớp, đặt lịch học, gửi email cho khách hàng.
+- Công nghệ sử dụng: Codeiniter 4 Framework, Bootstrap 4, Template, Jquery & Ajax, CSS,...
+- Github: Private
+Thành viên nhóm phát triển
+* Dự án: Ứng dụng quản lý trường học OpenSIS
+- Mô tả: Xây dựng Website hỗ trợ cho các trường học trong việc quảng bá, giới thiệu nhà
+trường, quản lý học sinh, điểm học tập.
+- Công nghệ sử dụng: Laravel Framework 8, Bootstrap 4, Template, Jquery & Ajax, CSS
+- Github: https://github.com/npv34/OpenSIS
+Dự án cá nhân:
+* Web xem phim
+- Mô tả: Trang Web xem phim và quản lý phim cho Admin, bình luận cho người dùng.
+- Công nghệ sử dụng: Laravel framework, Template, Bootstrap, CSS.
+- Github: https://github.com/quangnamhd9x/CaseStudy-App-Cinema.
+* Web quản lý học sinh
+- Mô tả: Trang Web quản lý điểm cho giáo viên chủ nhiệm lớp
+- Công nghệ sử dụng: PHP, Bootstrap
+- Github: https://github.com/quangnamhd9x/CaseStudy-Class-Manage
+* Game: Bắn máy bay - Giải cứu trái đất
+- Mô tả: Webgame bắn máy bay chơi được qua Netlify
+- Công nghệ sử dụng: HTML, JavaScript, CSS
+- Netlify: https://protectearth.netlify.app/
+- Github: https://github.com/quangnamhd9x/CaseStudy-Protect-Earth
+ NGƯỜI THAM CHIẾU

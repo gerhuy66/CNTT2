@@ -1,0 +1,119 @@
+
+Xem CV Online của Phạm Minh Danh
+Phạm Minh Danh
+Javascript
+Kyanon digital
+August 2020 - February 2021
+Developer Staff
+Main responsibilities:
+- Develop website for customer at singapore.
+Apply the knowledge learned in real projects. Continue to do in-depth research on the
+framework and wish to do more research on technologies such as docker, Kubernetes , google
+cloud.
+The better travel (August 2020 - February 2021)
+Customer Customer at singapore
+Description
+- This is the website ( https://travel.ourbetterworld.org
+)that shows stories about journey, meet, weekend of good,
+covid-19, Culture and Craft of countries .
+Team size 7
+My position Front-end Developer (Angular)
+My responsibilities
+- Devolop website according to customer requirements
+- Research about angular universal
+- Upgrade angular.
+Technologies used
+- Angular
+- Angular universal
+- html, scss- Typescript
+Athena (October 2020 - December 2020)
+Customer Customer at singapore
+Description - This is a website, it manage customers' transactions
+Team size 3
+My position Front-end Developer (Angular)
+My responsibilities - Devolop website according to customer requirements.- Research ngrx and apply to project.
+Technologies used
+- Angular
+- html, scss
+- Typescript
+Affiliate (December 2020 - February 2021)
+Customer Customer at VietNam
+Description
+- - This is a website, it creates campains. Those campains
+January 05, 1998
+Male
+0348356832
+danhpham511998@gmail.com
+TP Hồ Chí Minh, Vietnam
+// OBJECTIVE
+// WORK EXPERIENCE
+// PROJECTS
+HTML
+CSS
+Javascript
+2016 - 2021
+University of transport
+Major: iInformation technology ( wait
+diploma )
+GPA: 2,70/4
+allow compain join and sell product...
+Team size 4
+My position Back-end Developer (nodejs)
+My responsibilities
+- Devolop new api.
+- Fix api error.
+- Research firebase.
+Technologies used
+- Nodejs
+- html, scss
+- Javascript
+- Firebase 
+Blog (Jun 2020 - Aug 2020)
+Customer My project
+Description
+- This is website show blogs about Javascript html css ...
+- Link website: https://immense-eyrie-97426.herokuapp.com/
+- Link GitHub: https://github.com/danhpham1/blog
+Team size 1
+My position Developer
+My responsibilities - Write code
+Technologies used
+- HTML
+- CSS
+- Nodejs
+- Mongodb
+Website selling watches (Oct 2020 - Dec 2020)
+Customer My project
+Description
+- This is website, that sells watches to men and women
+- Link website: https://dongho-jnjw57w2n.vercel.app/home
+- Link Github Front-end: 
+https://github.com/danhpham1/TTTN_FrontEnd
+- Link Github Back-end:
+https://github.com/danhpham1/TTTN_BackEnd
+Team size 1
+My position Developer
+My responsibilities - Write code
+Technologies used
+- HTML
+- CSS
+- Nodejs (Back-end)
+- Angular (Front-end)
+- Mongodb
+- Boostrap
+// SKILLS // EDUCATION
+Nodejs
+Angular
+Mongodb
+Soccer
+Music
+- MEAN Certificate at KhoaPham center
+// INTERESTS
+// CERTIFICATIONS
+© topcv.vn
+	//PROJECTS
+	The better travel
+	Athena
+	Affiliate
+	Blog
+	Website selling watches

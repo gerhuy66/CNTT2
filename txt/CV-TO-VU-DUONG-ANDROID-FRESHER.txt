@@ -1,0 +1,65 @@
+
+Xem CV Online của TO VU DUONG
+Ho Chi Minh University of Transport
+Experience in the eduaction:
++ Major subjects: Object oriented programming, data structures and algorithms, software quality assurance,...
++ Basic knowledge in design pattern.
+9-2016 - 12-2020 Ho Chi Minh University of Transport
+Major: Infomation Technology
+Gradutated in 2020
+Programming language - Java, C#
+Android - Create app Android using Android Studio
+- Basic knowledge in Android: activity, service, broadcast receiver, content
+provider, fragment,...
+Database - MS SQL Server
+Git - Get used with source code Git
+Softskill - Teamworking
+- Learning new technic
+TO VU DUONG
+Android Fresher
+Date of birth:  6/7/1998
+Gender:  Male
+Phone:  0973494419
+Email:  tovuduong98@gmail.com
+Address:  41/15 Thong Nhat, Binh Tho, Thu Duc, Tp.Ho Chi Minh
+Website:  https://github.com/TVD98
+OBJECTIVE
+Finding out a job in a professional, sociable and respectful environment to improve my skill and contributing for the
+company.
+WORK EXPERIENCE
+EDUCATION
+SKILLS
+PROJECTS
+Magic App
+(11/2020 - 2/2021)
+Customer Persional project
+Description - Mobile app help simulated picture in cell phone. Helping in some magic tricks
+Team size 1
+My position Code
+My responsibilities Analyst, coder, and tester
+Technologies used Java, Android studio, Firebase
+Monopoly game 3D
+(2/2020 - 5/2020)
+Customer Persional project
+Description - Simulation game board game monopoly
+Team size 2
+My position Leader
+My responsibilities Analyst, coder, and tester
+Technologies used C#, Unity engine, Visual Studio IDE, Adobe illustrator, Pain 3D.
+Employee management software
+(2/2019 - 5/2019)
+Customer Persional project
+Description - Software to help manage coffee shop employees: profile, work schedule, salary.
+Team size 3
+My position Leader
+My responsibilities Analyst, coder
+Technologies used C# Winform, MS SQL Server
+© topcv.vn
+	OBJECTIVE
+	WORK EXPERIENCE
+	EDUCATION
+	SKILLS
+	PROJECTS
+	Magic App
+	Monopoly game 3D
+	Employee management software

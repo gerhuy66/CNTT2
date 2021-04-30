@@ -1,0 +1,89 @@
+
+Xem CV Online của TRẦN NHẬT TRƯỜNG
+06/2016 - 06/2020 Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên
+Chuyên ngành: Kĩ thuật phần mềm
+07/2017 - 10/2017 Công ty phần mềm Năm châu Media
+PHP Delevoper
+- Viết modules cho dự án
+11/2017 - 06/2020 Trung tâm liên kết đa dịch vụ DOGS
+PHP Delevoper
+- Phát triển hệ thống giao hàng ShipX
+- Viết extension lên đơn hàng nhanh cho shop
+- Xây dựng hệ thống DentalApp
+01/2020 - Hiện nay Công Ty Cổ Phần Dịch Vụ & Phát Triển Công Nghệ Minh Hoàng
+PHP Delevoper
+-  Xây dựng tiện ích GoStackCookie
+- Xây dựng trang web bán sub youtube, tiktok
+- Xây dựng trang web quản lý cookie
+- Xây dựng tiện ích dịch tự động
+- Xây dựng hệ thống mua hàng hộ và quản lý đơn hàng Ebay
+2018 Giải khuyến khích ICTU programing contest 2018
+Tiếng Anh Đọc hiểu
+Docker Thành thạo
+TRẦN NHẬT TRƯỜNG
+Ngày sinh:  16/12/1998
+Giới tính:  Nam
+Điện thoại:  0816857338
+Email:  truongnd16121998@gmail.com
+Địa chỉ:
+ 
+Phường Trần Đăng Ninh, thành phố Nam Định, tỉnh
+Nam Đinh
+Website:  https://www.facebook.com/trannhat.truong.186
+MỤC TIÊU NGHỀ NGHIỆP
+Là lập trình viên với kiến thức tốt về Thuật toán, Cơ sở dữ liệu và Design Patterns. Học công nghệ mới là niềm
+đam mê của bản thân. Bản thân là một người thân thiện, hoà đồng và đã từng làm việc nhóm ở các vị trí khác
+nhau. Có thể giúp đỡ các thành viên khác trong nhóm khi họ gặp vấn đề.
+HỌC VẤN
+KINH NGHIỆM LÀM VIỆC
+GIẢI THƯỞNG
+CÁC KỸ NĂNG
+Git CI/CD Thành thạo
+Git Thành thạo github và gitlab, đã từng deploy và quản trị hệ thống Gitlab
+cho công ty
+SỞ THÍCH
+- Chơi thể thao
+- TÌm hiểu các ngôn ngữ lập trình mới
+DỰ ÁN
+Hệ thống ShipX
+(2018 - 2020)
+Khách hàng Trung tâm liên kết đa dịch vụ DOGS
+Mô tả dự án - Hệ thống nhằm mục đích quản lý và vận chuyển đơn hàng
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án
+- Phân tích và thiết kế hệ thống
+- Phát triển module
+- Tối ưu code
+- Sửa lỗi
+Công nghệ sử dụng - PHP Laravel
+Tiện ích dịch tự động
+(2018 - 2020)
+Khách hàng Shop bán quần áo
+Mô tả dự án - Extension dịch giúp các tin nhắn của shop với khách hàng được dịch sang tiếng
+việt giúp việc bán hàng được thuận lợi hơn
+Số lượng thành viên 1
+Vị trí công việc Lập trình viên
+Vai trò trong dự án - Phát triển tiện ích trong dự án
+Công nghệ sử dụng - JavaScript
+Xây dựng trang web DentalApp
+(2018 - 2020)
+Khách hàng Dental
+Mô tả dự án - Hệ thống nhằm mục đích tối ưu hóa quá trình sản xuất răng hệ thống sẽ kết nối
+các khâu khi làm răng lại với nhau để tiết kiệm thời gian và dễ quản lý nhất
+Số lượng thành viên 3
+Vị trí công việc Lập trình viên
+Vai trò trong dự án - Phân tích và thiết kế hệ thống
+- Phát triển web cho dự án
+Công nghệ sử dụng - PHP Laravel
+© topcv.vn
+	MỤC TIÊU NGHỀ NGHIỆP
+	HỌC VẤN
+	KINH NGHIỆM LÀM VIỆC
+	GIẢI THƯỞNG
+	CÁC KỸ NĂNG
+	SỞ THÍCH
+	DỰ ÁN
+	Hệ thống ShipX
+	Tiện ích dịch tự động
+	Xây dựng trang web DentalApp

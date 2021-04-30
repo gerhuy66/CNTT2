@@ -1,0 +1,402 @@
+
+Applicant for:
+Mobile developer
+Netacom
+13 August 2020
+Hung Le
+hungnt1486@gmail.com
+Main interests: iOS, Android
+What skills, work projects or achievements make you a strong candidate for this
+position?
+I'm working with Facebook, Twitter Framework, XMPP Framework, AFNetworking,
+Alamofire, Record voice, Google Map, Firebase, Google Place, AVAudioFramework,
+QRCode, CryptoSwift ...
+Top Jobs for IT People
+"My #1 job is to hire A+ players." - Steve Jobs
+itviec.com 08 6681 1397 itviec@itviec.com
+ 
+ 
+ 
+ 
+Career Profile 
+Personal Information 
+ 
+ 
+Name 
+Born 
+Sex 
+E-mail 
+ 
+Phone 
+ 
+Status 
+ 
+Yahoo, Skype, 
+Gmail 
+ 
+Address 
+ 
+Linkedin 
+: Le Minh Hung 
+: 14/08/1986 
+: Male 
+: hungnt1486@gmail.com 
+: +84909301378 
+: Information Technology Engineer 
+: hungnt1486 
+ 
+: Ho Chi Minh – Viet Nam 
+ 
+: https://www.linkedin.com/in/hung-le-b6721b52/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Languages 
+ 
+  Fluent Good Fair 
+ Vietnamese  ✔  
+ English ✔        
+Working Experiences 
+mailto:hungnt1486@gmail.com
+https://www.linkedin.com/in/hung-le-b6721b52/
+ 
+ 
+ 
+ 
+ 
+∙ From Nov 2010 to now 
+ Position  Developer, Team Leader                                                   
+ Job Description Manager team and coding 
+ Organization VNTC, CatVangSolutions Viet Nam, Synova, NetrunnerSystem, 
+Kootoro, FCS 
+ VNTC 2010 → 2011 
+ CatVang Solutions 2011 → 2014 (Banter Bandz, Basket Ball, Math4Friends, Stump’Em, 
+On Tapp Venues, On Tapp, PSChit, Restaurant) 
+ Synova 2014 → 2015 (Ecobooster, HighLearning, JobStick) 
+ NetrunnerSystem 2015 → 10-2015 (VOZ, TwoQueen, Wilby) 
+ Kootoro 11/2015 → 3/2018 (Toro Wallet) 
+ FCS  9/2018 (Housekeeping, Messenger, M-Connect, Hune, Pcare, 
+Godme) 
+  
+ 
+ 
+ 
+ 
+Computer Skills 
+ 
+Technical skills Years of experiences Last used 
+Mobile 
+iOS (Objective-C) 
+iOS (Swift) 
+Flutter 
+ 
+9 years 
+1,5 years 
+1 month 
+ 
+2020 
+2020 
+2020 
+ 
+ 
+ 
+♦Projects Mobile 
+ 
+∙ iOS Godme  From 03/2020 to 05/2020 
+Position in project Senior Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 11 iOS 10.0 --> 13.4.1, Swift 5.1 
+Mac OS 10.15.4 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Việt Nam 
+▪ Target Develop an iOS application which has functionalities Google Map, 
+Facebook Firebase authentication Phone, Firebase, CryptoSwift, 
+AWSS3, AWSCore, FirebaseUI…. This application can run on all 
+devices 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+1 person/1.5 month 
+ ▪ Link https://apps.apple.com/gb/app/godme/id1507098287 
+∙ iOS Hune  From 10/2019 to 1/2020 
+Position in project Senior Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 10 iOS 9.0 --> 13, Swift 5.0 
+Mac OS 10.13 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Việt Nam 
+▪ Target Develop an iOS application which has functionalities Google Map, 
+Facebook Account Kit, Firebase, CryptoSwift…. This application can 
+run on all device 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+ 
+ 
+ 
+ 
+ 
+ ▪ Link https://apps.apple.com/vn/app/hune-kenh-thong-tin-viec-
+lam/id1227361450 
+∙ iOS PCare From 12/2018 to 1/2019 
+Position in project Senior Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 10 iOS 9.0 --> 12, Swift 4.0 
+Mac OS 10.13. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Việt Nam 
+▪ Target Develop an iOS application which has functionalities Google Map, 
+Facebook Account Kit, Firebase, CryptoSwift, Crashlytic…. This 
+application can run on all device 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+1 person/1.5 month 
+ ▪ Link  
+∙ iOS Housekeeping, Messenger, M-Connect FCS From 9/2018 to now 
+Position in project Senior Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 10.2 iOS 8.0 --> 12, Objective-c 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Malaysia 
+▪ Target Develop an iOS application which has functionalities multi language, 
+QRCode, sqlite…. This application can run on iPhone 4, iPhone 4S, 
+iPhone 5, 5s, 6, 6+, 7, 7+, 8, 8+, iPhone X 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+ ▪ Link Local 
+∙ iOS Kootoro From Nov 2015 to 3/2018 
+Position in project Team lead, Senior Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 6.,4 9.2 iOS 7.0  11.2, Xamarin(C#) 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer USA, VietNam 
+▪ Target Develop an iOS application which has functionalities multi language, 
+QRCode, get location, Google Map, Google Place, Payment First 
+ 
+ 
+ 
+ 
+Data, Onepay, sqlite…. This application can run on iPhone 4, iPhone 
+4S, iPhone 5, 5s, 6, 6+, 7, 7+, 8, 8+, iPhone X 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+ ▪ Link https://apps.apple.com/us/app/toro-wallet/id1037966323?ls=1 
+∙ iOS VOZ From March 2015 to Aug 2015 
+Position in project Team lead, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 6.2, 7.0, iOS 7.0  9.0 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Singapore 
+▪ Target Develop an iOS application which has functionalities Voice, record, get 
+location, get contact from phone, sqlite…. This application can run on 
+iPhone 4, iPhone 4S, iPhone 5, 5s, 6, 6+ 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-3month 
+ ▪ Link  
+∙ iOS HighLearning From Oct 2014 to Nov 2014 
+Position in project Member, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 5.1.1, 6.1, iOS 7.1.1, 8.1 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer France 
+▪ Target Develop an iOS application which has functionalities Side Bar, 
+mapkit…. This application can run on iPhone 4, iPhone 4S, iPhone 5, 
+5s, 6, 6+ 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-1month 
+ ▪ Link  
+∙ iOS Ecobooster From Sep 2014 to Nov 2014 
+Position in project Team Lead, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 5.1.1, 6.1, iPad 7.1, 8.1 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+ 
+ 
+ 
+ 
+▪ Customer France 
+▪ Target Develop an iOS application which has functionalities Side Bar, Write 
+file pdf, html from response server, grid view…. This application can 
+run on iPad, iPad Retina. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-2month 
+ ▪ Link Local 
+∙ iPhone OS PSChit From Feb 2014 to April 2014 
+Position in project Team Lead, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode 5.1, iPhone 7.1 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer France 
+▪ Target Develop an iOS application which has functionalities get friend from 
+Facebook, Chat, MapKit, XMPP Framework …. This application can 
+run on iPhone 4, iPad and iPhone 4S, iPhone 5, 5s. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-2months 
+ ▪ Link  
+∙ iPhone OS On Tapp From Sep 2013 to Oct 2013 
+Position in project Team Lead, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode, iPhone SDK 7.0. 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Australia 
+▪ Target Develop an iOS application which has functionalities get friend from 
+Facebook, Get location, bar, paypal, …. This application can run on 
+iPhone 4, iPhone 4S, iPhone 5, 5s. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-1months 
+▪ Link  
+∙ iPhone OS On Tapp Venues From Sep 2013 to Oct 2013 
+Position in project Team Lead, Developer iOS 
+Technical Environment  
+ ▪ Software   XCode, iPad SDK 7.0. 
+Mac OS X. 
+ 
+ 
+ 
+ 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer Australia 
+▪ Target Develop an iOS application which has functionalities get friend from 
+Facebook, Get location, bar, paypal, …. This application can run on 
+iPad. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 1 person-1months 
+▪ Link  
+∙ iPhone OS Stump’Em From June 2013 to 2014 
+Position in project Developer 
+Technical Environment  
+ ▪ Software   XCode, iPhone SDK 7.0. 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iOS Application 
+▪ Customer USA 
+▪ Target Develop an iOS application which has functionalities get friend from 
+Facebook, post message to Twitter, Chat, …. This application can run 
+on iPhone 4, iPad and iPhone 4S, iPhone 5, 5s. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 4 person-5months 
+▪ Link  
+∙ iOS Math4Friends  
+Position in project Team Leader, Developer iOS and 
+Talk with customer get SRS. 
+Technical Environment  
+ ▪ Software   XCode, iPhone SDK 6.0 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iPhone Application and API. 
+▪ Customer USA 
+▪ Target Developer iphone application which has functionalities: player and 
+multi player math.This application can run on iPhone 4, iPad and 
+iPhone 4S. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 5 person-3months 
+▪ Link  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+∙ iPhone OS Banter Bandz From Dec 2011 to 2012 
+Position in project Developer and Team Leader 
+Technical Environment  
+ ▪ Software   XCode, iPhone SDK 5.0. 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iPhone Application and Website. 
+▪ Customer USA 
+▪ Target Develop an iphone application which has functionalities Game on 
+MapKit, Chat, MailBox, …. This application can run on iPhone 4, iPad 
+and iPhone 4S. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 5 person-3months 
+ 
+∙ iPhone  Basket Ball From Apr 2012 July 2012 
+Position in project Developer 
+Technical Environment  
+ ▪ Software   XCode, iPhone SDK 4.3. 
+Mac OS X. 
+ 
+Project Description  
+ ▪ Characteristics iPhone Application 
+▪ Customer USA 
+▪ Target 
+ 
+Develop an iphone application which has functionalities same as 
+iPhone. This application can run on iPhone 3G, 3GS, iPad and iPhone 
+4G. 
+▪ Scope 
+▪ Size 
+Requirement analysis, Design, Coding and unit test, Deployment 
+~ 2 person-months 
+▪ Link  
+ 
+ 
+Hobbies 
+       Sports, Music, Trainer … 
+ 
+ 
+ 
+ Applicant’s signature      Date: 01/08/2020 
+ 
+ 
+  
+  Le Minh Hung 

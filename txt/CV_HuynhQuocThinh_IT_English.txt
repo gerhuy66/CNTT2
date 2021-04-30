@@ -1,0 +1,68 @@
+
+Thinh Huynh Quoc
+Front-end Developer
+Contact information
+Phone/Zalo 0344464195
+facebook https://www.facebook.com/huynh.thinh95/
+E-Mail hqthinh0@gmail.com
+address 2/21 Street 207, Ward Hiep Phu , District 9 , HCM
+Summary
+- I have 2 years of experience as a Front-end Developer
+- Have a good record in the work assigned from the levelon.
+- Looking for yourself a stable and long job long.
+- Always learn from your experiences go ahead at work. to improve yourself. As well as learn new about farmwork like
+Reactjs, Angular, Nodejs. Ornew farmwork
+Experience
+04-2018 -09-2018 Công ty THNN TM & DV AMS – Quận 10, TP.HCM - Việt Nam
+staff – Marketting / part time
+- Collect website development data for the company
+- Update products for the company
+- SEO products for the company on the website
+- Do email to customers.
+- Call to support SEO, send catalogs to customers.
+10/2018 – 06/2019 Công ty TNHH Quailentvn, Gò vấp, TP.HCM – Viet Nam
+Staff – Front-end Developer
+Front-end interface design.
+HTML5 , CSS3 , Scss(SASS, LESS)
+Designed according to w3c standards
+06/2019 – 10/2020 Công ty Halosoft –Binh Thanh , TP.HCM –Viet Nam
+Staff – Front-end Developer
+Redesign interface front-end according to customer requirements, or design according to
+customer documents.
+Fix Bugs
+Shopify themes
+HTML5 , CSS3 , Scss(SASS, LESS)
+Custom interface according to customer requirements.
+Use github to manage main source.
+10/2020 – Now self-study at home Reactjs
+Learn about reactjs
+Components, Hook, useEffect, Redux, Props , State
+do small projects using reactjs
+Education
+2014-04 - 2018-08 Thu Duc Technology College
+Completion of courses at Thu Duc Technology College
+Graduation rating: Fair
+A member of the FIT TDC strange sentence
+project : http://fit.tdc.edu.vn/dev/fooproject1/ (the link might not work)
+Skills
+Skills HTML5 , CSS3 , Scss(SASS, LESS) ,Bem, Flexbox, Grid, Bootstrap 4, ExactlyW3C , Jquery,
+Javacript , Photoshop, Lightroom, AI , Git , Reactjs(Fresher), Shopify
+Soft Skills - Time management.
+- Working group.
+- Work independently.
+- Communication skills.
+Office information
+technology
+Proficient in Microsoft Office (Word, Excel, PP)
+Foreign Language - English (average)
+Project
+Demo https://duan01ht.000webhostapp.com/demo2/index.html
+Demo https://duan01ht.000webhostapp.com/demo1/index.html
+Demo https://duan01ht.000webhostapp.com/index.html
+Customer https://www.pursuefitness.co.uk/
+Product https://soun-oneproduct.myshopify.com/
+Product https://jewelias-demo.myshopify.com/
+Product https://thesymphonydalat.com/
+weather app http://weather_app_ht.surge.sh/
+todolist app http://todolist_ht.surge.sh/
+© MyCV.vn

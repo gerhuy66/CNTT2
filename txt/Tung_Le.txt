@@ -1,0 +1,245 @@
+
+Tung Le 
+Birth: Feb 10th ,1988                      Gender: Male 
+Address: 1208, No14B, KDTM Dinh Cong, Hoang Mai, Hanoi 
+Tel: 090 222 6394                           Email: tungle.coldwind@gmail.com  
+ 
+ 
+ 
+ 
+Education: 
+ 
+ 
+2006 – 2011 Hanoi University of Technology 
+Major in Applied Mathematics and Computing 
+ 
+6/2008-2009 Netpro Networking Academy 
+CCNA 
+ 
+3/2009 – 2010 iPMAC Networking Academy 
+CCNP 
+ 
+6/2012 – 2013 iPMAC Networking Academy 
+Linux LPI 
+ 
+2010 Got CCNA certificate 
+ 
+Technical skill 
+ - Network Performance Tuning, LAN Knowledge,  
+- Network Design and Implementation, Problem Solving, Strategic 
+Planning, Multi-tasking, Quality Focus  
+- Have a good skill with: 
++  Server Management (Windows 2008, 2012): AD, DHCP, DNS, 
+WSUS, DFS… 
++  Virtualization: VMware, Hyper-V 
++  Desktop management: ME desktop central, JP1 ITDM 
++  Network devices Cisco & HP 
++  PBX: Panasonic, Avaya, Grandstream 
++  Firewall: Pfsense, Fortinet 
++  Endpoint Antivirus: Kaspersky, McAfee 
++  Disk Encryption: Checkpoint 
++  CCTV: Hikvison, Dahua, Surveon 
++  NAS Backup: Qnap, Synology, Buffalo… 
++  Monitor: PRTG, ME opmanager 
++  Server backup: Veeam, Robocopy 
+- Have a basic skill with: 
++  Monitor: Centreon 
++  Linux: Centos 6.9 
+ 
+ 
+Personal Ability 
+ - Fast learner, adapting myself to circumstance very quickly. 
+- Able to work well in either team environments and individually as 
+well. 
+- Good at communication, specifically working team. 
+- Planning and organizing skills. 
+- Adept problem solver. 
+ 
+ 
+ 
+ 
+Working experience 
+11/2018 – Now Vietnam - Japan International General Hospital 
+PMU: IT Management  
+- Calculate and optimize Server resources (vCPU, RAM, LUN, 
+network…)  
+- Working with vendors to create total solution for IT and ELV 
+system 
+- Make IT and ELV technical requirement (hardware, software, 
+system integration) 
+- Choose the best solution (technical and economic solution) suitable 
+to Hospital requirements and calculate the cost estimation: 
++ General IT: AD, Mail, security, monitoring, syslog, device 
+management, network… 
++ Hospital IT: HIS, LIS, PACS, Medical Equipment 
++ ELV: IPTV, DS, Nurse Call, Car Parking, Access Control… 
+- Make implementation plan: Cabling, Hardware and Software 
+- Support tendering team negotiate and order equipment 
+- Make commissioning plan: Training, Test  
+- Build the IT policy and write SLA for organization 
+ 
+ 
+7/2017 – 10/2018 MAT Vietnam 
+Senior Network and System Engineer 
+1.   Presales cum Consultant 
+- Support sale team survey customer requirement  
+- Create the best and the second solution for requesting directly from 
+customer 
+- Send and explain the solutions to sale team  
+ 
+2.   Senior Engineer 
+- Build project scheduler and follow it 
+- Directly implement “approved solution”  
++ Upgrade Chiyoda Factory’s network 
++ Implement NVR system for 2nd Chiyoda Factory  
++ Migrate gateway router from Draytek 2925 to Cisco 888 for 
+Tomy HK company 
++ Upgrade MAT’s WIFI system 
++ Upgrade Kuroda Kagaku Factory’s network 
++ Implement Symantec Endpoint Protection for MHIVA Factory 
++ Daily update IT knowledge via Seminars, online-offline learning 
+ 
+3.   PIC of Chiyoda, KYB and Goko Spring Factory 
+- Manage DC system: AD, DHCP, DNS, WSUS… 
+- Manage Fileserver and backup system (Windows, Buffalo and 
+Synology NAS) 
+- Manage F-secure Endpoint Protection system 
+- Manage network and Firewall policy 
+- Manage Exchange online Mail (for KYB) and MDaemon mail (for 
+Chiyoda) 
+- Manage IT asset by ITDM of Hitachi 
+- Helpdesk and Troubleshoot client errors (~120 clients) (remote, on-
+phone, direct support) 
+- Build checklist for installing new PC for factories  
+- Guide users using IT equipment based on policy 
+- Send monthly system status report to management team 
+ 
+4. Self-study  
+- Build Zabbix and PRTG  to monitor system 
+- Backup server by using Veeam 
+- Build IT asset management by using Snipe IT 
+- Build FreeNAS system to share storage (read document only) 
+- … 
+ 
+4/2017 – 4/2017 
+ 
+Other Project 
+Upgrade and Migrate Windows system for Ecoba Company (outsourcing 
+only) 
+- Configure Inter-Vlan routing between Cisco 2960, 3650 and 
+Pfsense firewall 
+- Implement security Layer 2 system 
+- Implement virtualization addition AD, DNS, WSUS 
+- Configure High available DHCP and File Server using HP P2000 
+G3 
+- Implement Backup system daily 
+- Setup monitoring system via Centreon 
+- Write document and handover it to user 
+ 
+  
+6/2016– 12/2016 
+ 
+APRICOT HOTEL 
+IT Manager 
+1. IT Support: 
+- Support users use computer, IT equipment and hotel management 
+software 
+- Good at help user directly, voice call or mail… 
+- Issue training plan for my department and other department 
+- Issue company policy  
+- Manage CCTV and IPTV system 
+ 
+2. System administrator 
+- Manage the IT Infrastructure Inventory 
+- Configuring and managing AD, DHCP, WSUS, ISA, HP switch 
+system, ESXi system. 
+- Troubleshooting network problems and conflicts. Improve network 
+system performance  
+- Performs and verifies system and data backups and restoration on 
+servers using backup software. 
+- Disaster Recovery Plan for Networking. 
+- Researches, configures and installs computer software packages, 
+software upgrades, Operating System upgrades and maintenance 
+- Report to GM monthly 
+ 
+8/2015 – 6/2016 FUJI XEROX VIETNAM COMPANY 
+IM Executive 
+1. IT Support: 
+- Provide technical assistance and support for incoming queries and 
+issues related to computer systems, software, and hardware 
+- Issue user guide when implementing new software 
+- Troubleshoot  O365 (word, excel, Lync…) on user’s PC 
+- Follow up with users to ensure problem has been resolved 
+ 
+2. System Administrator: 
+- Manage the IT Infrastructure Inventory 
+- Manage AD, DHCP, DNS, WSUS, RSA VPN… system on Hanoi 
+and Haiphong site 
+- Manage Checkpoint Disk Encryption and Mcafee Endpoint 
+Production system 
+- Manage Avaya PABX system in Hanoi office and Haiphong office 
+- Guidance users in computer manipulation as company’s policy 
+- Install, modify, and repair computer hardware and software. 
+- Performs daily backup server to server, server to Buffalo NAS. 
+- Researches, configures and installs computer software packages, 
+software upgrades, Operating System upgrades and maintenance 
+- Weekly report to Manager 
+ 
+8/2011 – 7/2015 CHURCH BOUTIQUE HOTEL GROUP (THIEN HUONG L.L.C) 
+IT Manager 
+1. IT support 
+- Responsibility: 
+- Issue training plan for other departments 
+- Support user use computer and hotel management software in head 
+office and remote branch office by phone, mail or remote tools 
+ 
+2. System Administrator 
+- Implement and manage ESXi, ADDS, File server and WAN/LAN 
+system on HP ML350 G5 servers, LinkSys AP, Draytek 2912 
+router… 
+- Manage Hikvision CCTV, Panasonic 100D PBX system and other 
+IT equipment in head office and branch offices 
+- Perform daily system monitoring, verifying the integrity and 
+availability of all hardware, server resources, systems and key 
+processes, - Audit system, application logs and verifying 
+completion of scheduled jobs such as backups. 
+- Perform daily backup operations, ensuring all required file systems 
+and system data are successfully backed up to the appropriate 
+media, recovery tapes or disks are created, and media is recycled 
+and sent off site as necessary. 
+- Create, change, and delete user accounts per request. 
+- Investigate and troubleshoot issues. Repair and recover from 
+hardware or software failures. 
+- Send “Changing System” Report to General Manager 
+ 
+ 
+  
+Reference 
+ 1, Church Boutique Hotels Group:  
+Mr. Patrick Bui Tuan, Operation Manager of Church Boutique 58 Hang 
+Gai  
+Phone No: 091.594.8883 
+ 
+2, Fuji Xerox Vietnam:  
+Mr. Cao Binh Nguyen, IM Executive of Fuji Xerox HCM 
+Phone No: 090.144.5422 
+ 
+3, Apricot Hotel:  
+Mr. Phung Ba Hung, Assistant IT Manager 
+Phone No: 0987.168.949 
+ 
+4, Other Project (Ecoba company):  
+Mr. Le Xuan Vinh, IT specialist of Ecoba 
+Phone No: 0165.902.8009 
+ 
+5, MAT Vietnam:  
+Mr. Dao Xuan Thanh, Senior Network and System Engineer of MAT 
+Phone No: 090.226.6112 
+ 
+6, Vietnam – Japan International General Hospital  
+Ms. Van Thi Thu Ha, Human Resource Executive 
+Phone No: 096.583.3595 
+ 
+ 
+ 
+ 

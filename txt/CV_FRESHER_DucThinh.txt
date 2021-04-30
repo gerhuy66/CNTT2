@@ -1,0 +1,70 @@
+
+Em là sinh viên mới ra trường, và đã có kinh nghiệm 4 tháng với reactJS và nodeJS và hoàn thành một số dự án cá nhân.
+Và đang muốn tìm một cơ hội nghề nghiệp để rèn luyện thêm kỹ năng, bổ sung thêm kiến thức của mình. Và có cơ hội
+được đóng góp cho công ty.
+Trần Đức Thịnh
+Fresher NodeJS/ReactJS
+Thông tin liên hệ
+Điện thoại
+0335644678
+Facebook
+https://www.facebook.com/duc.thin
+h.5209/
+E-Mail
+thinhtd2109@gmail.com
+Kỹ năng
+HTML
+- Thành thạo các thẻ HTML.
+ReactJS
+- Hiểu được cơ bản của ReactJS:
+props, state, hooks, redux, redux-
+thunk, redux-saga...
+CSS
+- Hiểu và thành thạo các thẻ css và
+một số các animation...
+NodeJS
+- Có kiến thức về expressJS,
+route, middleware,... có thể viết
+được API cho app.
+Javascript
+Thành thạo các kiến thức cơ bản
+của Javascript, vanilla JS, thao tác
+với các DOM.
+Kinh nghiệm
+2020-11 - 3 -
+2021
+Thực tập sinh tại công ty PIX
+69/2/15 Nguyễn Gia Trí, Quận Bình Thạnh, Tp.HCM
+Làm các task ReactJS và nodeJS các chức năng của dự án
+công ty.
+Được đào tạo các kiến thức ReactJS và NodeJS.
+Giáo dục
+2017/09 –
+2020/06
+Trường Cao Đẳng Fpt Polytechnic
+Cử nhân công nghệ thông tin
+Hệ cao đẳng
+Dự án
+Duc Thinh Shop
+(03/2021 - hiện tại)
+Chức năng
+- Cart, đánh giá, đặt hàng, đánh giá bằng sao, bình luận, trả lời bình luận, đăng
+nhập, đăng ký, đổi mật khẩu, quên mật khẩu,thay đổi địa chỉ giao hàng. Địa chỉ
+mặc định, sản phẩm yêu thích, tìm kiếm theo giá, danh mục, thương hiệu, mã
+giảm giá, tags, kích cỡ, màu sắc, sao đánh giá..., lọc theo giá, giảm giá... Đặt
+hàng với stripe.
+Mô tả
+github: https://github.com/thinhtd97/shop_v4
+link: http://fashionv1.herokuapp.com/
+Số thành viên
+1
+Vị trí công việc
+Lập trình viên
+Vai trò trong nhóm
+Lập trình viên
+Phát triển module
+Sửa lỗi
+Công nghệ sử dụng
+Frontend: HTML, CSS, JS, ReactJS, Redux-thunk, Redux-saga...
+Backend: NodeJS, MongoDB
+© MyCV.vn

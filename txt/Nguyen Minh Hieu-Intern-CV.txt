@@ -1,0 +1,88 @@
+
+Nguyen Trong Quyet - CV
+NGUYEN MINH HIEU 
+Date of Birth 03/03/2000 
+Gender Male 
+Phone 0845606616 
+Email nmhieu03032000@gmail.com 
+Adrress 352, 835B street, Phuoc Hau, Can Giuoc, Long An 
+ 
+OBJECTIVE 
+Use what I learned to complete the internship. Then, holding long with the company, getting involved in the 
+reality project in the company. 
+ 
+ 
+EDUCATION 
+08-2018 – Now VNUHCM-University of Science 
+Information Technology ( Associate ) 
+ 
+ 
+ 
+SKILLS 
+- Basic understanding HTML, CSS, Bootstrap, Javascript, PHP, C#, SQL Sever, MySQL 
+ 
+PROJECTS 
+Term 2 / Year 2 
+ 
+QuizNight 
+Description - In this project we will make simple quiz game in windows 
+form. This will be a multiple choice game where you are 
+asked a question and you have 4 variations of answers on 
+the screen. Besides, the game can also stream the host's 
+video to the players 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - C#  
+Source code - https://github.com/hhiieeuu11/QuizNight.git 
+ 
+  
+mailto:ntrongquyet37@gmail.com
+ 
+Term 1 / Year 3 
+ 
+Examination management 
+Description - Application to help students take the test. 
+Teachers can manage students and create 
+quizzes and exams. Administrator can 
+manage users 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - C# 
+- LinQ 
+Source code - https://github.com/nmhieu0303/ExaminationMana
+gement.git 
+ 
+ 
+Term 3 / Year 1 
+ 
+Ecommerce Web 
+Description - Build a website to sell fashion 
+Temp size - 3 
+My position - Developer 
+My responsibilities - Database design 
+- Development 
+- Review code 
+- Optimize code 
+- Bug Fixing 
+Technologies used - PHP  
+- JS,Jquery, Ajax 
+- HTML,CSS – framework Bootstrap 
+Source code - https://github.com/nmhieu0303/GunoStore.
+git 
+ 
+ 
+ 
+ 
+MORE 
+- Ability to work independently/group depending on the needs of the company. 
+- There's always an evolving will, wanting to work and cooperate in the company. 
+- Interests: Football, Game, Travel 

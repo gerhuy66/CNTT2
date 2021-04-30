@@ -1,0 +1,112 @@
+
+Xem CV Online của Nguyen Tien Dat
+9/2013 - 7/2017 Ha Noi University Of Business And Technology
+Graduated in 2017
+Subject: Information Technology
+9/2018 - Present FAMTECH Viet Nam Joint Stock Company
+Position: Front-end Web Developer
+Job description: Build and develop user interface
+Highlight Project:
+https://www.schoolly.vn/, https://www.bcnex.net/
+Technology: Vuejs library, NuxtJS framework
+1/2018 - 6/2018 Apecsoft - Asia Pacific Software Joint Stock Company
+Position: Front-end Web Developer
+Job description: Build and develop user interface
+Highlight Projects: http://www.phuthaicat.com.vn/,
+https://myhanoi.vn/,...
+6/2017 - 12/2017 Mai Hoang Online - Electronic Sports Information Joint
+Stock Company
+Position: Front-end Web Developer
+Job description: Build and develop user interface
+HTML - Write HTML use BEM methodology.
+- Knowledge of HTML5 tags, web accessibility, to optimize for SEO.
+Nguyen Tien Dat
+Date of birth  21/08/1995
+Gender  Male
+Phone  +84 365 536 695
+Email  tiendatleo218@gmail.com
+Address  Hanoi, Vietnam
+Website  https://www.linkedin.com/in/tiendatleo/
+OBJECTIVES
+- To obtain a software development position with a professional working environment where i can use my
+skills and experiences to develop good user interfaces (UI) and become valuable.
+- To be contributed in high quality products.
+EDUCATION
+EMPLOYMENT HISTORY
+SKILLS
+CSS - Use SCSS and refer folder structure, code style guide at https://sass-
+guidelin.es/
+- 3 years of experience in build UI.
+Javascript - Skilled in ES5, ES6, work with data and have knowledge of design
+patterns.
+- Vue/NuxtJS: Have more 2 years of experience, used in any projects.
+- Worked with UI framework: ant-design-vue, boostrap-vue, vuetify,
+element UI.
+- Have knowledge of Reactjs.
+Design tools - Use proficiently Adobe Photoshop, Adobe XD, Sketch, Figma, Zeplin,...
+English - Readable English document.
+PROJECTS
+Schoolly - Comprehensive online education and training system -
+https://www.schoolly.vn/
+(12/2019 - 9/2020)
+Customer Schoolly Viet Nam Education Joint Stock Company
+Description
+Schoolly is a comprehensive online learning platform for students, teachers,
+schools and educational institutions.
+Schoolly includes:
+- Online classrooms.
+- Educational social network.
+- Diverse learning materials.
+Team size 3x
+My position Front-end developer.
+My responsibilities Key member, build base components, logic client side.
+Technologies used Vue/NuxtJS client-side.
+VISA Online Viet Nam - https://onlinevisavn.net/
+(3/2020 - 4/2020)
+Customer Online Vietnam Visa team - Main Customer Services in Vietnam
+Description Provide visa approval letter service which is officially approved by Vietnam
+Immigration Department.
+Team size Team front-end: 4 dev, 1 manager.
+My position Front-end developer.
+My responsibilities Key member, build base components, logic client side.
+Technologies used Vue/NuxtJS client-side.
+Bcnex - The Ultimate Blockchain Trading Platform - https://www.bcnex.net
+(9/2018 - 5/2020)
+Customer Oritech Technology Joint Stock Company
+Description A market where user can buy, exchange and trade blockchain-based tokens
+and a wide range of digital assets in Vietnam and the rest of the world.
+Team size 3x
+My position Front-end developer.
+My responsibilities Key member, build base components, logic client side.
+Technologies used Vue/NuxtJS client-side.
+Zilack - Just Relax - https://zilack.vn
+(2019 - 2019)
+Customer Zilack Entertainment and Media Joint Stock Company
+Description An entertainment website, listen to music, watch video.
+Team size 4 dev, 1 manager.
+My position Front-end developer.
+My responsibilities Key member, Boilerplate - Core Builder.
+Technologies used Vue/NuxtJS client-side.
+Vietnam Travel: Tours, Cruises, Guides, Hotels & Visa
+(2018 - 2018)
+Customer ASIA TRAVEL & LEISURE CO.,LTD.
+Description
+To connect travelers to Vietnam travel experiences.
+https://vietnamtravel.com
+https://myanmartravel.com
+https://laostravel.com
+Team size 4 dev, 1 manager.
+My position Front-end developer.
+My responsibilities Key member, Boilerplate - Core Builder.
+Technologies used HTML5/CSS3 (Front-end).
+© topcv.vn
+	OBJECTIVES
+	EDUCATION
+	EMPLOYMENT HISTORY
+	SKILLS
+	PROJECTS
+	Schoolly - Comprehensive online education and training system - https://www.schoolly.vn/
+	VISA Online Viet Nam - https://onlinevisavn.net/
+	Bcnex - The Ultimate Blockchain Trading Platform - https://www.bcnex.net
+	Zilack - Just Relax - https://zilack.vn
+	Vietnam Travel: Tours, Cruises, Guides, Hotels & Visa

@@ -1,0 +1,66 @@
+
+Microsoft Word - Tran Gia Dang Khoa_Part-time Application.docx
+CURRICULUM VITAE 
+Tran Gia Dang Khoa 
+ 
+PERSONAL DETAILS 
+ 
+Date of Birth October 6th, 1996 
+Gender Male 
+Address 55 Le Lai, Ward 3, Go Vap District, HCMC 
+Mobile number +84 934 049 300 
+E-mail trankhoa798@gmail.com 
+ 
+EDUCATION SUMMARY 
+ 
+• 11/2018 to present: Student at FPT Polytechnic – College level of FPT Education system. 
+ 
+• 2014 to 2018: Student majoring in International Human Resource Management at University 
+of Applied Sciences in Enschede, Netherlands. 
+ 
+• English: TOEIC certificate 900+. 
+ 
+SKILLS 
+ 
+• Language & Scripting: HTML, CSS, JavaScript, Java, Python. 
+ 
+• School projects I made: 
+o Calculator with HTML, CSS and JavaScript: Use jQuery to make interactions among 
+buttons and find result for simple equations. 
+o Calculator on Android Studio (not finished): Design and program buttons, 
+send and receive intent, bundles.   
+o Simple game with Turtle – Python graphical library: Design and program an 
+aircraft to shoot others. Main character is controlled by <Up>, <Down>, 
+<Left>, right keys and shoot a projectile to enemies when user presses 
+<Space> 
+o Simple website (not finished) aims at serving E-commerce industry to learn 
+VueJS on the way. 
+o Robotic models including cars, airplanes, earthquake simulator, Star-war AT-
+AT by Lego Wedo 2.0 set. 
+o Employee Management application (not finished – current main project) 
+create SQLite database and link with Android providing simple functions 
+(Create-Read-Update-Delete). 
+ 
+RELATED EXPERIENCE 
+ 
+• Part-time Robotics and Programming Teacher at Teky Academy, 569 Phan Van Tri, Go Vap 
+District. I teach kids from 6 to 15 to help them get familiar with new Technology including: 
+Scratch (scratch.mit.edu), Tynker (Tynker.com), Python (simple algorithms and game design) 
+and many Lego sets (Lego Wedo 2.0 and Lego Mindstorm). 
+  
+OBJECTIVES 
+ 
+• Become an effective Mobile developer. 
+• Improve my skill and knowledge to make contribution for organization 
+• Learn new things every day. 
+ 
+INTEREST 
+ 
+• Basketball, gaming and networking. 
+ 
+PERSONAL REFERENCE 
+ 
+• Ms. Le Nguyen Phuong Uyen – Education Leader of Teky Go Vap unit,  
+mobile: +84 932 032 392, e-mail: uyenlnp@teky.vn 
+ 
+ 

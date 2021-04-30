@@ -1,0 +1,80 @@
+
+CURRICULUM VITAE 
+NGUYEN QUANG KHAI 
+ 
+Personal Details 
+ 
+Full name: Nguyen Quang Khai 
+Date of Birth: September 14th, 1993 
+Gender: Male 
+Position: Software Tester 
+Address: Dong Da, Hanoi, Vietnam 
+Phone number: (+84) 38 780 3097 
+Email: Vanebuster@gmail.com 
+ 
+Office Contact 
+Company: FPT Software 
+Address: FPT Building 17th Duy Tan, Cau Giay, Ha Noi 
+ 
+Skills 
+· Good ability at self-studying and learning new technologies. 
+· Good English communication skill 
+· Soft skills, good at working in groups, presentation, and communication. 
+· Isolate all bugs properly. 
+· Good risk management skill 
+· Break task and assign priority properly 
+· Follow up bug’s status until the bug is completely fixed by developing team. 
+· Test the game following all the Required Checklist (Ergonomic rules, Game Design document, 
+Gameplay checklist, Specific Carrier checklists...) and QA Processes. 
+· Explain about process, checklist rules for new team members. 
+· Help testers solve their problems when they have unclear issues. 
+· Report and track defects, verify fixes and perform follow-up work to resolve issues. 
+mailto:Vanebuster@gmail.com
+· Track and analyze support and field regression data to identify new policies and procedures 
+necessary to ensure high quality releases. 
+· Take place team's activities like: team building, birthday of team member, presentation and 
+small contest in company to evaluate each tester's skill and knowledge. 
+· Create and maintain automation test script in Robot Framework. 
+ 
+Advantages 
+· Have an IT background. 
+· Fluency in Word, Excel, PowerPoint. 
+· Able to work under pressure. 
+· Have experiences of managing team, following testers and projects. 
+· Have experiences working in multiple platforms (iOS, Android, Windows) 
+· Have experience working as an onsite coordinator at customer site in Seattle, WA USA 
+ 
+➢ About 
+ 5 Years’ Experience in various projects (Games, Web, mobile iOS and windows) 
+ Have experience with multiple test types (integration, system test, performance test, API test, 
+regression test...etc.) 
+ Excellent English skills  
+ Has built an automation framework for data processing project using Python and Robot 
+framework 
+ General knowledge about Jmeter 
+ 
+➢ EDUCATION 
+PHUONG DONG University <OCT 2011 – MAY 2015> 
+Major: Software Engineering 
+GPA: 2.53 
+Graduated: B – Good 
+Program: Information Technology 
+ 
+➢ ACTIVITIES 
+GAMELOFT <June 2015 – March 2017> 
+Position: Member 
+Received, performed task and improve self-skill. 
+FPT Software <March 2017 - Present> 
+Position: Software tester 
+Planning, execute task and improve self-skill. 
+ 
+ 
+➢ CERTIFICATIONS 
+DNIIT Certification (Diploma in Information Technology) <June 2015> 
+Foundations of Business Strategy <Apr 2020> 
+ 
+➢ HONORS & AWARDS 
+Top 8 of Gameloft SEA QA challenge 2015 <NOV 2015> 
+Top 8 of Gameloft SEA QA Challenge 2016 <SEP 2016> 
+2 Times won best officer title on 2 PI <2017> 
+ 

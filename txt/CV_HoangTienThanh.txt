@@ -1,0 +1,80 @@
+
+Xem CV Online của HOANG TIEN THANH
+HOANG TIEN
+THANH
+Fresher Backend (NodeJS)
+Thu Duc, TP.HCM, Vietnam
+hoangtienthanh1999@gmail.com
+0367662607
+Sep 2017
+
+Present
+HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY AND TECHNOLOGY
+Major: Software Technology
+Current GPA: 7.07/10
+Sep 2020
+
+Jan 2021
+WEBSITE TOURIST BOOKING
+Programmer
+Main responsibilities:
+- Build a travel website including tour guides and customers who register
+for a trip
+Recognition and Gains:
+- Know how to build a complete website using MEAN Stack
+Link github:
+https://github.com/thanhht99/TLCN_BlogShareTravel
+ Feb 2020
+
+Jun 2020
+DESIGN WEB BANKING ONLINE
+Programmer
+Main responsibilities:
+- Analysis and design of the system - Code to Calculate Deposit Interest
+and revenue statistics - Optimization of code - Error correction
+Recognition and Gains:
+- Know how to build a complete website with NodeJS combined with
+simple html and css
+Link product:
+http://ec2002-04.herokuapp.com/
+May 2020
+
+Jun 2020
+DESIGN APP FOODY
+Programmer
+Main responsibilities:
+- System design and analysis - Code - Code optimization - Error correction
+Recognition and Gains: 
+- Know how to build a app android.
+Link github: 
+https://github.com/hoangtienthanh267/Foody-android
+EDUCATION
+PROJECT
+INTRODUCE
+I am a 4 year student, studying at Ho
+Chi Minh City University of Technical
+Education. And I did through Web
+Online Banking design project
+through E-Commerce. I also did my
+specialty essay on the tour booking
+website. All projects I have done use
+NODEJS. Now I want to apply for the
+fresher backend position. 
+*Here are my 2 github links: 
+https://github.com/thanhht99 
+https://github.com/hoangtienthanh267
+SKILLS
+Office
+Logical thinking and creative
+Public Speaking
+Speaking English
+Studious
+Dynamic
+INTERESTS
+Soccer
+Music
+Swimming
+Playing games
+Watching movies
+Traveling
+© topcv.vn

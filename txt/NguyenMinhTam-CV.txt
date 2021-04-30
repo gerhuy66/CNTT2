@@ -1,0 +1,67 @@
+
+ 
+Nguyễn Minh Tâm 
+     (11/11/1998) 
+ 
+Contact 
+Address: 
+2221/2/5 Huỳnh Tấn Phát Huyện Nhà 
+Bè 
+ 
+Phone: 
++84 917148457  
+ 
+Email: 
+tam26918@gmail.com 
+ 
+Github: 
+https://github.com/minhtam12356 
+Languages 
+Viet Nam 
+English (Technical English) 
+CV online- details 
+https://cv-nguyenminhtam.web.app/ 
+ 
+FRESHER WEB DEVELOPER 
+Summary 
+Graduated from Ho Chi Minh City Open University, Faculty of 
+Information Technology. I want to have a stable job, become an 
+excellent employee, accumulate a lot of experience, skills to handle 
+effectively, accurately and quickly. Become Full-Stack Dev in the next 
+2-3 years.  
+Skills 
+ HTML, CSS, Javascript 
+ Git, Bootstrap 
+ MongoDB 
+ Nodejs 
+ Basic Expressjs 
+ Basic Reactjs 
+Product demo 
+- APPLY THE KNOWLEDGE LEARNED TO BUILD INTERFACE 
+Link demo: https://meetup-2a648.web.app/ 
+- APPLY THE KNOWLEDGE LEARNED:   
+HTML(PUG), CSS(BOOTSTRAP) 
+JAVASCIPT(NODEJS - EXPRESSJS)  
+DATABASE(MONGODB), RESTFUL API 
+- Link demo: https://app-test-heroku-demo.herokuapp.com/ 
+- APPLY THE KNOWLEDGE LEARNED:  
+HTML, CSS, JAVASCIPT(REACTJS, ES6), LOCALSTORAGE  
+- Link demo: https://todolist-demo-tamnguyen.web.app/ 
+- APPLY THE KNOWLEDGE LEARNED:  
+HTML(PUG), CSS(BOOTSTRAP) 
+JAVASCIPT(NODEJS – EXPRESSJS - SOCKET.IO)  
+- Link demo: https://chat-socketio-tamnguyen.herokuapp.com/ 
+Education 
+Open University HCM – 2016-2020 
+Certifications 
+Bachelor Degree Management Information Systems: Open University 
+HCM – 2016-2020. 
+Helpdesk Certificate in CMC TSSG. 
+ 
+mailto:tam26918@gmail.com
+https://github.com/minhtam12356
+https://cv-nguyenminhtam.web.app/
+https://meetup-2a648.web.app/
+https://app-test-heroku-demo.herokuapp.com/
+https://todolist-demo-tamnguyen.web.app/
+https://chat-socketio-tamnguyen.herokuapp.com/

@@ -1,0 +1,106 @@
+
+Cuong Anh Minh Nguyen
+Suong Nguyet Anh Street, District 1, Ho Chi Minh City, 700000, Vietnam
+093 113 2317  ·  wormscott12397@gmail.com
+Portfolio, GitHub, 
+Facebook, Linkedln
+Date of birth
+08-08-1997
+Skills
+English
+Self-learning
+Problem Solving
+Adaptability
+Teamwork
+Communication
+Time management
+Python
+Profile
+I have learnt Python, based on the personal projects I did, I have little 
+experience in building and hosting a website, doing some Python scripts to 
+play guessing game, automated browser and scrapping data to sort . Right 
+now, I am self-learning some basic fundamentals like data structures and 
+algorithms and doing some projects with my friends. I have interested in Cloud 
+computing and DevOps. My goal is to earn an internship or fresher position in any 
+Python-relevant, cloud computing or DevOps positions.
+Education
+Zero To Mastery Academy
+January 2021 — Present
+Self-learning from online courses to pick up IT skills for my future career.
+Bachelor of Engineering - BE, Electrical and Electronics Engineering, 
+Macquarie University, Sydney
+July 2017 — November 2020
+I learnt a lot of skills such as self-studying, problem-solving, time management 
+,social working and teamwork experience.
+Projects
+Portfolio Website
+January 2021 — Present
+•  Instructed by ZTM course.
+• Objectives: create a portfolio website for recruiter to view including a flashy 
+introduction with jumping text, works, about me, contact info to actually 
+send message to me.
+• Technology used: Python Flask. HTML.
+• Library used: csv, flask, render_template, request, redirect.
+• Responsibilities:
+- Contents like texts, info, images.
+- GitHub basic commands: git Push, git clone, git commit -m""
+- Pythonanywhere to host 1 free website.
+- Create a database to store info from recruiters or fans.
+• Links
+Automated Browser
+March 2021
+•  Instructed by ZTM course.
+•  Objectives: automated open the chromebrowser, control the browser using 
+Chrome driver, automated the input inside the text box, automated the 
+button and clicked button.
+mailto:wormscott12397@gmail.com
+http://anhminhbo.pythonanywhere.com/
+https://github.com/anhminhbo/portfo
+https://www.facebook.com/anh.minh.739326
+https://www.linkedin.com/in/cuong-anh-minh-nguyen/
+http://anhminhbo.pythonanywhere.com/
+• Technology used: Python Selenium.
+•  Library used: webdriver.
+• Responsibilities:
+- Automated Input text from Python script.
+- Automated clicked the button to show message.
+• Links
+Hacker New
+February 2021
+• Instructed by ZTM course.
+•  Objectives: output sorted news from Hacker News website based on the 
+votes from the highest to lowest to see which new has the highest vote from 
+the community.
+•  Technology used: Python.
+•  Library used: requests, BeautifulSoup, pprint.
+•  Responsibilities:
+- Output 2 pages of news instead of 1.
+- Organize the output to look nice and neat to view.
+- Sorted the new based on the votes.
+• Links
+Random game
+January 2021
+• Instructed by ZTM course.
+• Objectives: Random game is a python script for user to input range of 
+numbers, for example: 1 and 100 to start guessing between 1-100. If you 
+right, you get special reward 
+•  Technology used: Python.
+•  Library used: sys, random, unittest.
+•  Responsibility:
+- Get input from the cmd line,
+- Raise error if the user input wrong info('int' but input a 'string').
+- Unittest case.
+• Links
+Licenses & certifications
+International English Language Testing System - Cambridge 
+Assessment English
+March 2016 — March 2018
+Completed Python Developer in 2021: Zero to Mastery - Zero To Mastery 
+Academy
+2021
+Learning to Learn (Efficient Learning): Zero to Mastery Blueprint - Zero 
+To Mastery
+2021
+https://github.com/anhminhbo/AutomationBrowser
+https://github.com/anhminhbo/HackerNewProject
+https://github.com/anhminhbo/randomgame

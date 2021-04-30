@@ -1,0 +1,60 @@
+
+Xem CV Online của Le Trung Hai
+I'm studying at FPT Polytechnic College, majoring in
+website design at CyberSoft specializing in Front-end.
+I'm looking for a Front-end Developer position where I
+can use my learned knowledge.
+Technical skills
+- HTML5/CSS3
+- Javascript/ES6
+- SASS/SCSS
+- Bootstrap 4
+- Axios
+- Git
+Researching
+- Reactjs
+- Redux
+- Redux Thunk
+- Redux Saga
+Soft skills
+- Communication
+- Researching
+- Teamwork
+FPT-Polytechnic (11/2017 > Present)
+Specialized: Web Developer
+CyberSoft (07/2020 > Present)
+Specialized: Front-End
+Layout Udemy (8/2020 > 8/2020)
+Front-end Developer
+Description:
+- Link github: https://github.com/hailee994/udemy-layout
+- Link Demo: https://udemy-layout.web.app/
+Main responsibilities:
+- Interface analysis
+- Code, build home page layout Udemy
+Technologies:
+- Bootstrap 4
+- SASS/SCSS
+- Some libraries jQuery
+E-Learn (07/12/2020 > 12/12/2020)
+Front-end Developer
+Description
+- Link github: https://gitlab.com/hailee994/datghexemphim
+- Link demo: https://dizzy-laborer.surge.sh/
+Main responsibilities:
+- Interface analysis
+- Code, build home page, list course, user page
+- Connect Api
+Technologies:
+- Reactjs
+- Bootstrap 4
+- Redux/Redux-Saga
+Le Trung Hai
+Front-End Web Developer
+17/01/1994 Male
+0968115710 letrunghai170194@gmail.com
+Ho Chi Minh City, Vietnam
+ABOUT
+REFERENCES
+EDUCATION
+EXPERIENCE

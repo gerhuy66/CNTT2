@@ -1,0 +1,51 @@
+
+Xem CV Online của DOAN TRUONG GIA BAO
+DOAN TRUONG GIA BAO
+Java Intern
+ 23/05/1998
+ Male
+ 0968703308
+ baodtg2358@gmail.com
+ 70/27 To Ky street, district 12
+ https://github.com/baodtg2358
+OBJECTIVE
+Short-term: 
+- Listening, learning to develop,
+improving myself more about
+professional skills, soft skill in Back-
+end developer
+Long-tern:
+- Become master Java developer
+SOFT SKILLS
+English
+Self-study
+Communication
+Research English documentation
+FPT POLYTECHNIC MAY 2019 - JUNE 2021
+BUILD MANAGEMENT_RESTAURANT APPLICATION BY JAVA SWING
+BUILD A BASIC RESTFUL API BY JAVA SPRINGBOOT
+BUILD MANAGEMENT APPLICATION BY JAVA SPRING AND MORE
+ALL PROJECT
+JOIN MILITARY SERVICE AT MILITARY ZONE 7 COMMAND MAY 2016 - DECEMBER
+2018
+  EDUCATION
+Major: Software application
+Average of Major: 8.0
+ SOME PROJECT
+https://github.com/baodtg2358/Management-Restaurant
+Some features in project: Check QR code, send mail, login, authorization (admin & user)
+https://github.com/baodtg2358/RestfulAPI
+https://github.com/baodtg2358/Management_Application
+Using: Spring security, thymleaf, JPA
+Some features in project: login, send email, CRUD, Commendation and discipline
+https://github.com/baodtg2358
+ MY SKILLS
+Java Core
+Java Spring
+HTML5 & CSS3 
+Basic JS
+Basic SQL Server
+Basic Test Cases Design
+ ACTIVITIES
+National guard soldier
+© topcv.vn
